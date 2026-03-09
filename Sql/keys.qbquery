@@ -1,0 +1,88 @@
+﻿SELECT * FROM ocms.admin a;
+show databases;
+use ocms;
+
+alter table admin
+ADD Email VARCHAR(100);
+
+select * from admin;
+INSERT INTO Admin (ADMINID,USERNAME,PASSWORD,EMAIL)
+VALUES (82, 'COMPPLAINTADMIN123', 'ADMIN1188','admin@123.com');
+
+SELECT * FROM companyregistration c;
+ALTER TABLE COMPANYREGISTRATION
+drop column cid;
+
+
+INSERT INTO Companyregistration(CName,ZIPCODE,COUNTRY,STATE,CEMAIL,PASSWORD,CDescription,CELL)
+VALUES
+('Green Energy Inc','73301', 'USA', 'Texas', 'info@greenenrgy.com', 'greeegy87', 'A company focused on renewable energy solutions.', '987654320'),
+('HealthTech Co.','02108', 'USA', 'Massachusetts', 'support@healthtech.com', 'hashe345', 'Innovative healthcare technology and services.','916790123'),
+('Amazon','678987','INDIA','TELANGANA','AMAZON123@PRODUCTS.COM','AMAZON8822','WE PROVIDE HUGE PRODUCTS WITH GOOD QUALITY','91886267');
+
+SELECT * FROM complaint c;
+
+CREATE TABLE Complaints (
+    ComplaintID INT PRIMARY KEY,
+    CompanyName VARCHAR(100) NOT NULL,
+    Category VARCHAR(50) NOT NULL,
+    UserID INT NOT NULL,
+    Date  VARCHAR(10),
+    ComplaintDetails VARCHAR(200)
+);
+
+
+INSERT INTO Complaints (ComplaintID,CompanyName, Category, UserID, Date, ComplaintDetails)
+VALUES
+ (1238,'TechCorp', 'Billing', 1, '2024-06-01', 'Incorrect billing amount for the month of May.'),
+ (5678,'SmartHome Inc.', 'Service', 2, '2024-06-05', 'Delayed installation of smart home devices.'),
+ (1298,'Amazon', 'Product', 3, '2024-06-10', 'Received a defective bad product'),
+ (9812,'EduOnline', 'Billing', 4, '2024-06-12', 'Charged for a course I did not enroll in.');
+SELECT * FROM userregistration u;
+select *from Complaints ;
+insert into userregistration(FNAME,LNAME,EMAIL,PASSWORD,GENDER,MOBILENO)
+VALUES
+('kerlo', 'Doe', 'john.doe@.com', 'JOHN123', 'Male', '1234567890'),
+('manthi', 'Smith', 'jane.@.com', 'securepass', 'Female', '234567901'),
+('Alice', 'karnik', 'alice.johnson@.com', 'alicepass', 'Female', '345679012'),
+('Bob', 'chinku', 'chinku@chinku.com', 'secure', 'Male', '456780123'),
+('chira', 'Davis', 'davis@chira.com', 'eve843', 'Female', '567890134');
+select * from userregistration;
+ALTER TABLE USERREGISTRATION
+ADD USERID INT(5);
+INSERT INTO USERREGISTRATION(USERID)VALUES(1);
+INSERT INTO USERREGISTRATION(USERID)VALUES(2);
+INSERT INTO USERREGISTRATION(USERID)VALUES(3);
+INSERT INTO USERREGISTRATION(USERID)VALUES(4);
+INSERT INTO USERREGISTRATION(USERID)VALUES(5);
+
+
+SELECT DISTINCT userid
+FROM USERregistration;
+
+SELECT * FROM UserRegistration
+WHERE Fname = 'bob' AND gender = 'Male';
+
+SELECT * FROM UserRegistration
+WHERE Fname LIKE 'K%' OR Fname LIKE 'B%';
+
+
+SELECT Fname FROM UserRegistration
+WHERE Fname LIKE 'A%';
+
+SELECT Fname FROM UserRegistration order by Fname;
+
+SELECT fname FROM UserRegistration
+UNION
+SELECT USERID FROM complaints;
+
+SELECT Lname FROM UserRegistration
+GROUP BY Lname;
+
+SELECT Fname, COUNT(*) AS registration_count
+FROM UserRegistration
+GROUP BY Fname;
+
+SELECT Fname FROM UserRegistration
+INTERSECT
+SELECT USERID FROM complaints;
