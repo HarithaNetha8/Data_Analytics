@@ -1,0 +1,1501 @@
+Order_ID,Order_Date,Region,City,Category,Product,Quantity,Unit_Price,Discount_%,Final_Unit_Price,Total_Sales,Profit,Payment_Method,Customer_Age,Customer_Gender
+1,2024-10-07,South,Kolkata,Home & Kitchen,Cookware Set,1,4560.66,0,4560.66,4560.66,2130.56,Card,41,Female
+2,2024-01-31,West,Pune,Electronics,Smartwatch,4,1169.44,5,1110.97,4443.88,1158.08,UPI,54,Female
+3,2024-07-19,West,Hyderabad,Beauty,Body Lotion,3,2983.92,10,2685.53,8056.59,1844.01,Cash,51,Other
+4,2023-03-27,West,Kolkata,Sports,Yoga Mat,1,3742.43,15,3181.07,3181.07,1369.45,Card,37,Other
+5,2024-05-13,East,Hyderabad,Clothing,Jacket,5,3283.27,20,2626.62,13133.1,3293.9,Card,27,Male
+6,2023-04-17,West,Chennai,Grocery,Rice Bag,3,964.99,5,916.74,2750.22,1344.81,UPI,20,Male
+7,2024-09-07,South,Bangalore,Beauty,Perfume,5,383.43,0,383.43,1917.15,660.5,Card,37,Male
+8,2023-12-12,South,Chennai,Electronics,Smartphone,2,2672.65,10,2405.39,4810.78,1833.52,Cash,35,Other
+9,2024-08-28,North,Kolkata,Grocery,Cooking Oil,1,854.09,10,768.68,768.68,332.58,Wallet,42,Other
+10,2023-07-11,West,Hyderabad,Beauty,Makeup Kit,1,4485.12,20,3588.1,3588.1,1695.57,Card,58,Other
+11,2023-11-08,North,Bangalore,Grocery,Spices,3,1437.5,20,1150.0,3450.0,805.14,Card,42,Male
+12,2023-09-03,North,Kolkata,Sports,Dumbbells,2,4324.43,0,4324.43,8648.86,3470.66,Wallet,42,Other
+13,2023-01-17,South,Hyderabad,Clothing,Jacket,5,3702.54,5,3517.41,17587.05,6638.5,Cash,32,Female
+14,2024-11-11,South,Mumbai,Grocery,Cooking Oil,3,3644.76,5,3462.52,10387.56,3534.06,Cash,54,Male
+15,2023-01-05,South,Pune,Electronics,Smartphone,4,636.4,15,540.94,2163.76,1032.48,Wallet,34,Male
+16,2024-09-04,North,Kolkata,Home & Kitchen,Bedsheet,2,2526.22,20,2020.98,4041.96,921.76,Wallet,20,Male
+17,2024-02-06,East,Delhi,Clothing,Jeans,2,2764.52,20,2211.62,4423.24,1857.28,Card,23,Male
+18,2023-07-21,West,Mumbai,Sports,Cricket Bat,3,4353.99,15,3700.89,11102.67,2718.21,Cash,58,Male
+19,2023-03-10,West,Pune,Beauty,Body Lotion,5,4201.37,0,4201.37,21006.85,4641.95,Card,53,Female
+20,2023-07-20,East,Chennai,Beauty,Makeup Kit,3,3788.31,20,3030.65,9091.95,2143.32,Wallet,48,Female
+21,2023-03-17,South,Chennai,Clothing,T-Shirt,2,731.46,10,658.31,1316.62,568.0,Wallet,56,Male
+22,2024-01-28,East,Chennai,Beauty,Body Lotion,2,4108.04,20,3286.43,6572.86,2285.78,Cash,56,Other
+23,2024-12-04,East,Kolkata,Home & Kitchen,Lamp,2,1506.49,10,1355.84,2711.68,557.64,Cash,34,Male
+24,2023-02-08,North,Hyderabad,Beauty,Perfume,2,3206.63,20,2565.3,5130.6,1364.98,Wallet,23,Female
+25,2024-08-26,South,Bangalore,Grocery,Spices,3,3829.04,5,3637.59,10912.77,4041.3,Wallet,51,Female
+26,2024-06-30,West,Delhi,Electronics,Smartwatch,4,3199.85,20,2559.88,10239.52,4804.88,Cash,21,Male
+27,2023-10-27,East,Pune,Home & Kitchen,Lamp,4,3470.64,5,3297.11,13188.44,2846.2,Card,34,Female
+28,2024-05-27,East,Hyderabad,Clothing,T-Shirt,4,430.02,5,408.52,1634.08,584.88,Wallet,39,Male
+29,2024-05-27,South,Hyderabad,Sports,Dumbbells,2,466.0,5,442.7,885.4,211.2,UPI,46,Female
+30,2024-10-18,North,Bangalore,Beauty,Perfume,4,3773.29,10,3395.96,13583.84,4369.68,UPI,29,Female
+31,2023-01-04,South,Pune,Beauty,Perfume,5,208.41,10,187.57,937.85,397.9,UPI,40,Female
+32,2024-01-21,North,Kolkata,Electronics,Laptop,2,878.8,5,834.86,1669.72,335.38,Wallet,34,Male
+33,2023-04-23,West,Chennai,Sports,Dumbbells,3,2311.8,20,1849.44,5548.32,1619.52,Wallet,49,Male
+34,2024-01-06,East,Bangalore,Home & Kitchen,Bedsheet,2,3886.83,15,3303.81,6607.62,2006.38,Cash,44,Other
+35,2024-12-27,North,Kolkata,Sports,Football,3,4759.23,15,4045.35,12136.05,5954.07,UPI,46,Female
+36,2024-11-19,North,Kolkata,Beauty,Makeup Kit,5,4556.67,20,3645.34,18226.7,5621.9,Cash,23,Other
+37,2023-05-26,West,Bangalore,Sports,Dumbbells,3,1443.65,10,1299.29,3897.87,1584.15,Cash,55,Male
+38,2024-08-12,East,Chennai,Clothing,Kurta,2,1144.21,0,1144.21,2288.42,696.82,Card,29,Other
+39,2024-10-09,West,Bangalore,Electronics,Smartwatch,2,4335.36,10,3901.82,7803.64,1635.2,Cash,42,Male
+40,2023-01-16,West,Pune,Electronics,Speaker,1,546.71,10,492.04,492.04,121.32,Cash,24,Male
+41,2024-05-17,South,Bangalore,Beauty,Perfume,3,4004.31,15,3403.66,10210.98,5005.86,Cash,20,Female
+42,2023-05-27,West,Mumbai,Sports,Shoes,4,4003.03,0,4003.03,16012.12,8000.16,UPI,24,Male
+43,2024-08-04,West,Mumbai,Grocery,Spices,1,3075.8,15,2614.43,2614.43,969.71,Cash,55,Female
+44,2024-04-15,East,Hyderabad,Electronics,Smartphone,1,888.04,20,710.43,710.43,297.88,Wallet,41,Male
+45,2023-02-06,East,Bangalore,Clothing,Kurta,3,4923.32,0,4923.32,14769.96,7333.5,Card,35,Female
+46,2023-06-08,East,Hyderabad,Sports,Shoes,2,2451.7,10,2206.53,4413.06,1286.44,UPI,50,Other
+47,2023-10-01,North,Delhi,Clothing,Kurta,4,3921.27,10,3529.14,14116.56,5023.36,Cash,41,Male
+48,2024-05-16,East,Mumbai,Electronics,Laptop,1,1286.02,0,1286.02,1286.02,422.75,UPI,32,Male
+49,2023-05-17,North,Kolkata,Clothing,Saree,4,3542.08,5,3364.98,13459.92,3597.28,Card,50,Other
+50,2023-02-09,North,Kolkata,Beauty,Makeup Kit,2,2717.79,0,2717.79,5435.58,2146.04,UPI,50,Male
+51,2024-08-10,West,Chennai,Beauty,Perfume,5,485.03,5,460.78,2303.9,476.35,Card,43,Male
+52,2024-02-22,South,Kolkata,Clothing,Jacket,2,4022.87,5,3821.73,7643.46,3727.3,UPI,57,Male
+53,2023-06-22,West,Mumbai,Grocery,Rice Bag,3,708.68,10,637.81,1913.43,938.58,Cash,23,Female
+54,2023-04-09,East,Hyderabad,Clothing,T-Shirt,1,354.66,0,354.66,354.66,101.89,Wallet,25,Other
+55,2024-12-29,South,Kolkata,Grocery,Rice Bag,2,3163.99,15,2689.39,5378.78,2141.64,Wallet,24,Male
+56,2023-02-12,West,Hyderabad,Grocery,Snacks,3,4484.6,15,3811.91,11435.73,3668.1,Cash,39,Other
+57,2024-09-29,East,Delhi,Grocery,Snacks,2,2456.43,0,2456.43,4912.86,2214.72,Wallet,31,Male
+58,2023-05-21,East,Bangalore,Grocery,Spices,3,3651.65,15,3103.9,9311.7,3965.55,UPI,30,Other
+59,2023-10-23,West,Chennai,Electronics,Speaker,1,4371.74,5,4153.15,4153.15,1666.64,Cash,53,Female
+60,2024-04-03,South,Pune,Grocery,Cooking Oil,5,992.38,20,793.9,3969.5,1200.35,Card,35,Other
+61,2023-08-17,West,Hyderabad,Electronics,Laptop,2,3300.99,20,2640.79,5281.58,1062.12,Card,58,Female
+62,2023-04-22,North,Kolkata,Sports,Shoes,3,3286.6,5,3122.27,9366.81,3550.23,UPI,46,Male
+63,2024-04-15,East,Delhi,Sports,Football,1,4218.22,0,4218.22,4218.22,1010.34,Wallet,48,Female
+64,2024-04-13,South,Kolkata,Sports,Shoes,2,3739.26,15,3178.37,6356.74,1979.3,Cash,45,Other
+65,2023-10-06,North,Chennai,Beauty,Makeup Kit,4,3861.85,15,3282.57,13130.28,6407.16,Wallet,49,Male
+66,2024-12-17,East,Mumbai,Electronics,Headphones,1,2249.22,20,1799.38,1799.38,686.19,Cash,53,Other
+67,2024-06-05,South,Hyderabad,Sports,Dumbbells,2,3028.85,15,2574.52,5149.04,1923.08,Cash,59,Other
+68,2024-12-02,North,Delhi,Clothing,Kurta,3,3002.52,20,2402.02,7206.06,3147.63,UPI,35,Male
+69,2024-06-17,East,Chennai,Home & Kitchen,Bedsheet,5,3692.25,10,3323.02,16615.1,4439.55,Card,53,Other
+70,2023-04-16,East,Mumbai,Electronics,Speaker,2,1263.96,5,1200.76,2401.52,1070.38,Wallet,22,Male
+71,2024-10-20,South,Delhi,Grocery,Milk Pack,5,2242.11,15,1905.79,9528.95,3606.65,Wallet,31,Male
+72,2024-02-14,West,Pune,Clothing,Jacket,1,3346.84,0,3346.84,3346.84,1280.75,Card,45,Female
+73,2024-12-27,East,Bangalore,Clothing,Saree,2,4304.13,20,3443.3,6886.6,2771.46,Card,57,Other
+74,2024-02-01,West,Delhi,Beauty,Face Cream,4,741.28,20,593.02,2372.08,1017.36,Cash,48,Female
+75,2024-10-09,South,Delhi,Beauty,Makeup Kit,3,4430.18,5,4208.67,12626.01,4613.13,UPI,29,Female
+76,2023-11-30,South,Mumbai,Sports,Cricket Bat,1,2211.35,15,1879.65,1879.65,608.32,Card,29,Male
+77,2023-01-28,East,Delhi,Home & Kitchen,Mixer,1,1337.39,15,1136.78,1136.78,439.02,Cash,54,Other
+78,2024-05-14,South,Pune,Grocery,Snacks,5,2714.21,0,2714.21,13571.05,3348.65,Card,45,Other
+79,2023-03-23,East,Mumbai,Electronics,Smartwatch,4,2745.54,15,2333.71,9334.84,3912.0,Card,19,Other
+80,2023-10-23,West,Pune,Beauty,Body Lotion,1,2702.73,15,2297.32,2297.32,1113.03,Card,18,Other
+81,2024-02-26,West,Delhi,Beauty,Perfume,3,2315.78,20,1852.62,5557.86,2631.27,UPI,50,Female
+82,2023-08-31,West,Bangalore,Beauty,Perfume,1,2964.89,15,2520.16,2520.16,1147.93,Cash,41,Other
+83,2024-03-30,North,Hyderabad,Beauty,Shampoo,3,124.21,5,118.0,354.0,142.68,Card,46,Male
+84,2023-02-13,East,Pune,Sports,Yoga Mat,1,2942.55,10,2648.3,2648.3,935.77,UPI,55,Male
+85,2024-02-20,West,Mumbai,Grocery,Rice Bag,4,716.13,20,572.9,2291.6,1047.12,Wallet,59,Other
+86,2024-09-07,West,Mumbai,Clothing,Kurta,4,3399.82,5,3229.83,12919.32,5729.64,Card,25,Female
+87,2023-11-02,South,Kolkata,Clothing,Kurta,5,2274.38,20,1819.5,9097.5,1919.55,Cash,51,Other
+88,2023-01-23,North,Chennai,Electronics,Smartphone,1,4206.76,5,3996.42,3996.42,1549.46,Card,47,Male
+89,2023-10-10,West,Bangalore,Electronics,Smartphone,2,1296.32,5,1231.5,2463.0,589.46,Cash,57,Other
+90,2023-05-08,North,Delhi,Sports,Shoes,1,248.9,0,248.9,248.9,72.96,Cash,50,Other
+91,2024-08-31,East,Pune,Home & Kitchen,Storage Box,1,1156.81,20,925.45,925.45,277.55,UPI,58,Female
+92,2023-10-16,West,Bangalore,Sports,Shoes,2,1808.01,5,1717.61,3435.22,687.64,UPI,23,Female
+93,2023-09-30,North,Pune,Home & Kitchen,Lamp,1,4345.55,0,4345.55,4345.55,1037.6,UPI,26,Male
+94,2023-07-15,North,Kolkata,Sports,Shoes,5,2878.38,0,2878.38,14391.9,6724.85,Card,51,Female
+95,2023-09-21,South,Pune,Home & Kitchen,Cookware Set,5,3849.44,15,3272.02,16360.1,4903.5,Cash,23,Female
+96,2023-01-15,North,Chennai,Clothing,Jeans,2,3835.2,0,3835.2,7670.4,3105.3,Card,28,Other
+97,2024-06-05,West,Kolkata,Electronics,Laptop,1,689.02,0,689.02,689.02,276.63,Wallet,18,Other
+98,2024-03-24,East,Hyderabad,Sports,Cricket Bat,4,3088.18,20,2470.54,9882.16,3813.28,Wallet,46,Female
+99,2023-01-02,East,Hyderabad,Sports,Cricket Bat,1,3022.78,0,3022.78,3022.78,1108.38,Wallet,55,Other
+100,2024-10-22,South,Hyderabad,Sports,Yoga Mat,2,2976.6,5,2827.77,5655.54,1539.42,UPI,26,Male
+101,2024-08-29,East,Chennai,Grocery,Milk Pack,3,2757.58,5,2619.7,7859.1,2799.78,Wallet,46,Female
+102,2023-12-29,East,Delhi,Beauty,Shampoo,2,633.7,20,506.96,1013.92,385.64,UPI,54,Female
+103,2024-04-29,West,Bangalore,Sports,Shoes,4,2435.81,10,2192.23,8768.92,2372.28,Wallet,23,Female
+104,2024-02-15,North,Chennai,Grocery,Milk Pack,2,3605.91,10,3245.32,6490.64,3209.82,UPI,40,Other
+105,2023-02-23,North,Delhi,Sports,Dumbbells,3,137.06,20,109.65,328.95,75.84,Cash,42,Male
+106,2024-03-25,West,Bangalore,Home & Kitchen,Bedsheet,4,4642.47,15,3946.1,15784.4,3467.36,UPI,39,Other
+107,2024-01-21,East,Hyderabad,Beauty,Shampoo,3,596.96,20,477.57,1432.71,451.02,Wallet,44,Female
+108,2023-08-17,South,Pune,Grocery,Rice Bag,5,4034.83,10,3631.35,18156.75,5914.0,Cash,59,Male
+109,2023-11-20,North,Bangalore,Clothing,Jeans,4,3616.42,5,3435.6,13742.4,5747.24,UPI,21,Other
+110,2024-10-23,West,Kolkata,Beauty,Face Cream,2,697.24,10,627.52,1255.04,581.12,Cash,27,Female
+111,2024-10-18,West,Pune,Clothing,Saree,5,1004.47,0,1004.47,5022.35,1656.4,Card,59,Female
+112,2023-05-26,East,Pune,Grocery,Cooking Oil,4,2180.18,0,2180.18,8720.72,3383.16,Wallet,59,Male
+113,2024-01-31,South,Mumbai,Clothing,Saree,3,112.66,20,90.13,270.39,63.48,Wallet,26,Male
+114,2023-07-13,West,Bangalore,Sports,Dumbbells,2,1139.02,5,1082.07,2164.14,968.6,Cash,59,Other
+115,2023-08-16,West,Hyderabad,Clothing,Kurta,1,1260.67,20,1008.54,1008.54,412.88,Cash,41,Female
+116,2024-04-11,West,Kolkata,Home & Kitchen,Mixer,3,4270.75,5,4057.21,12171.63,3129.84,Cash,36,Female
+117,2023-05-29,North,Chennai,Beauty,Makeup Kit,4,833.55,5,791.87,3167.48,1438.36,Wallet,52,Male
+118,2023-06-22,West,Delhi,Beauty,Face Cream,4,4327.71,20,3462.17,13848.68,6526.68,Cash,54,Other
+119,2024-01-31,South,Bangalore,Electronics,Speaker,3,3074.76,10,2767.28,8301.84,3573.24,Card,31,Female
+120,2023-05-31,East,Delhi,Clothing,Jeans,5,3012.93,0,3012.93,15064.65,3068.15,Cash,52,Female
+121,2024-04-28,North,Bangalore,Electronics,Smartphone,5,3411.62,5,3241.04,16205.2,6020.9,Card,56,Female
+122,2023-01-05,East,Hyderabad,Sports,Cricket Bat,1,3492.94,15,2969.0,2969.0,755.28,Wallet,21,Male
+123,2023-04-23,East,Delhi,Home & Kitchen,Mixer,2,1752.41,20,1401.93,2803.86,1335.12,Cash,57,Female
+124,2024-08-26,West,Chennai,Beauty,Body Lotion,5,4481.54,10,4033.39,20166.95,7656.25,Cash,50,Other
+125,2023-06-08,South,Delhi,Beauty,Shampoo,3,1783.45,15,1515.93,4547.79,1670.31,Wallet,19,Other
+126,2024-10-16,East,Mumbai,Grocery,Spices,4,4021.75,10,3619.58,14478.32,4458.6,Cash,25,Male
+127,2023-03-19,South,Delhi,Sports,Cricket Bat,2,3432.65,15,2917.75,5835.5,2349.96,Card,20,Male
+128,2023-01-01,South,Bangalore,Home & Kitchen,Mixer,2,4971.28,5,4722.72,9445.44,3694.26,UPI,52,Other
+129,2024-01-21,West,Kolkata,Sports,Dumbbells,2,2287.13,15,1944.06,3888.12,1873.9,Wallet,53,Male
+130,2024-03-16,South,Pune,Clothing,T-Shirt,5,958.98,0,958.98,4794.9,2152.2,Wallet,59,Male
+131,2024-09-08,South,Pune,Home & Kitchen,Storage Box,1,4126.85,15,3507.82,3507.82,1388.14,Wallet,29,Female
+132,2024-05-07,South,Kolkata,Electronics,Smartphone,4,2426.94,20,1941.55,7766.2,3603.92,Cash,57,Other
+133,2024-04-20,South,Pune,Clothing,Jeans,5,3712.18,15,3155.35,15776.75,6735.15,Wallet,47,Other
+134,2023-12-08,West,Bangalore,Sports,Yoga Mat,5,555.35,5,527.58,2637.9,695.45,UPI,49,Male
+135,2024-09-04,East,Chennai,Sports,Football,1,3081.58,15,2619.34,2619.34,695.15,UPI,51,Male
+136,2024-05-11,West,Kolkata,Clothing,Saree,5,277.19,0,277.19,1385.95,598.45,Cash,19,Male
+137,2024-11-19,North,Hyderabad,Electronics,Headphones,1,529.45,10,476.51,476.51,204.08,Cash,18,Male
+138,2024-10-08,North,Mumbai,Grocery,Cooking Oil,3,4143.9,5,3936.7,11810.1,3777.12,UPI,23,Other
+139,2023-12-29,South,Mumbai,Clothing,Kurta,3,3952.75,15,3359.84,10079.52,2465.16,Cash,59,Other
+140,2023-05-17,South,Pune,Beauty,Body Lotion,4,4659.92,5,4426.92,17707.68,5986.6,UPI,52,Other
+141,2023-05-08,South,Delhi,Clothing,Kurta,2,4353.48,10,3918.13,7836.26,2060.86,Wallet,31,Male
+142,2023-05-06,West,Chennai,Beauty,Perfume,1,1680.39,10,1512.35,1512.35,677.45,UPI,19,Female
+143,2024-01-26,East,Bangalore,Clothing,T-Shirt,3,1795.89,15,1526.51,4579.53,1502.49,Cash,27,Other
+144,2024-11-30,North,Chennai,Sports,Cricket Bat,1,2918.3,20,2334.64,2334.64,563.57,Card,53,Female
+145,2023-05-25,West,Bangalore,Grocery,Milk Pack,1,3070.64,20,2456.51,2456.51,994.25,UPI,52,Female
+146,2024-11-27,West,Hyderabad,Grocery,Cooking Oil,1,4143.48,20,3314.78,3314.78,1291.9,Wallet,25,Female
+147,2023-11-10,North,Pune,Home & Kitchen,Cookware Set,5,226.48,0,226.48,1132.4,487.2,UPI,29,Male
+148,2023-06-14,West,Hyderabad,Sports,Football,4,1627.9,15,1383.72,5534.88,2037.64,Card,23,Other
+149,2024-05-25,South,Pune,Electronics,Smartphone,5,186.67,5,177.34,886.7,270.4,Card,36,Male
+150,2023-12-31,North,Mumbai,Sports,Shoes,3,2865.76,5,2722.47,8167.41,2957.1,Wallet,19,Male
+151,2023-09-02,West,Pune,Electronics,Smartphone,3,3795.84,0,3795.84,11387.52,4223.61,Cash,26,Other
+152,2023-07-14,South,Kolkata,Grocery,Milk Pack,3,465.69,15,395.84,1187.52,485.73,Wallet,24,Other
+153,2024-06-25,East,Hyderabad,Electronics,Laptop,4,3128.45,15,2659.18,10636.72,2137.88,Cash,34,Female
+154,2023-11-12,West,Bangalore,Sports,Shoes,5,3114.58,15,2647.39,13236.95,5928.5,UPI,53,Other
+155,2024-02-12,East,Bangalore,Electronics,Smartphone,4,4255.28,5,4042.52,16170.08,7450.96,Card,52,Male
+156,2024-01-21,West,Delhi,Sports,Dumbbells,3,2129.24,20,1703.39,5110.17,1961.67,Cash,22,Other
+157,2024-02-15,North,Chennai,Beauty,Makeup Kit,2,755.64,20,604.51,1209.02,597.54,Wallet,32,Male
+158,2023-12-15,South,Hyderabad,Home & Kitchen,Storage Box,5,3825.42,5,3634.15,18170.75,8051.3,Wallet,22,Male
+159,2023-04-16,North,Chennai,Grocery,Cooking Oil,1,1685.15,5,1600.89,1600.89,684.6,Card,38,Male
+160,2024-01-12,North,Hyderabad,Home & Kitchen,Mixer,5,4027.53,20,3222.02,16110.1,7849.0,UPI,34,Other
+161,2023-09-28,North,Kolkata,Sports,Dumbbells,3,1402.67,10,1262.4,3787.2,1377.36,Cash,43,Other
+162,2023-10-15,West,Bangalore,Sports,Football,4,4336.84,15,3686.31,14745.24,4489.72,Wallet,52,Male
+163,2024-07-01,West,Chennai,Sports,Dumbbells,1,3109.0,20,2487.2,2487.2,900.78,Wallet,38,Female
+164,2023-05-11,West,Kolkata,Beauty,Face Cream,2,4471.21,0,4471.21,8942.42,4197.18,Card,26,Male
+165,2023-12-08,West,Chennai,Grocery,Snacks,1,3471.86,15,2951.08,2951.08,1407.89,Card,50,Male
+166,2024-05-30,East,Pune,Electronics,Headphones,2,4658.56,15,3959.78,7919.56,2103.82,Card,45,Other
+167,2024-01-21,South,Mumbai,Clothing,Jacket,3,2527.72,10,2274.95,6824.85,2490.81,UPI,32,Other
+168,2024-03-02,North,Hyderabad,Home & Kitchen,Bedsheet,1,426.59,20,341.27,341.27,155.26,Card,49,Female
+169,2024-04-21,North,Bangalore,Beauty,Perfume,4,2609.89,20,2087.91,8351.64,4056.0,Card,25,Male
+170,2024-04-17,North,Mumbai,Grocery,Snacks,1,3756.42,0,3756.42,3756.42,1796.98,UPI,41,Female
+171,2024-07-20,North,Delhi,Beauty,Shampoo,3,159.33,20,127.46,382.38,132.84,UPI,57,Other
+172,2024-05-16,South,Mumbai,Electronics,Headphones,2,2363.54,15,2009.01,4018.02,1587.48,Cash,32,Female
+173,2023-12-25,West,Mumbai,Home & Kitchen,Storage Box,3,3340.72,15,2839.61,8518.83,3352.56,Cash,22,Female
+174,2024-06-21,South,Kolkata,Beauty,Face Cream,5,3335.48,5,3168.71,15843.55,7822.2,Cash,49,Other
+175,2024-09-25,East,Pune,Home & Kitchen,Cookware Set,4,4504.61,0,4504.61,18018.44,3733.48,Card,32,Other
+176,2023-08-19,West,Chennai,Home & Kitchen,Lamp,2,151.1,15,128.44,256.88,81.04,UPI,31,Female
+177,2024-06-01,East,Hyderabad,Sports,Dumbbells,1,3255.13,5,3092.37,3092.37,1102.5,UPI,27,Female
+178,2023-09-06,West,Chennai,Clothing,Jeans,5,713.64,10,642.28,3211.4,661.6,Card,30,Other
+179,2023-12-12,North,Delhi,Sports,Shoes,5,4609.46,15,3918.04,19590.2,8874.55,Wallet,27,Female
+180,2023-10-10,West,Delhi,Home & Kitchen,Bedsheet,1,4647.61,0,4647.61,4647.61,1804.9,Wallet,31,Other
+181,2023-06-25,South,Pune,Sports,Shoes,4,2004.4,5,1904.18,7616.72,1653.4,UPI,47,Female
+182,2024-01-09,South,Mumbai,Home & Kitchen,Bedsheet,4,695.36,10,625.82,2503.28,585.56,Card,38,Female
+183,2023-12-15,South,Mumbai,Clothing,Jeans,3,3390.13,0,3390.13,10170.39,4296.69,Wallet,35,Male
+184,2024-09-30,East,Bangalore,Grocery,Cooking Oil,5,3799.71,20,3039.77,15198.85,3138.25,UPI,57,Male
+185,2024-09-15,East,Mumbai,Electronics,Laptop,4,363.91,10,327.52,1310.08,549.2,UPI,45,Female
+186,2023-11-26,South,Pune,Grocery,Cooking Oil,5,3666.94,5,3483.59,17417.95,8020.65,Cash,32,Male
+187,2024-10-14,South,Kolkata,Electronics,Laptop,4,4107.15,10,3696.44,14785.76,6724.52,Wallet,30,Female
+188,2024-11-07,West,Mumbai,Electronics,Smartphone,3,3815.11,0,3815.11,11445.33,3977.16,UPI,36,Female
+189,2023-02-17,East,Delhi,Home & Kitchen,Storage Box,5,559.41,15,475.5,2377.5,734.9,Wallet,54,Female
+190,2023-01-25,East,Chennai,Home & Kitchen,Bedsheet,2,2834.41,0,2834.41,5668.82,1573.02,Wallet,20,Female
+191,2024-09-25,West,Chennai,Home & Kitchen,Bedsheet,1,1461.72,10,1315.55,1315.55,499.32,Card,59,Male
+192,2023-07-27,East,Chennai,Grocery,Spices,2,1099.77,5,1044.78,2089.56,579.42,Wallet,56,Other
+193,2023-02-25,South,Kolkata,Home & Kitchen,Lamp,3,1021.32,0,1021.32,3063.96,1187.04,Wallet,26,Female
+194,2023-03-29,West,Pune,Electronics,Laptop,4,2668.38,5,2534.96,10139.84,2755.04,Card,29,Female
+195,2023-10-29,South,Delhi,Grocery,Cooking Oil,1,154.05,0,154.05,154.05,32.75,Card,37,Other
+196,2024-05-17,East,Bangalore,Sports,Football,3,3805.7,10,3425.13,10275.39,2066.37,Cash,21,Other
+197,2023-02-13,West,Hyderabad,Clothing,T-Shirt,5,3252.49,5,3089.87,15449.35,3617.35,Wallet,52,Female
+198,2024-08-14,West,Bangalore,Home & Kitchen,Mixer,2,2018.48,20,1614.78,3229.56,1612.96,UPI,56,Female
+199,2024-10-07,East,Bangalore,Clothing,T-Shirt,5,242.45,15,206.08,1030.4,459.15,Cash,37,Male
+200,2023-03-22,North,Kolkata,Electronics,Laptop,1,2982.19,15,2534.86,2534.86,879.51,Wallet,20,Male
+201,2023-10-05,North,Delhi,Sports,Dumbbells,5,2941.92,15,2500.63,12503.15,4148.55,UPI,41,Male
+202,2024-11-29,East,Delhi,Home & Kitchen,Lamp,2,3036.91,10,2733.22,5466.44,2290.74,UPI,36,Female
+203,2024-06-20,West,Kolkata,Clothing,Jeans,1,3218.8,10,2896.92,2896.92,1397.57,Card,29,Female
+204,2024-03-04,South,Mumbai,Electronics,Laptop,2,3567.64,15,3032.49,6064.98,2091.32,UPI,53,Female
+205,2024-09-04,West,Hyderabad,Home & Kitchen,Lamp,1,2226.69,5,2115.36,2115.36,821.97,Cash,45,Male
+206,2024-05-08,North,Pune,Beauty,Perfume,3,3856.28,0,3856.28,11568.84,2545.92,Cash,50,Other
+207,2023-11-19,West,Delhi,Clothing,T-Shirt,1,3224.01,15,2740.41,2740.41,724.3,Cash,44,Male
+208,2024-04-04,West,Pune,Electronics,Laptop,4,1980.78,0,1980.78,7923.12,1702.72,Wallet,22,Other
+209,2023-06-24,East,Kolkata,Sports,Yoga Mat,1,2871.19,5,2727.63,2727.63,1090.09,Cash,30,Female
+210,2024-09-11,South,Mumbai,Home & Kitchen,Storage Box,3,218.54,20,174.83,524.49,152.46,Card,36,Female
+211,2023-03-10,West,Bangalore,Home & Kitchen,Bedsheet,2,4278.37,5,4064.45,8128.9,1936.14,Cash,46,Other
+212,2023-02-08,East,Bangalore,Home & Kitchen,Bedsheet,5,2456.44,20,1965.15,9825.75,3562.25,Card,22,Female
+213,2023-04-26,South,Pune,Clothing,Kurta,4,754.05,15,640.94,2563.76,1243.56,Card,56,Female
+214,2023-06-19,East,Hyderabad,Electronics,Laptop,2,4556.01,0,4556.01,9112.02,4536.8,Card,58,Male
+215,2023-06-02,South,Chennai,Beauty,Face Cream,4,743.61,0,743.61,2974.44,816.76,Card,41,Female
+216,2024-07-27,South,Kolkata,Electronics,Smartwatch,1,4787.41,15,4069.3,4069.3,1980.21,Cash,39,Other
+217,2023-02-12,North,Delhi,Sports,Cricket Bat,4,1451.03,15,1233.38,4933.52,1301.76,Card,27,Other
+218,2023-05-06,West,Delhi,Clothing,Saree,2,4239.47,15,3603.55,7207.1,3265.44,Wallet,53,Other
+219,2024-05-11,West,Chennai,Clothing,Jeans,3,407.0,5,386.65,1159.95,384.42,Wallet,38,Other
+220,2024-04-21,East,Pune,Home & Kitchen,Cookware Set,4,1644.43,10,1479.99,5919.96,2343.12,Wallet,32,Male
+221,2023-12-08,East,Mumbai,Electronics,Headphones,2,3689.0,10,3320.1,6640.2,1400.96,UPI,32,Other
+222,2024-12-23,South,Mumbai,Electronics,Speaker,5,356.06,15,302.65,1513.25,399.0,UPI,31,Other
+223,2024-12-23,South,Bangalore,Grocery,Spices,1,2522.96,20,2018.37,2018.37,853.85,UPI,20,Female
+224,2023-06-11,West,Mumbai,Clothing,Jacket,2,1036.83,0,1036.83,2073.66,748.22,UPI,42,Male
+225,2023-03-16,North,Delhi,Home & Kitchen,Storage Box,5,3081.78,0,3081.78,15408.9,6858.45,Card,50,Other
+226,2024-11-03,South,Bangalore,Electronics,Headphones,2,3628.04,5,3446.64,6893.28,3262.92,Wallet,39,Male
+227,2024-12-27,East,Pune,Clothing,Saree,1,2664.62,20,2131.7,2131.7,920.42,Cash,45,Other
+228,2023-10-07,East,Chennai,Electronics,Laptop,2,2758.47,0,2758.47,5516.94,1858.86,Wallet,23,Male
+229,2024-12-01,West,Delhi,Home & Kitchen,Mixer,2,2475.01,20,1980.01,3960.02,1812.54,Cash,39,Male
+230,2024-06-29,West,Kolkata,Electronics,Laptop,1,3378.21,5,3209.3,3209.3,774.74,Wallet,56,Female
+231,2023-11-10,South,Hyderabad,Beauty,Makeup Kit,4,405.14,15,344.37,1377.48,541.64,Cash,52,Male
+232,2024-06-08,South,Mumbai,Home & Kitchen,Storage Box,3,3952.76,20,3162.21,9486.63,4274.55,Card,21,Other
+233,2023-01-23,North,Hyderabad,Grocery,Cooking Oil,4,2644.99,20,2115.99,8463.96,2557.04,UPI,45,Other
+234,2023-04-13,South,Hyderabad,Clothing,Jeans,3,4738.53,5,4501.6,13504.8,3710.85,Cash,19,Other
+235,2023-08-17,West,Mumbai,Grocery,Milk Pack,1,561.34,10,505.21,505.21,114.8,Wallet,50,Male
+236,2023-02-02,West,Kolkata,Electronics,Headphones,2,2539.28,15,2158.39,4316.78,1573.42,Card,36,Other
+237,2024-10-25,West,Kolkata,Clothing,Saree,5,4825.94,15,4102.05,20510.25,7035.05,UPI,41,Female
+238,2024-04-12,East,Kolkata,Electronics,Speaker,4,3984.99,15,3387.24,13548.96,5650.84,Wallet,25,Male
+239,2023-06-27,East,Chennai,Home & Kitchen,Mixer,1,2040.26,5,1938.25,1938.25,877.28,Card,37,Other
+240,2024-11-12,East,Kolkata,Beauty,Perfume,4,913.57,10,822.21,3288.84,1286.16,Wallet,44,Other
+241,2023-08-19,South,Hyderabad,Clothing,Saree,2,927.39,0,927.39,1854.78,594.58,Card,25,Other
+242,2023-06-03,West,Mumbai,Sports,Shoes,5,3689.91,10,3320.92,16604.6,6742.3,UPI,47,Female
+243,2024-01-20,East,Chennai,Electronics,Smartphone,3,4423.84,15,3760.26,11280.78,3136.98,Wallet,33,Other
+244,2023-04-07,West,Kolkata,Grocery,Milk Pack,1,2147.03,20,1717.62,1717.62,514.64,UPI,30,Male
+245,2023-09-25,West,Kolkata,Electronics,Headphones,2,913.18,5,867.52,1735.04,645.0,UPI,44,Other
+246,2024-09-04,East,Delhi,Clothing,Kurta,5,2842.8,0,2842.8,14214.0,6981.8,Card,37,Female
+247,2023-02-16,West,Chennai,Beauty,Shampoo,2,1127.79,20,902.23,1804.46,375.26,UPI,45,Male
+248,2024-12-10,West,Kolkata,Home & Kitchen,Cookware Set,5,1552.8,5,1475.16,7375.8,3442.85,UPI,28,Female
+249,2024-10-25,South,Delhi,Grocery,Spices,2,4126.02,15,3507.12,7014.24,2846.26,UPI,41,Female
+250,2023-03-16,East,Delhi,Grocery,Snacks,2,4114.35,15,3497.2,6994.4,2793.82,Wallet,43,Female
+251,2023-05-17,North,Bangalore,Electronics,Smartphone,5,653.42,5,620.75,3103.75,1458.15,Wallet,38,Female
+252,2023-08-17,East,Hyderabad,Beauty,Body Lotion,3,795.66,0,795.66,2386.98,663.81,Card,35,Other
+253,2024-03-25,East,Bangalore,Clothing,Kurta,2,3107.51,0,3107.51,6215.02,1538.62,Cash,28,Other
+254,2024-03-25,East,Hyderabad,Sports,Dumbbells,3,3207.3,15,2726.2,8178.6,2275.38,Cash,51,Male
+255,2023-01-03,North,Delhi,Beauty,Shampoo,2,1643.11,15,1396.64,2793.28,825.42,UPI,23,Female
+256,2024-11-20,West,Mumbai,Sports,Football,1,3310.88,0,3310.88,3310.88,824.04,UPI,40,Female
+257,2024-10-25,South,Bangalore,Beauty,Shampoo,3,3501.34,0,3501.34,10504.02,4572.84,Wallet,32,Other
+258,2023-04-16,North,Pune,Electronics,Smartwatch,5,262.63,20,210.1,1050.5,396.55,Wallet,31,Male
+259,2023-03-03,North,Pune,Grocery,Cooking Oil,4,4368.9,0,4368.9,17475.6,4604.24,Wallet,30,Female
+260,2023-12-16,West,Bangalore,Grocery,Milk Pack,2,3288.77,10,2959.89,5919.78,2959.56,Wallet,44,Other
+261,2024-12-09,North,Kolkata,Home & Kitchen,Bedsheet,2,2290.57,15,1946.98,3893.96,1501.18,Cash,52,Male
+262,2023-09-04,South,Delhi,Grocery,Cooking Oil,3,4886.32,10,4397.69,13193.07,4924.11,Card,42,Other
+263,2024-10-21,South,Bangalore,Sports,Football,2,4834.59,0,4834.59,9669.18,3986.94,Card,20,Female
+264,2023-09-10,West,Kolkata,Beauty,Makeup Kit,2,3526.65,15,2997.65,5995.3,2965.26,Wallet,24,Female
+265,2023-03-31,North,Delhi,Clothing,Jeans,1,1593.28,0,1593.28,1593.28,662.08,Cash,31,Male
+266,2023-12-08,West,Bangalore,Grocery,Rice Bag,5,2749.42,0,2749.42,13747.1,5875.95,Card,50,Male
+267,2023-10-05,North,Bangalore,Electronics,Smartwatch,4,1576.2,10,1418.58,5674.32,2710.8,Cash,58,Other
+268,2024-12-11,North,Pune,Clothing,Saree,3,3678.21,0,3678.21,11034.63,5357.94,Card,21,Female
+269,2024-08-26,South,Pune,Grocery,Cooking Oil,4,4276.09,0,4276.09,17104.36,6856.76,Card,39,Female
+270,2024-09-25,West,Chennai,Clothing,Saree,1,4946.24,20,3956.99,3956.99,983.53,Card,47,Female
+271,2023-01-29,South,Chennai,Grocery,Milk Pack,4,2955.75,5,2807.96,11231.84,3684.0,Wallet,38,Male
+272,2024-10-01,South,Hyderabad,Electronics,Speaker,5,1336.31,20,1069.05,5345.25,1712.1,UPI,50,Other
+273,2024-11-20,West,Bangalore,Home & Kitchen,Cookware Set,5,559.9,20,447.92,2239.6,1097.85,Cash,52,Other
+274,2023-10-12,North,Kolkata,Sports,Shoes,1,416.97,0,416.97,416.97,205.34,UPI,40,Female
+275,2023-02-27,East,Kolkata,Electronics,Smartwatch,4,4562.32,0,4562.32,18249.28,7258.76,Card,46,Male
+276,2023-09-25,East,Mumbai,Electronics,Laptop,5,3193.41,15,2714.4,13572.0,3574.3,UPI,21,Male
+277,2024-12-10,East,Bangalore,Electronics,Headphones,4,610.7,15,519.1,2076.4,734.44,Cash,39,Other
+278,2024-09-06,South,Delhi,Sports,Football,4,4757.6,5,4519.72,18078.88,6474.6,Card,58,Male
+279,2023-05-19,South,Hyderabad,Sports,Yoga Mat,1,1417.9,0,1417.9,1417.9,707.71,Card,29,Female
+280,2023-12-29,West,Kolkata,Grocery,Snacks,2,4546.16,10,4091.54,8183.08,3411.98,Cash,18,Female
+281,2023-11-27,North,Kolkata,Home & Kitchen,Lamp,1,1723.6,0,1723.6,1723.6,539.91,Wallet,31,Male
+282,2023-10-09,South,Hyderabad,Grocery,Snacks,3,2292.59,15,1948.7,5846.1,2560.02,Card,30,Male
+283,2024-06-01,West,Bangalore,Grocery,Snacks,5,126.98,0,126.98,634.9,275.7,UPI,37,Female
+284,2024-03-10,South,Delhi,Sports,Cricket Bat,4,1496.05,20,1196.84,4787.36,1763.84,UPI,59,Male
+285,2023-07-05,West,Pune,Clothing,Saree,3,317.5,0,317.5,952.5,362.79,Cash,54,Male
+286,2023-12-07,West,Mumbai,Beauty,Shampoo,1,3123.63,20,2498.9,2498.9,990.65,UPI,56,Male
+287,2024-06-30,East,Hyderabad,Grocery,Rice Bag,1,245.37,10,220.83,220.83,107.44,Cash,28,Female
+288,2023-07-01,North,Delhi,Grocery,Milk Pack,5,4654.19,20,3723.35,18616.75,7104.65,Card,36,Male
+289,2024-12-10,North,Chennai,Beauty,Body Lotion,4,4423.07,20,3538.46,14153.84,4045.04,Wallet,29,Male
+290,2023-09-09,North,Chennai,Electronics,Speaker,5,1615.93,20,1292.74,6463.7,1838.75,Card,45,Male
+291,2024-07-12,South,Bangalore,Sports,Football,2,3634.83,0,3634.83,7269.66,2246.9,Card,40,Female
+292,2023-08-08,North,Chennai,Electronics,Headphones,5,4164.98,0,4164.98,20824.9,6640.25,UPI,35,Male
+293,2023-12-25,West,Pune,Electronics,Speaker,2,660.99,0,660.99,1321.98,480.04,Wallet,35,Other
+294,2023-02-27,East,Mumbai,Sports,Shoes,5,693.02,15,589.07,2945.35,987.05,Wallet,50,Other
+295,2024-03-17,North,Chennai,Beauty,Makeup Kit,4,492.88,0,492.88,1971.52,428.76,Card,46,Male
+296,2023-01-07,East,Bangalore,Home & Kitchen,Lamp,1,3267.61,10,2940.85,2940.85,946.66,Card,27,Female
+297,2024-12-12,South,Kolkata,Electronics,Headphones,2,780.47,0,780.47,1560.94,493.62,Cash,45,Male
+298,2023-10-16,West,Delhi,Sports,Football,3,3647.47,10,3282.72,9848.16,2734.89,Cash,46,Male
+299,2024-02-24,West,Pune,Clothing,Saree,3,2716.44,5,2580.62,7741.86,3843.75,Card,29,Male
+300,2023-12-26,West,Chennai,Beauty,Body Lotion,3,2299.38,20,1839.5,5518.5,2098.08,Wallet,54,Female
+301,2023-04-22,West,Mumbai,Home & Kitchen,Storage Box,5,4059.31,0,4059.31,20296.55,5708.35,Wallet,55,Female
+302,2024-03-21,North,Kolkata,Beauty,Makeup Kit,4,1998.22,10,1798.4,7193.6,2668.96,Wallet,52,Female
+303,2024-11-22,North,Mumbai,Clothing,Jacket,5,1449.37,20,1159.5,5797.5,1399.95,Card,47,Female
+304,2023-01-28,East,Pune,Electronics,Laptop,4,1208.77,10,1087.89,4351.56,1588.16,Card,32,Male
+305,2023-05-21,South,Chennai,Sports,Football,1,2211.83,10,1990.65,1990.65,647.64,Wallet,53,Other
+306,2024-04-15,North,Kolkata,Clothing,Jeans,4,3473.18,5,3299.52,13198.08,5938.36,UPI,54,Female
+307,2024-08-18,East,Bangalore,Home & Kitchen,Cookware Set,4,319.41,0,319.41,1277.64,506.24,UPI,37,Male
+308,2023-10-06,North,Delhi,Sports,Shoes,3,224.69,15,190.99,572.97,221.34,Card,52,Other
+309,2023-05-26,West,Chennai,Grocery,Rice Bag,3,1990.79,10,1791.71,5375.13,2027.01,UPI,55,Other
+310,2023-08-06,North,Hyderabad,Sports,Dumbbells,5,2702.32,15,2296.97,11484.85,3743.3,Card,55,Male
+311,2023-05-21,South,Mumbai,Sports,Dumbbells,1,615.77,0,615.77,615.77,281.92,Wallet,22,Male
+312,2023-04-09,East,Delhi,Beauty,Makeup Kit,3,2706.37,20,2165.1,6495.3,2499.0,UPI,44,Male
+313,2024-11-12,West,Pune,Grocery,Snacks,3,2001.14,5,1901.08,5703.24,2175.03,UPI,23,Other
+314,2024-10-27,East,Mumbai,Clothing,Kurta,3,820.6,20,656.48,1969.44,813.81,Wallet,54,Other
+315,2023-02-09,West,Bangalore,Clothing,Jacket,2,669.08,5,635.63,1271.26,492.68,UPI,52,Other
+316,2024-07-17,North,Bangalore,Home & Kitchen,Bedsheet,4,4974.8,0,4974.8,19899.2,4075.28,UPI,30,Male
+317,2024-04-29,East,Delhi,Sports,Football,3,4809.56,15,4088.13,12264.39,6018.36,Cash,49,Male
+318,2023-01-15,South,Pune,Electronics,Smartwatch,4,4902.53,0,4902.53,19610.12,6547.56,UPI,51,Other
+319,2023-01-02,North,Kolkata,Home & Kitchen,Cookware Set,5,3833.32,10,3449.99,17249.95,4285.5,Card,20,Female
+320,2024-07-12,South,Hyderabad,Clothing,Kurta,2,4151.39,20,3321.11,6642.22,2933.28,UPI,38,Other
+321,2023-02-20,North,Bangalore,Grocery,Cooking Oil,4,1251.68,10,1126.51,4506.04,1499.12,Wallet,18,Other
+322,2024-09-07,South,Kolkata,Grocery,Rice Bag,4,2956.62,20,2365.3,9461.2,3470.24,Card,51,Female
+323,2023-12-08,East,Kolkata,Clothing,Kurta,3,1115.81,20,892.65,2677.95,540.54,Card,35,Female
+324,2024-12-01,North,Chennai,Grocery,Milk Pack,1,3983.35,10,3585.02,3585.02,1576.0,Cash,38,Other
+325,2024-01-26,East,Pune,Electronics,Smartwatch,4,4277.53,20,3422.02,13688.08,4614.16,Cash,36,Other
+326,2023-02-23,North,Mumbai,Sports,Cricket Bat,3,4556.33,10,4100.7,12302.1,4846.56,Card,29,Male
+327,2023-10-12,North,Bangalore,Grocery,Milk Pack,5,3754.71,15,3191.5,15957.5,7702.35,Wallet,37,Male
+328,2023-10-04,South,Bangalore,Sports,Cricket Bat,1,4397.74,15,3738.08,3738.08,781.7,UPI,36,Male
+329,2023-03-04,South,Delhi,Electronics,Speaker,2,4906.84,15,4170.81,8341.62,2282.38,UPI,23,Male
+330,2024-04-05,South,Mumbai,Beauty,Perfume,2,2507.95,10,2257.15,4514.3,1981.92,Cash,41,Female
+331,2023-05-29,South,Mumbai,Electronics,Laptop,3,2605.25,0,2605.25,7815.75,3058.47,Cash,34,Female
+332,2023-03-02,West,Chennai,Sports,Yoga Mat,3,4482.82,10,4034.54,12103.62,4571.85,UPI,21,Male
+333,2024-01-28,East,Chennai,Clothing,T-Shirt,5,2434.77,0,2434.77,12173.85,5869.75,Cash,34,Other
+334,2024-09-04,North,Hyderabad,Sports,Shoes,1,4250.15,10,3825.14,3825.14,1554.65,UPI,20,Female
+335,2024-09-25,West,Bangalore,Home & Kitchen,Bedsheet,3,250.87,20,200.7,602.1,133.71,UPI,33,Male
+336,2024-03-30,South,Delhi,Clothing,Jeans,2,2436.53,20,1949.22,3898.44,1913.5,UPI,20,Other
+337,2023-07-09,East,Chennai,Sports,Cricket Bat,2,758.73,20,606.98,1213.96,476.34,Card,19,Male
+338,2023-03-02,North,Pune,Grocery,Rice Bag,1,1465.92,0,1465.92,1465.92,384.04,Cash,52,Male
+339,2023-01-01,South,Mumbai,Home & Kitchen,Bedsheet,3,1083.19,5,1029.03,3087.09,776.28,Wallet,24,Other
+340,2024-11-15,South,Hyderabad,Beauty,Shampoo,3,3715.56,0,3715.56,11146.68,3456.9,Cash,32,Male
+341,2023-06-01,North,Pune,Clothing,Jeans,5,127.76,20,102.21,511.05,129.5,UPI,26,Other
+342,2023-09-18,South,Mumbai,Home & Kitchen,Cookware Set,1,4245.02,5,4032.77,4032.77,1890.07,UPI,40,Female
+343,2024-01-11,North,Mumbai,Clothing,Jeans,1,3643.43,15,3096.92,3096.92,1170.23,Cash,55,Female
+344,2024-10-15,East,Mumbai,Electronics,Speaker,3,1809.22,10,1628.3,4884.9,1516.14,Wallet,30,Female
+345,2023-01-17,North,Delhi,Home & Kitchen,Bedsheet,5,3519.01,20,2815.21,14076.05,3004.75,Cash,55,Other
+346,2024-02-15,East,Mumbai,Sports,Yoga Mat,2,476.62,5,452.79,905.58,236.94,UPI,33,Female
+347,2024-01-28,West,Mumbai,Beauty,Shampoo,4,811.46,5,770.89,3083.56,1169.08,Cash,48,Other
+348,2024-12-10,North,Chennai,Sports,Yoga Mat,4,4330.66,10,3897.59,15590.36,4037.2,Card,31,Female
+349,2023-11-19,North,Mumbai,Beauty,Body Lotion,3,207.93,20,166.34,499.02,123.42,Wallet,34,Male
+350,2024-07-07,North,Delhi,Grocery,Rice Bag,1,1174.44,20,939.55,939.55,299.67,UPI,36,Female
+351,2024-09-01,East,Mumbai,Home & Kitchen,Lamp,1,3822.1,0,3822.1,3822.1,1085.72,UPI,49,Female
+352,2023-12-10,East,Mumbai,Electronics,Smartwatch,2,2970.74,15,2525.13,5050.26,1559.88,Card,31,Other
+353,2023-09-27,South,Kolkata,Home & Kitchen,Bedsheet,2,3598.37,15,3058.61,6117.22,2502.2,Wallet,32,Male
+354,2023-05-21,East,Pune,Clothing,T-Shirt,4,800.09,5,760.09,3040.36,1154.0,UPI,48,Female
+355,2024-10-20,West,Pune,Clothing,Jeans,2,755.76,5,717.97,1435.94,407.06,Wallet,58,Male
+356,2024-05-26,West,Pune,Home & Kitchen,Lamp,4,2071.99,0,2071.99,8287.96,4143.64,Wallet,46,Female
+357,2023-03-06,North,Bangalore,Clothing,Kurta,2,3603.69,0,3603.69,7207.38,3468.14,Wallet,25,Female
+358,2024-03-10,East,Pune,Home & Kitchen,Lamp,1,1767.82,15,1502.65,1502.65,417.33,Wallet,46,Male
+359,2024-10-19,West,Pune,Electronics,Laptop,4,599.27,0,599.27,2397.08,1105.12,Wallet,26,Male
+360,2024-11-22,North,Hyderabad,Beauty,Perfume,3,4346.09,15,3694.18,11082.54,2918.25,Cash,32,Male
+361,2024-04-18,South,Kolkata,Clothing,Saree,3,2225.71,0,2225.71,6677.13,2582.76,Wallet,29,Male
+362,2023-08-12,North,Mumbai,Sports,Yoga Mat,3,537.52,5,510.64,1531.92,746.52,UPI,46,Other
+363,2023-11-04,East,Delhi,Home & Kitchen,Bedsheet,1,4657.84,0,4657.84,4657.84,1345.38,Card,27,Male
+364,2023-12-08,South,Mumbai,Beauty,Face Cream,5,3593.93,20,2875.14,14375.7,6399.45,Card,41,Other
+365,2024-07-09,East,Delhi,Beauty,Perfume,4,735.04,15,624.78,2499.12,722.84,Wallet,47,Male
+366,2024-09-30,North,Hyderabad,Electronics,Headphones,1,616.29,10,554.66,554.66,171.78,Card,54,Other
+367,2024-07-09,East,Mumbai,Sports,Dumbbells,2,613.56,15,521.53,1043.06,250.6,Wallet,52,Female
+368,2023-07-09,West,Kolkata,Electronics,Laptop,2,3208.68,10,2887.81,5775.62,2247.04,Card,24,Male
+369,2024-12-01,West,Chennai,Home & Kitchen,Mixer,1,1011.51,20,809.21,809.21,205.01,UPI,48,Male
+370,2024-05-16,East,Pune,Sports,Shoes,2,1138.77,0,1138.77,2277.54,544.5,Card,39,Male
+371,2023-10-08,East,Delhi,Grocery,Cooking Oil,1,4001.58,20,3201.26,3201.26,1566.12,Card,26,Female
+372,2024-05-07,West,Hyderabad,Electronics,Smartwatch,4,3719.13,15,3161.26,12645.04,2625.4,Wallet,38,Other
+373,2024-04-21,West,Pune,Electronics,Smartphone,4,3594.71,0,3594.71,14378.84,3349.36,Cash,52,Female
+374,2024-05-25,East,Mumbai,Beauty,Makeup Kit,5,384.65,5,365.42,1827.1,615.45,Wallet,27,Male
+375,2023-11-23,West,Hyderabad,Clothing,Jacket,5,1957.56,5,1859.68,9298.4,4595.3,Card,53,Female
+376,2023-11-01,North,Hyderabad,Clothing,Kurta,2,253.97,10,228.57,457.14,173.12,UPI,34,Other
+377,2023-05-10,South,Pune,Clothing,Saree,4,3016.15,20,2412.92,9651.68,3482.04,Card,53,Male
+378,2024-10-01,West,Kolkata,Sports,Cricket Bat,2,2643.26,0,2643.26,5286.52,2148.66,Cash,45,Other
+379,2024-04-20,West,Kolkata,Clothing,Saree,1,2654.35,5,2521.63,2521.63,612.41,UPI,59,Male
+380,2023-02-08,North,Bangalore,Home & Kitchen,Cookware Set,3,1974.64,0,1974.64,5923.92,2748.33,Wallet,23,Female
+381,2024-06-09,East,Delhi,Clothing,Jacket,5,1774.84,5,1686.1,8430.5,3650.6,UPI,29,Male
+382,2023-10-09,North,Delhi,Clothing,Jeans,3,3348.74,20,2678.99,8036.97,1669.62,Wallet,26,Male
+383,2023-10-29,West,Bangalore,Electronics,Laptop,3,4165.84,0,4165.84,12497.52,5157.18,Cash,39,Other
+384,2024-05-27,West,Pune,Sports,Cricket Bat,3,1584.29,10,1425.86,4277.58,1227.48,Card,46,Other
+385,2024-05-12,East,Pune,Sports,Dumbbells,2,3056.13,20,2444.9,4889.8,1348.44,Wallet,40,Male
+386,2024-11-14,West,Hyderabad,Grocery,Cooking Oil,4,383.44,5,364.27,1457.08,295.68,Wallet,22,Other
+387,2024-06-21,North,Pune,Electronics,Smartphone,4,2767.96,15,2352.77,9411.08,2512.04,UPI,34,Other
+388,2023-01-07,North,Pune,Home & Kitchen,Storage Box,3,3655.57,5,3472.79,10418.37,2408.49,UPI,42,Female
+389,2023-08-13,East,Chennai,Grocery,Spices,2,1644.22,10,1479.8,2959.6,1349.32,Wallet,25,Male
+390,2023-01-18,North,Hyderabad,Clothing,Jacket,4,2002.01,15,1701.71,6806.84,2090.76,Card,18,Female
+391,2024-05-25,South,Kolkata,Sports,Dumbbells,1,4742.24,15,4030.9,4030.9,1363.88,Card,48,Male
+392,2023-07-06,North,Chennai,Beauty,Face Cream,1,3481.0,5,3306.95,3306.95,1507.34,UPI,22,Other
+393,2024-05-20,North,Delhi,Home & Kitchen,Lamp,4,3191.52,10,2872.37,11489.48,5591.12,Cash,50,Male
+394,2023-12-31,South,Hyderabad,Clothing,Jacket,2,1579.39,5,1500.42,3000.84,1282.66,UPI,38,Male
+395,2023-01-28,West,Pune,Clothing,Jacket,5,3142.45,5,2985.33,14926.65,5014.5,UPI,30,Female
+396,2024-04-05,North,Delhi,Clothing,Jeans,3,912.17,20,729.74,2189.22,778.5,UPI,50,Other
+397,2024-09-19,North,Kolkata,Beauty,Makeup Kit,1,4907.84,20,3926.27,3926.27,1342.12,UPI,48,Female
+398,2024-11-30,East,Pune,Beauty,Makeup Kit,4,3329.66,0,3329.66,13318.64,5872.48,Cash,52,Female
+399,2024-03-01,East,Mumbai,Clothing,Jacket,4,4974.61,10,4477.15,17908.6,3683.04,Wallet,29,Female
+400,2023-02-28,West,Delhi,Beauty,Makeup Kit,3,2348.92,5,2231.47,6694.41,2155.14,UPI,55,Female
+401,2023-07-09,East,Pune,Home & Kitchen,Storage Box,2,4907.77,15,4171.6,8343.2,2095.66,Cash,46,Male
+402,2023-02-16,North,Chennai,Electronics,Smartwatch,3,1839.7,0,1839.7,5519.1,1169.82,Card,33,Female
+403,2023-03-31,North,Delhi,Beauty,Makeup Kit,2,4838.56,20,3870.85,7741.7,1886.92,Cash,47,Other
+404,2023-10-23,South,Mumbai,Grocery,Cooking Oil,4,1311.97,0,1311.97,5247.88,1902.52,Wallet,34,Female
+405,2024-11-30,South,Kolkata,Grocery,Milk Pack,3,4804.82,5,4564.58,13693.74,3676.92,UPI,39,Female
+406,2023-12-12,West,Kolkata,Clothing,T-Shirt,4,159.31,5,151.34,605.36,160.24,Wallet,45,Other
+407,2023-05-12,South,Hyderabad,Electronics,Headphones,4,1220.52,10,1098.47,4393.88,2136.24,UPI,59,Male
+408,2023-03-22,South,Bangalore,Home & Kitchen,Lamp,4,971.65,10,874.48,3497.92,1482.6,Cash,44,Female
+409,2023-11-26,North,Pune,Grocery,Milk Pack,1,2073.55,15,1762.52,1762.52,530.99,Wallet,27,Male
+410,2024-08-16,East,Chennai,Beauty,Makeup Kit,4,1515.54,10,1363.99,5455.96,1165.08,Cash,18,Female
+411,2024-05-26,North,Kolkata,Electronics,Smartphone,1,3828.94,0,3828.94,3828.94,1184.55,Card,37,Other
+412,2024-07-01,North,Hyderabad,Clothing,T-Shirt,5,259.83,10,233.85,1169.25,251.05,Cash,44,Male
+413,2024-05-30,East,Bangalore,Electronics,Laptop,2,1849.89,5,1757.4,3514.8,710.92,Card,46,Male
+414,2024-01-28,South,Chennai,Home & Kitchen,Cookware Set,4,2911.82,5,2766.23,11064.92,3352.8,Card,18,Other
+415,2023-12-04,West,Kolkata,Beauty,Shampoo,2,4399.04,15,3739.18,7478.36,3510.78,Cash,27,Male
+416,2024-03-11,North,Chennai,Grocery,Spices,3,1182.18,0,1182.18,3546.54,1529.94,Cash,18,Male
+417,2023-01-25,South,Delhi,Beauty,Face Cream,1,826.07,20,660.86,660.86,285.84,UPI,21,Other
+418,2023-04-19,North,Hyderabad,Electronics,Smartphone,5,3623.88,10,3261.49,16307.45,6062.3,Wallet,29,Other
+419,2024-03-30,North,Chennai,Sports,Dumbbells,2,4214.33,20,3371.46,6742.92,2657.28,Card,24,Other
+420,2024-08-10,South,Chennai,Clothing,Saree,2,4473.54,20,3578.83,7157.66,1940.2,Cash,40,Other
+421,2024-10-22,South,Chennai,Sports,Yoga Mat,2,4455.55,5,4232.77,8465.54,3712.96,Cash,46,Other
+422,2024-03-27,North,Delhi,Home & Kitchen,Cookware Set,1,1548.9,15,1316.56,1316.56,407.06,UPI,44,Male
+423,2023-10-10,South,Delhi,Grocery,Milk Pack,4,1546.68,10,1392.01,5568.04,1937.24,UPI,20,Male
+424,2023-10-12,East,Bangalore,Beauty,Makeup Kit,3,4195.55,20,3356.44,10069.32,2839.29,UPI,46,Other
+425,2024-03-27,South,Bangalore,Beauty,Shampoo,2,4141.46,5,3934.39,7868.78,1866.76,Card,40,Other
+426,2024-05-27,South,Delhi,Grocery,Rice Bag,5,1484.11,20,1187.29,5936.45,2901.3,UPI,58,Male
+427,2024-05-03,North,Kolkata,Electronics,Smartphone,1,2993.11,15,2544.14,2544.14,873.27,Card,54,Other
+428,2023-12-14,South,Hyderabad,Clothing,Jeans,1,4868.08,20,3894.46,3894.46,1592.12,Card,20,Male
+429,2023-02-24,West,Delhi,Electronics,Smartwatch,3,354.31,15,301.16,903.48,189.69,Card,55,Female
+430,2023-03-27,North,Chennai,Beauty,Makeup Kit,3,3348.93,0,3348.93,10046.79,2466.21,Cash,40,Female
+431,2023-03-28,South,Delhi,Electronics,Smartwatch,2,1584.36,20,1267.49,2534.98,725.54,Card,44,Male
+432,2023-03-16,South,Chennai,Clothing,T-Shirt,3,989.91,10,890.92,2672.76,534.93,Wallet,53,Male
+433,2023-01-17,West,Pune,Electronics,Smartwatch,5,2758.11,0,2758.11,13790.55,5320.3,UPI,48,Female
+434,2023-12-14,North,Chennai,Clothing,Jeans,2,3575.67,10,3218.1,6436.2,2698.66,UPI,26,Other
+435,2023-07-03,North,Kolkata,Electronics,Smartwatch,1,4765.89,5,4527.6,4527.6,1609.29,Cash,34,Other
+436,2024-02-01,West,Hyderabad,Grocery,Cooking Oil,4,4751.12,0,4751.12,19004.48,8761.4,UPI,54,Female
+437,2023-10-07,North,Bangalore,Clothing,Saree,1,2617.89,0,2617.89,2617.89,1173.79,Wallet,34,Other
+438,2023-04-23,North,Mumbai,Home & Kitchen,Bedsheet,1,2299.19,5,2184.23,2184.23,635.26,Cash,49,Male
+439,2024-06-08,West,Kolkata,Clothing,Saree,3,4037.24,5,3835.38,11506.14,3236.73,Cash,34,Male
+440,2023-11-14,West,Bangalore,Beauty,Makeup Kit,2,4054.65,20,3243.72,6487.44,2967.02,UPI,23,Female
+441,2024-04-13,West,Kolkata,Grocery,Rice Bag,4,4894.77,10,4405.29,17621.16,8182.16,Cash,29,Other
+442,2023-01-01,West,Bangalore,Grocery,Milk Pack,5,4740.74,0,4740.74,23703.7,9633.3,Wallet,43,Male
+443,2023-07-19,South,Chennai,Home & Kitchen,Cookware Set,4,3952.41,15,3359.55,13438.2,5169.6,Cash,36,Male
+444,2023-02-27,East,Delhi,Beauty,Face Cream,3,4211.09,5,4000.54,12001.62,3783.24,Card,51,Other
+445,2023-11-24,East,Kolkata,Beauty,Body Lotion,5,577.82,10,520.04,2600.2,909.2,Cash,23,Other
+446,2023-07-15,North,Kolkata,Grocery,Snacks,1,2718.02,10,2446.22,2446.22,907.84,Cash,22,Other
+447,2024-12-14,West,Kolkata,Electronics,Smartphone,3,2463.1,20,1970.48,5911.44,1250.55,Wallet,52,Female
+448,2024-11-12,North,Pune,Grocery,Snacks,3,2043.11,10,1838.8,5516.4,1302.96,Card,42,Other
+449,2023-01-20,North,Bangalore,Electronics,Smartwatch,4,3418.05,15,2905.34,11621.36,4799.48,Wallet,39,Female
+450,2023-12-04,North,Chennai,Beauty,Makeup Kit,3,2557.43,10,2301.69,6905.07,1690.32,Cash,36,Female
+451,2024-04-05,South,Mumbai,Electronics,Speaker,3,159.57,15,135.63,406.89,180.63,Cash,29,Other
+452,2024-01-21,South,Bangalore,Clothing,Jeans,5,1603.21,10,1442.89,7214.45,2716.25,Cash,23,Male
+453,2024-12-09,West,Hyderabad,Electronics,Speaker,1,2209.65,15,1878.2,1878.2,711.16,UPI,50,Other
+454,2024-02-14,South,Bangalore,Clothing,Saree,2,2220.56,10,1998.5,3997.0,1186.06,Wallet,19,Female
+455,2023-07-20,South,Kolkata,Beauty,Face Cream,4,4912.04,15,4175.23,16700.92,4986.16,Cash,32,Female
+456,2023-11-04,East,Delhi,Clothing,Jacket,3,3947.82,20,3158.26,9474.78,4449.24,Cash,46,Male
+457,2024-10-17,West,Hyderabad,Sports,Shoes,2,4712.23,0,4712.23,9424.46,1940.4,Card,43,Other
+458,2023-04-09,North,Hyderabad,Clothing,Kurta,5,4887.81,5,4643.42,23217.1,4847.65,Cash,22,Male
+459,2023-02-13,South,Chennai,Clothing,T-Shirt,4,2077.64,20,1662.11,6648.44,2945.64,Cash,37,Male
+460,2023-04-05,East,Mumbai,Clothing,Jeans,1,1101.76,0,1101.76,1101.76,419.46,Wallet,20,Female
+461,2024-10-31,North,Kolkata,Grocery,Snacks,2,2632.27,10,2369.04,4738.08,1987.34,UPI,41,Other
+462,2023-10-23,West,Hyderabad,Sports,Cricket Bat,2,3479.92,5,3305.92,6611.84,2108.58,Card,56,Other
+463,2023-04-29,West,Delhi,Sports,Yoga Mat,3,470.36,15,399.81,1199.43,492.75,Wallet,37,Other
+464,2023-12-29,North,Hyderabad,Grocery,Cooking Oil,4,2344.31,10,2109.88,8439.52,2577.84,Cash,47,Female
+465,2024-08-27,North,Delhi,Beauty,Makeup Kit,5,174.04,10,156.64,783.2,303.9,Wallet,44,Female
+466,2024-04-16,South,Pune,Beauty,Body Lotion,2,2308.36,0,2308.36,4616.72,1580.18,UPI,19,Female
+467,2024-12-30,North,Hyderabad,Beauty,Perfume,5,953.0,10,857.7,4288.5,2008.0,Cash,27,Other
+468,2023-10-06,West,Hyderabad,Grocery,Cooking Oil,5,4729.21,10,4256.29,21281.45,5003.3,Card,39,Female
+469,2023-06-20,West,Chennai,Electronics,Speaker,4,3535.58,0,3535.58,14142.32,6856.96,Cash,18,Female
+470,2024-05-14,East,Delhi,Clothing,Kurta,1,1989.51,0,1989.51,1989.51,671.27,Cash,36,Other
+471,2023-10-01,West,Bangalore,Sports,Shoes,1,1180.37,0,1180.37,1180.37,292.8,Wallet,59,Female
+472,2024-01-04,South,Pune,Clothing,Jeans,1,2540.4,10,2286.36,2286.36,845.78,Cash,52,Other
+473,2023-06-29,South,Chennai,Sports,Yoga Mat,4,3767.08,0,3767.08,15068.32,5572.16,Cash,32,Female
+474,2023-04-18,West,Hyderabad,Clothing,Kurta,4,2228.58,0,2228.58,8914.32,3284.8,Wallet,36,Female
+475,2023-02-08,North,Chennai,Home & Kitchen,Storage Box,4,3105.13,0,3105.13,12420.52,3711.2,UPI,37,Female
+476,2024-04-25,South,Kolkata,Clothing,Saree,5,547.82,0,547.82,2739.1,697.05,Cash,49,Other
+477,2023-05-24,West,Bangalore,Grocery,Snacks,4,167.35,0,167.35,669.4,291.64,Wallet,22,Female
+478,2023-01-15,South,Chennai,Grocery,Rice Bag,3,1313.04,10,1181.74,3545.22,1284.51,Cash,20,Female
+479,2023-08-24,North,Mumbai,Clothing,Kurta,2,3025.77,5,2874.48,5748.96,2232.56,UPI,27,Female
+480,2023-10-08,West,Kolkata,Grocery,Rice Bag,2,4044.94,10,3640.45,7280.9,2562.52,Card,30,Female
+481,2024-03-18,North,Pune,Sports,Football,3,3122.24,0,3122.24,9366.72,3971.43,Wallet,44,Female
+482,2024-09-29,East,Chennai,Beauty,Body Lotion,3,3876.64,0,3876.64,11629.92,2602.44,Cash,23,Other
+483,2024-06-09,East,Hyderabad,Electronics,Smartphone,3,2737.83,0,2737.83,8213.49,1974.87,Wallet,50,Male
+484,2023-05-11,South,Bangalore,Electronics,Headphones,5,3365.67,10,3029.1,15145.5,5508.35,Card,55,Male
+485,2023-09-10,West,Hyderabad,Clothing,T-Shirt,2,2547.22,5,2419.86,4839.72,1477.1,UPI,54,Other
+486,2024-12-30,North,Bangalore,Beauty,Body Lotion,4,2155.01,10,1939.51,7758.04,2485.28,UPI,30,Other
+487,2023-09-08,West,Mumbai,Electronics,Smartwatch,4,2992.14,20,2393.71,9574.84,3438.72,Card,41,Female
+488,2023-07-25,South,Mumbai,Beauty,Shampoo,4,1129.14,0,1129.14,4516.56,1222.48,Card,31,Male
+489,2023-02-20,East,Hyderabad,Home & Kitchen,Bedsheet,2,2103.01,20,1682.41,3364.82,1520.44,Card,22,Male
+490,2024-02-22,South,Pune,Grocery,Milk Pack,1,1009.67,20,807.74,807.74,222.91,Cash,20,Male
+491,2024-12-13,West,Delhi,Electronics,Headphones,5,4149.79,10,3734.81,18674.05,8718.35,Card,22,Female
+492,2023-08-27,South,Pune,Clothing,T-Shirt,1,1618.05,15,1375.34,1375.34,504.76,Cash,59,Female
+493,2023-05-15,South,Pune,Sports,Cricket Bat,1,1848.74,5,1756.3,1756.3,441.59,Card,42,Female
+494,2023-09-10,North,Delhi,Clothing,Jacket,5,1608.2,20,1286.56,6432.8,2585.85,Cash,59,Female
+495,2023-10-02,North,Mumbai,Clothing,T-Shirt,1,2577.61,0,2577.61,2577.61,1042.43,Wallet,26,Other
+496,2024-11-15,North,Chennai,Clothing,T-Shirt,3,4161.47,0,4161.47,12484.41,3025.65,Wallet,59,Female
+497,2023-11-26,East,Delhi,Grocery,Rice Bag,1,1789.43,10,1610.49,1610.49,604.97,Wallet,39,Female
+498,2023-04-23,East,Pune,Grocery,Snacks,1,885.79,20,708.63,708.63,266.92,Cash,49,Male
+499,2023-02-11,West,Delhi,Home & Kitchen,Lamp,4,1225.03,20,980.02,3920.08,1765.68,Card,57,Male
+500,2023-01-18,East,Bangalore,Clothing,Saree,5,3621.82,15,3078.55,15392.75,5318.5,Card,39,Male
+501,2024-03-02,West,Mumbai,Grocery,Snacks,1,1791.63,10,1612.47,1612.47,451.94,Wallet,31,Other
+502,2023-03-22,South,Hyderabad,Electronics,Headphones,2,1835.93,15,1560.54,3121.08,1015.46,UPI,51,Other
+503,2023-09-03,North,Pune,Electronics,Speaker,1,1138.28,10,1024.45,1024.45,436.82,Wallet,36,Other
+504,2023-05-19,South,Mumbai,Clothing,T-Shirt,4,2902.37,10,2612.13,10448.52,3478.68,Card,50,Other
+505,2024-02-24,South,Hyderabad,Electronics,Smartphone,1,2750.43,5,2612.91,2612.91,983.61,Wallet,59,Male
+506,2024-02-05,South,Chennai,Home & Kitchen,Mixer,1,1097.97,5,1043.07,1043.07,392.62,UPI,18,Male
+507,2023-08-18,East,Delhi,Grocery,Snacks,2,208.49,20,166.79,333.58,97.08,Cash,46,Female
+508,2024-02-19,West,Delhi,Clothing,Jeans,2,2610.2,20,2088.16,4176.32,1597.2,Card,20,Other
+509,2023-07-31,East,Hyderabad,Clothing,Saree,2,2588.24,20,2070.59,4141.18,1105.92,Card,34,Other
+510,2024-10-18,South,Bangalore,Grocery,Cooking Oil,3,438.32,20,350.66,1051.98,397.2,Card,46,Female
+511,2024-01-21,North,Hyderabad,Clothing,Saree,5,1187.31,5,1127.94,5639.7,2391.35,Wallet,42,Male
+512,2023-01-05,West,Kolkata,Sports,Shoes,4,3516.65,0,3516.65,14066.6,5070.76,Cash,39,Male
+513,2024-10-02,East,Pune,Beauty,Perfume,1,2476.96,10,2229.26,2229.26,923.69,Card,24,Female
+514,2024-09-28,East,Hyderabad,Electronics,Smartphone,5,998.87,5,948.93,4744.65,1796.45,UPI,32,Male
+515,2023-04-13,South,Hyderabad,Sports,Shoes,3,165.5,0,165.5,496.5,128.55,UPI,19,Male
+516,2024-12-28,South,Pune,Sports,Cricket Bat,4,990.44,15,841.87,3367.48,827.12,Wallet,35,Male
+517,2023-10-10,South,Chennai,Grocery,Cooking Oil,2,2615.5,15,2223.17,4446.34,893.02,Cash,59,Other
+518,2024-11-15,South,Delhi,Home & Kitchen,Cookware Set,5,2287.3,10,2058.57,10292.85,4064.05,Card,57,Female
+519,2024-04-10,North,Mumbai,Sports,Yoga Mat,3,3562.51,15,3028.13,9084.39,3276.99,Wallet,28,Female
+520,2023-08-04,South,Chennai,Sports,Football,2,1814.73,10,1633.26,3266.52,1261.64,UPI,19,Other
+521,2024-02-01,West,Bangalore,Beauty,Body Lotion,1,1928.88,15,1639.55,1639.55,772.87,UPI,32,Male
+522,2024-09-14,North,Bangalore,Clothing,Jeans,1,2946.97,0,2946.97,2946.97,957.43,Wallet,54,Female
+523,2023-10-06,North,Kolkata,Beauty,Perfume,5,1815.99,5,1725.19,8625.95,2350.15,Cash,52,Male
+524,2024-06-21,South,Bangalore,Electronics,Smartphone,5,1115.49,15,948.17,4740.85,1314.75,UPI,24,Female
+525,2024-07-04,South,Delhi,Beauty,Perfume,4,1055.38,15,897.07,3588.28,1373.48,Cash,34,Female
+526,2024-02-28,East,Delhi,Home & Kitchen,Lamp,3,2222.5,5,2111.38,6334.14,1477.5,Wallet,54,Male
+527,2023-07-21,South,Chennai,Home & Kitchen,Mixer,5,3198.72,5,3038.78,15193.9,6198.05,Card,30,Male
+528,2023-03-16,North,Pune,Electronics,Headphones,3,1427.62,10,1284.86,3854.58,1712.94,UPI,19,Other
+529,2024-07-16,East,Hyderabad,Clothing,Jeans,4,3649.29,10,3284.36,13137.44,5828.08,Card,34,Other
+530,2023-01-28,North,Delhi,Home & Kitchen,Lamp,2,3511.17,15,2984.49,5968.98,2189.68,Wallet,40,Other
+531,2024-10-01,West,Kolkata,Grocery,Rice Bag,2,4796.64,0,4796.64,9593.28,4013.98,UPI,55,Other
+532,2024-05-18,North,Hyderabad,Home & Kitchen,Bedsheet,1,1393.9,10,1254.51,1254.51,387.75,Card,18,Other
+533,2024-12-29,East,Bangalore,Clothing,T-Shirt,5,4147.0,20,3317.6,16588.0,4837.2,UPI,30,Male
+534,2023-07-01,East,Hyderabad,Sports,Cricket Bat,3,3016.99,5,2866.14,8598.42,2591.64,Card,32,Male
+535,2023-06-07,North,Pune,Home & Kitchen,Mixer,4,2361.46,15,2007.24,8028.96,2150.96,Card,37,Other
+536,2024-10-15,West,Mumbai,Home & Kitchen,Storage Box,4,837.98,0,837.98,3351.92,1209.4,Card,39,Female
+537,2024-01-21,East,Kolkata,Home & Kitchen,Cookware Set,5,4408.01,10,3967.21,19836.05,5012.6,Wallet,23,Other
+538,2023-08-21,South,Chennai,Electronics,Headphones,1,4499.8,10,4049.82,4049.82,1400.18,Cash,46,Female
+539,2023-08-17,East,Delhi,Home & Kitchen,Lamp,5,4144.54,5,3937.31,19686.55,5425.6,Wallet,50,Female
+540,2023-07-06,North,Delhi,Grocery,Milk Pack,5,429.55,10,386.6,1933.0,387.25,Card,48,Male
+541,2024-11-22,East,Chennai,Sports,Dumbbells,3,4052.66,5,3850.03,11550.09,5755.23,Card,44,Male
+542,2023-12-25,South,Kolkata,Home & Kitchen,Lamp,3,2898.7,20,2318.96,6956.88,2814.54,UPI,52,Male
+543,2023-04-23,South,Delhi,Clothing,Jeans,4,4469.38,20,3575.5,14302.0,3788.28,Cash,28,Female
+544,2023-04-16,East,Pune,Sports,Football,4,3306.28,10,2975.65,11902.6,5895.08,Wallet,48,Other
+545,2024-04-21,West,Bangalore,Beauty,Makeup Kit,2,3560.18,15,3026.15,6052.3,2955.46,Card,32,Female
+546,2024-10-10,North,Kolkata,Home & Kitchen,Cookware Set,3,126.2,10,113.58,340.74,106.53,UPI,38,Male
+547,2023-04-09,South,Mumbai,Clothing,T-Shirt,5,2975.99,0,2975.99,14879.95,7130.5,Card,46,Other
+548,2023-07-29,North,Hyderabad,Grocery,Spices,3,2267.24,5,2153.88,6461.64,2962.47,UPI,42,Male
+549,2024-10-01,South,Kolkata,Sports,Shoes,4,2890.47,10,2601.42,10405.68,2302.36,Wallet,45,Female
+550,2023-09-08,West,Mumbai,Sports,Dumbbells,5,3202.06,20,2561.65,12808.25,2578.45,Cash,29,Female
+551,2023-07-22,East,Hyderabad,Sports,Shoes,2,3282.59,0,3282.59,6565.18,2374.3,Card,55,Female
+552,2024-08-29,South,Mumbai,Beauty,Face Cream,1,2569.62,10,2312.66,2312.66,578.51,Card,44,Female
+553,2024-07-09,South,Delhi,Beauty,Shampoo,2,639.31,10,575.38,1150.76,517.6,Wallet,22,Female
+554,2023-02-27,North,Bangalore,Electronics,Speaker,1,3256.86,0,3256.86,3256.86,994.67,Wallet,27,Female
+555,2024-02-08,East,Hyderabad,Sports,Shoes,3,3764.19,15,3199.56,9598.68,3607.68,Card,57,Female
+556,2024-06-09,West,Delhi,Sports,Shoes,4,307.48,5,292.11,1168.44,350.16,UPI,46,Female
+557,2024-09-14,North,Hyderabad,Home & Kitchen,Mixer,2,193.81,0,193.81,387.62,122.92,Card,32,Female
+558,2024-05-15,West,Mumbai,Sports,Yoga Mat,4,2328.87,15,1979.54,7918.16,1676.48,Cash,20,Female
+559,2023-04-05,West,Hyderabad,Grocery,Spices,4,2493.63,20,1994.9,7979.6,3621.88,UPI,54,Other
+560,2023-08-17,South,Kolkata,Electronics,Smartwatch,1,1457.36,15,1238.76,1238.76,590.19,Wallet,28,Female
+561,2023-04-09,East,Kolkata,Clothing,Saree,4,1839.13,15,1563.26,6253.04,3066.96,Wallet,57,Other
+562,2024-12-26,North,Pune,Electronics,Smartwatch,2,514.37,15,437.21,874.42,206.1,Wallet,33,Female
+563,2024-06-29,West,Bangalore,Home & Kitchen,Bedsheet,3,1135.04,20,908.03,2724.09,564.27,Cash,44,Male
+564,2023-09-27,North,Delhi,Clothing,Jacket,5,4020.36,0,4020.36,20101.8,4037.0,Wallet,37,Male
+565,2023-12-31,West,Mumbai,Grocery,Rice Bag,5,4497.09,0,4497.09,22485.45,8105.95,UPI,48,Female
+566,2023-02-04,North,Mumbai,Sports,Dumbbells,5,405.73,15,344.87,1724.35,682.4,Card,29,Other
+567,2023-04-21,South,Mumbai,Sports,Cricket Bat,1,3379.61,5,3210.63,3210.63,701.88,Card,36,Other
+568,2024-10-02,East,Mumbai,Beauty,Body Lotion,3,3968.11,15,3372.89,10118.67,4548.99,Cash,37,Male
+569,2023-05-26,South,Delhi,Sports,Dumbbells,2,1415.95,5,1345.15,2690.3,1284.76,Card,32,Other
+570,2024-08-09,East,Bangalore,Home & Kitchen,Cookware Set,5,2696.42,20,2157.14,10785.7,2936.0,Cash,57,Female
+571,2024-04-16,North,Chennai,Clothing,Saree,4,1464.01,10,1317.61,5270.44,2119.36,Wallet,25,Male
+572,2023-06-02,South,Mumbai,Electronics,Speaker,5,1239.28,15,1053.39,5266.95,1327.35,Cash,45,Other
+573,2024-01-15,East,Chennai,Electronics,Smartphone,1,1833.11,20,1466.49,1466.49,705.72,Card,54,Male
+574,2024-09-01,East,Hyderabad,Electronics,Smartphone,2,4064.22,5,3861.01,7722.02,3067.24,Wallet,41,Other
+575,2024-08-29,South,Delhi,Electronics,Smartphone,2,4163.64,10,3747.28,7494.56,2480.54,UPI,49,Female
+576,2024-11-02,West,Kolkata,Electronics,Laptop,5,2444.63,5,2322.4,11612.0,4045.0,Card,41,Male
+577,2023-10-10,South,Hyderabad,Beauty,Perfume,3,115.39,15,98.08,294.24,104.07,Wallet,34,Male
+578,2023-05-03,East,Bangalore,Sports,Yoga Mat,1,2351.96,5,2234.36,2234.36,565.93,Cash,59,Other
+579,2023-07-29,South,Kolkata,Grocery,Milk Pack,5,2151.18,0,2151.18,10755.9,4762.5,Wallet,42,Other
+580,2024-11-26,West,Delhi,Grocery,Spices,2,3369.34,0,3369.34,6738.68,1626.3,Cash,32,Female
+581,2023-01-05,South,Delhi,Clothing,Jeans,5,4948.31,0,4948.31,24741.55,5390.55,UPI,43,Male
+582,2024-06-30,West,Mumbai,Clothing,Saree,3,2661.52,20,2129.22,6387.66,1772.61,Wallet,29,Female
+583,2024-05-07,West,Mumbai,Sports,Cricket Bat,4,3466.49,15,2946.52,11786.08,4615.16,Wallet,52,Female
+584,2024-02-07,West,Hyderabad,Sports,Football,2,703.84,15,598.26,1196.52,448.88,Cash,49,Other
+585,2023-03-10,East,Pune,Beauty,Body Lotion,5,4460.43,0,4460.43,22302.15,9976.9,UPI,36,Female
+586,2023-04-23,North,Delhi,Sports,Shoes,5,2938.64,5,2791.71,13958.55,3337.75,Cash,21,Other
+587,2024-08-23,South,Hyderabad,Beauty,Perfume,4,2808.05,0,2808.05,11232.2,3117.16,Cash,55,Other
+588,2024-11-05,North,Hyderabad,Beauty,Makeup Kit,4,909.98,10,818.98,3275.92,1423.0,Wallet,51,Female
+589,2023-11-26,West,Chennai,Grocery,Spices,5,2925.41,0,2925.41,14627.05,3866.05,UPI,49,Female
+590,2023-10-04,South,Hyderabad,Grocery,Milk Pack,3,4700.59,10,4230.53,12691.59,5060.85,Card,48,Female
+591,2024-01-28,South,Mumbai,Grocery,Rice Bag,5,4000.04,15,3400.03,17000.15,5068.95,UPI,58,Female
+592,2023-06-09,South,Bangalore,Clothing,Saree,5,4382.95,15,3725.51,18627.55,9310.1,Wallet,59,Female
+593,2023-10-04,South,Hyderabad,Sports,Cricket Bat,2,362.22,15,307.89,615.78,169.3,Wallet,53,Male
+594,2024-09-01,South,Pune,Grocery,Spices,1,2816.25,20,2253.0,2253.0,1063.12,UPI,25,Other
+595,2024-08-15,East,Hyderabad,Home & Kitchen,Mixer,2,4747.66,10,4272.89,8545.78,3662.34,Card,30,Other
+596,2024-04-05,East,Hyderabad,Beauty,Shampoo,5,2384.87,0,2384.87,11924.35,3449.15,UPI,19,Female
+597,2024-05-14,West,Bangalore,Beauty,Shampoo,2,2613.32,20,2090.66,4181.32,1125.46,UPI,46,Male
+598,2023-03-28,South,Bangalore,Sports,Shoes,2,936.47,20,749.18,1498.36,406.26,Wallet,34,Other
+599,2024-04-14,North,Chennai,Electronics,Speaker,3,3114.13,0,3114.13,9342.39,3358.59,UPI,48,Female
+600,2023-12-07,North,Bangalore,Sports,Cricket Bat,5,346.19,15,294.26,1471.3,612.75,UPI,26,Other
+601,2023-02-27,North,Bangalore,Home & Kitchen,Storage Box,1,4000.44,10,3600.4,3600.4,1315.18,UPI,26,Female
+602,2023-05-25,North,Delhi,Sports,Cricket Bat,4,3650.53,0,3650.53,14602.12,4636.24,UPI,25,Female
+603,2023-08-03,North,Delhi,Grocery,Snacks,3,950.13,0,950.13,2850.39,902.91,Cash,59,Male
+604,2024-05-27,South,Pune,Sports,Dumbbells,3,3778.77,10,3400.89,10202.67,3107.19,Card,50,Female
+605,2023-06-30,North,Pune,Beauty,Face Cream,2,3419.23,20,2735.38,5470.76,1364.84,Wallet,23,Female
+606,2023-02-20,East,Delhi,Sports,Cricket Bat,2,1658.44,20,1326.75,2653.5,668.52,Card,25,Male
+607,2024-10-09,South,Hyderabad,Electronics,Smartphone,1,1485.73,10,1337.16,1337.16,530.15,Cash,38,Female
+608,2023-04-06,North,Hyderabad,Home & Kitchen,Storage Box,3,1539.5,10,1385.55,4156.65,1283.88,Card,34,Female
+609,2023-09-07,North,Mumbai,Home & Kitchen,Bedsheet,3,1042.32,15,885.97,2657.91,652.71,Cash,54,Male
+610,2024-02-26,North,Hyderabad,Sports,Yoga Mat,3,2581.02,5,2451.97,7355.91,1663.32,Card,53,Female
+611,2024-11-20,North,Pune,Beauty,Face Cream,2,2332.53,5,2215.9,4431.8,1263.88,Card,58,Other
+612,2023-09-30,South,Kolkata,Electronics,Smartphone,4,3151.18,10,2836.06,11344.24,4610.72,Cash,52,Female
+613,2023-11-22,East,Chennai,Home & Kitchen,Storage Box,3,4262.72,5,4049.58,12148.74,4822.86,UPI,57,Male
+614,2024-08-12,East,Chennai,Grocery,Rice Bag,1,4683.87,5,4449.68,4449.68,985.21,Cash,44,Male
+615,2024-03-28,South,Chennai,Beauty,Makeup Kit,1,1275.95,15,1084.56,1084.56,453.47,Card,31,Male
+616,2023-12-04,East,Delhi,Grocery,Spices,5,2288.9,5,2174.46,10872.3,4818.4,UPI,41,Male
+617,2024-09-22,North,Bangalore,Clothing,Kurta,2,4533.36,15,3853.36,7706.72,2110.4,Wallet,27,Male
+618,2024-11-07,North,Hyderabad,Home & Kitchen,Lamp,3,4531.36,20,3625.09,10875.27,5063.1,Card,44,Female
+619,2024-04-20,East,Hyderabad,Home & Kitchen,Bedsheet,1,133.7,15,113.64,113.64,27.33,Wallet,43,Male
+620,2023-01-29,West,Mumbai,Electronics,Headphones,2,4295.05,5,4080.3,8160.6,1887.8,UPI,40,Female
+621,2024-04-13,West,Kolkata,Electronics,Smartwatch,4,1638.0,0,1638.0,6552.0,2411.04,UPI,19,Other
+622,2024-06-02,West,Bangalore,Electronics,Smartphone,3,1776.33,0,1776.33,5328.99,1284.6,Wallet,39,Other
+623,2023-04-24,East,Bangalore,Clothing,Kurta,5,3701.14,0,3701.14,18505.7,8603.7,Wallet,32,Female
+624,2023-04-21,North,Bangalore,Beauty,Shampoo,2,1569.72,15,1334.26,2668.52,746.74,Wallet,42,Female
+625,2024-11-27,West,Chennai,Home & Kitchen,Mixer,5,2959.66,5,2811.68,14058.4,4723.5,Card,40,Male
+626,2024-01-28,East,Hyderabad,Beauty,Shampoo,4,2948.94,20,2359.15,9436.6,2394.12,UPI,39,Male
+627,2024-05-12,North,Chennai,Sports,Dumbbells,3,2113.2,5,2007.54,6022.62,2420.85,Wallet,25,Other
+628,2024-12-10,East,Hyderabad,Sports,Yoga Mat,3,4024.81,20,3219.85,9659.55,4543.65,UPI,54,Female
+629,2024-10-07,East,Bangalore,Home & Kitchen,Lamp,3,4904.78,20,3923.82,11771.46,5086.65,Wallet,19,Male
+630,2023-04-06,South,Kolkata,Beauty,Shampoo,1,3528.56,10,3175.7,3175.7,960.28,UPI,45,Male
+631,2024-11-02,North,Pune,Beauty,Body Lotion,4,606.0,5,575.7,2302.8,606.0,Cash,25,Male
+632,2024-07-31,South,Mumbai,Grocery,Spices,5,1306.6,15,1110.61,5553.05,1138.0,UPI,26,Male
+633,2023-02-04,West,Hyderabad,Electronics,Smartphone,2,2213.05,5,2102.4,4204.8,2038.88,UPI,42,Female
+634,2023-02-23,West,Bangalore,Home & Kitchen,Bedsheet,4,2665.57,20,2132.46,8529.84,2693.8,Cash,18,Female
+635,2023-11-02,East,Chennai,Electronics,Headphones,1,2930.4,5,2783.88,2783.88,704.14,Cash,34,Male
+636,2023-08-04,North,Hyderabad,Clothing,Jeans,3,1819.01,0,1819.01,5457.03,2191.26,Wallet,43,Female
+637,2023-11-26,South,Delhi,Clothing,T-Shirt,5,514.97,0,514.97,2574.85,1010.65,Cash,23,Other
+638,2024-06-09,East,Bangalore,Grocery,Spices,3,1184.07,20,947.26,2841.78,929.43,Cash,44,Other
+639,2024-05-19,East,Pune,Grocery,Snacks,5,2349.71,20,1879.77,9398.85,4123.5,Card,23,Other
+640,2024-06-08,North,Mumbai,Clothing,Jacket,5,4675.37,0,4675.37,23376.85,8737.6,Wallet,51,Female
+641,2024-03-13,East,Delhi,Sports,Yoga Mat,2,4691.83,5,4457.24,8914.48,3366.78,Wallet,23,Other
+642,2023-07-13,East,Pune,Beauty,Shampoo,3,3316.41,5,3150.59,9451.77,3784.17,Card,31,Male
+643,2023-12-06,North,Kolkata,Home & Kitchen,Lamp,5,1197.51,15,1017.88,5089.4,2367.05,Wallet,36,Male
+644,2024-05-03,North,Hyderabad,Clothing,Saree,3,315.8,10,284.22,852.66,406.68,Cash,36,Female
+645,2024-09-15,East,Bangalore,Home & Kitchen,Cookware Set,4,2798.25,5,2658.34,10633.36,2657.36,Wallet,57,Female
+646,2023-05-10,East,Hyderabad,Home & Kitchen,Lamp,5,2247.07,10,2022.36,10111.8,2136.85,Wallet,52,Female
+647,2024-10-15,East,Delhi,Beauty,Perfume,4,2124.55,5,2018.32,8073.28,2734.12,Cash,54,Female
+648,2024-10-25,East,Kolkata,Electronics,Smartphone,4,2826.01,15,2402.11,9608.44,2189.04,Card,21,Other
+649,2024-01-31,North,Bangalore,Sports,Dumbbells,5,1178.43,20,942.74,4713.7,1352.65,Wallet,20,Female
+650,2024-01-08,East,Kolkata,Clothing,Kurta,3,1385.48,20,1108.38,3325.14,828.12,Card,24,Male
+651,2023-12-13,North,Pune,Electronics,Speaker,4,4590.46,5,4360.94,17443.76,7065.16,UPI,33,Male
+652,2023-12-29,South,Delhi,Sports,Dumbbells,3,547.73,5,520.34,1561.02,760.35,UPI,46,Male
+653,2023-07-29,East,Bangalore,Beauty,Shampoo,4,2275.13,20,1820.1,7280.4,2202.92,UPI,47,Male
+654,2023-08-16,East,Mumbai,Beauty,Perfume,2,1262.01,15,1072.71,2145.42,828.74,Wallet,40,Other
+655,2023-11-20,South,Pune,Electronics,Laptop,2,4236.64,5,4024.81,8049.62,2783.32,Wallet,54,Other
+656,2023-01-25,South,Kolkata,Sports,Football,2,2907.91,10,2617.12,5234.24,1738.7,UPI,59,Female
+657,2024-02-05,West,Bangalore,Clothing,Jacket,3,3592.95,15,3054.01,9162.03,3689.52,Wallet,34,Other
+658,2024-10-21,North,Mumbai,Sports,Dumbbells,1,1133.34,10,1020.01,1020.01,220.29,Cash,37,Other
+659,2024-10-09,West,Mumbai,Grocery,Cooking Oil,3,2326.58,5,2210.25,6630.75,3264.12,Card,29,Female
+660,2023-09-30,South,Mumbai,Beauty,Face Cream,1,2211.82,10,1990.64,1990.64,434.84,Card,40,Male
+661,2024-04-19,East,Kolkata,Sports,Yoga Mat,2,3151.49,20,2521.19,5042.38,2056.46,Card,40,Male
+662,2024-11-06,South,Mumbai,Electronics,Speaker,1,885.11,20,708.09,708.09,233.93,UPI,42,Other
+663,2023-08-19,East,Mumbai,Sports,Cricket Bat,2,4500.03,0,4500.03,9000.06,2635.92,Cash,47,Female
+664,2023-10-19,East,Kolkata,Home & Kitchen,Cookware Set,1,356.72,10,321.05,321.05,102.5,Card,51,Other
+665,2023-06-22,East,Pune,Grocery,Rice Bag,2,1245.68,10,1121.11,2242.22,562.7,UPI,39,Other
+666,2023-05-13,North,Chennai,Sports,Shoes,5,1592.55,0,1592.55,7962.75,3428.4,Card,19,Other
+667,2023-01-05,East,Bangalore,Beauty,Shampoo,4,276.06,5,262.26,1049.04,508.6,Wallet,28,Female
+668,2024-10-17,North,Hyderabad,Grocery,Rice Bag,1,147.47,10,132.72,132.72,65.22,Card,43,Female
+669,2023-01-12,North,Hyderabad,Electronics,Speaker,1,3958.12,5,3760.21,3760.21,1216.41,Cash,30,Female
+670,2024-03-14,South,Bangalore,Electronics,Headphones,4,4871.62,5,4628.04,18512.16,8912.4,UPI,44,Female
+671,2024-05-19,East,Chennai,Home & Kitchen,Lamp,3,2873.75,15,2442.69,7328.07,2727.24,Card,34,Other
+672,2023-10-07,North,Bangalore,Beauty,Face Cream,5,1656.02,15,1407.62,7038.1,1793.35,Wallet,22,Male
+673,2024-01-28,West,Chennai,Home & Kitchen,Lamp,2,567.27,15,482.18,964.36,467.56,Wallet,29,Female
+674,2023-08-02,West,Delhi,Home & Kitchen,Cookware Set,5,509.27,5,483.81,2419.05,728.5,Wallet,54,Other
+675,2024-12-14,West,Chennai,Home & Kitchen,Lamp,5,1738.57,15,1477.78,7388.9,2156.5,UPI,36,Other
+676,2024-07-05,North,Mumbai,Beauty,Face Cream,5,2902.78,20,2322.22,11611.1,3157.65,Wallet,46,Other
+677,2023-01-12,North,Hyderabad,Home & Kitchen,Bedsheet,4,3696.14,15,3141.72,12566.88,4746.32,Cash,49,Other
+678,2023-06-25,South,Delhi,Clothing,Jacket,2,377.73,15,321.07,642.14,208.4,Cash,36,Other
+679,2023-11-08,East,Bangalore,Beauty,Body Lotion,2,1047.83,20,838.26,1676.52,664.84,Cash,53,Female
+680,2024-11-03,North,Mumbai,Sports,Shoes,1,1226.97,10,1104.27,1104.27,337.43,UPI,32,Female
+681,2024-11-21,East,Pune,Home & Kitchen,Storage Box,1,791.43,15,672.72,672.72,315.05,UPI,22,Male
+682,2023-12-07,South,Hyderabad,Beauty,Shampoo,4,3316.29,10,2984.66,11938.64,4678.24,Wallet,21,Other
+683,2023-09-10,West,Bangalore,Home & Kitchen,Cookware Set,5,4949.81,20,3959.85,19799.25,4003.9,Cash,59,Other
+684,2024-04-28,North,Pune,Electronics,Laptop,4,4888.67,10,4399.8,17599.2,5748.92,Wallet,48,Female
+685,2023-10-23,North,Bangalore,Sports,Yoga Mat,3,4927.36,5,4680.99,14042.97,5191.56,Card,27,Female
+686,2024-01-31,South,Mumbai,Sports,Yoga Mat,2,3131.98,0,3131.98,6263.96,2191.06,Wallet,33,Male
+687,2024-11-02,North,Pune,Beauty,Body Lotion,5,2205.15,0,2205.15,11025.75,5085.6,Cash,38,Female
+688,2024-06-15,South,Chennai,Beauty,Shampoo,4,3055.64,5,2902.86,11611.44,4922.36,Cash,34,Female
+689,2023-08-13,South,Bangalore,Electronics,Headphones,1,2511.94,0,2511.94,2511.94,764.56,Wallet,59,Male
+690,2023-08-04,North,Pune,Grocery,Snacks,2,3052.1,15,2594.28,5188.56,2434.2,UPI,43,Female
+691,2024-06-10,West,Chennai,Grocery,Snacks,3,4897.84,10,4408.06,13224.18,2788.35,Cash,20,Female
+692,2024-11-12,South,Hyderabad,Sports,Shoes,4,843.7,10,759.33,3037.32,977.2,Cash,19,Other
+693,2024-05-15,South,Hyderabad,Beauty,Makeup Kit,1,3444.41,15,2927.75,2927.75,1462.69,UPI,37,Female
+694,2024-01-28,West,Chennai,Sports,Dumbbells,4,3866.05,20,3092.84,12371.36,4463.32,UPI,59,Male
+695,2023-03-27,West,Bangalore,Grocery,Spices,1,3164.12,0,3164.12,3164.12,962.93,UPI,54,Other
+696,2024-01-31,South,Delhi,Electronics,Speaker,5,3069.39,15,2608.98,13044.9,3777.6,Cash,44,Male
+697,2023-03-30,South,Hyderabad,Beauty,Face Cream,1,4984.86,5,4735.62,4735.62,1523.72,Card,29,Male
+698,2023-07-22,North,Chennai,Grocery,Rice Bag,1,2380.15,0,2380.15,2380.15,745.42,Wallet,51,Other
+699,2023-08-13,West,Pune,Clothing,Saree,4,2465.3,5,2342.04,9368.16,3485.72,Card,53,Female
+700,2024-12-27,North,Hyderabad,Clothing,Jeans,3,3203.72,0,3203.72,9611.16,2022.27,Card,46,Male
+701,2023-06-23,West,Bangalore,Clothing,Kurta,4,3000.88,15,2550.75,10203.0,3375.4,Card,41,Male
+702,2023-12-25,West,Kolkata,Beauty,Perfume,5,440.03,20,352.02,1760.1,562.75,Card,31,Female
+703,2023-05-08,North,Kolkata,Grocery,Spices,2,4594.61,15,3905.42,7810.84,3552.32,UPI,23,Other
+704,2023-05-24,North,Bangalore,Grocery,Snacks,4,4958.12,20,3966.5,15866.0,3647.92,Card,42,Female
+705,2023-06-16,West,Delhi,Sports,Yoga Mat,1,4203.9,15,3573.31,3573.31,772.63,UPI,20,Male
+706,2023-11-20,South,Mumbai,Home & Kitchen,Bedsheet,5,1432.58,10,1289.32,6446.6,1435.75,Card,38,Male
+707,2024-09-14,North,Bangalore,Sports,Cricket Bat,3,3007.96,15,2556.77,7670.31,3090.69,Cash,40,Male
+708,2024-04-05,North,Hyderabad,Beauty,Shampoo,5,1779.38,15,1512.47,7562.35,1684.3,Card,51,Male
+709,2023-08-27,West,Pune,Electronics,Headphones,5,606.83,15,515.81,2579.05,790.55,UPI,31,Male
+710,2023-08-11,South,Delhi,Clothing,T-Shirt,3,100.15,10,90.14,270.42,106.29,Wallet,36,Other
+711,2023-12-31,North,Hyderabad,Clothing,Saree,5,4792.4,10,4313.16,21565.8,4968.0,Wallet,46,Other
+712,2024-05-25,East,Mumbai,Electronics,Smartwatch,1,1981.81,5,1882.72,1882.72,598.44,UPI,44,Other
+713,2024-10-19,North,Hyderabad,Beauty,Makeup Kit,1,2010.51,0,2010.51,2010.51,815.31,Card,40,Female
+714,2024-02-05,North,Bangalore,Home & Kitchen,Lamp,3,4165.64,10,3749.08,11247.24,3828.99,UPI,43,Female
+715,2024-11-21,East,Kolkata,Electronics,Headphones,3,4467.46,10,4020.71,12062.13,3091.02,Cash,18,Male
+716,2023-04-21,North,Chennai,Clothing,Jeans,1,2496.28,15,2121.84,2121.84,626.67,Wallet,46,Other
+717,2023-05-15,West,Hyderabad,Beauty,Perfume,3,1886.89,15,1603.86,4811.58,2220.54,Wallet,44,Other
+718,2024-05-13,West,Hyderabad,Beauty,Shampoo,4,3497.77,20,2798.22,11192.88,4734.32,Card,56,Female
+719,2024-09-07,East,Kolkata,Home & Kitchen,Mixer,4,2187.09,10,1968.38,7873.52,2211.88,Card,30,Female
+720,2023-07-01,North,Pune,Sports,Dumbbells,5,225.88,15,192.0,960.0,352.4,UPI,39,Other
+721,2024-01-20,West,Delhi,Clothing,T-Shirt,3,1061.6,15,902.36,2707.08,906.03,Cash,43,Male
+722,2023-06-08,East,Hyderabad,Electronics,Smartwatch,3,2444.61,10,2200.15,6600.45,2750.04,UPI,26,Other
+723,2023-12-08,East,Chennai,Beauty,Body Lotion,4,3294.31,10,2964.88,11859.52,3846.32,Wallet,48,Female
+724,2024-04-29,West,Hyderabad,Home & Kitchen,Lamp,3,3225.09,10,2902.58,8707.74,1917.75,Cash,51,Other
+725,2024-06-26,South,Bangalore,Grocery,Milk Pack,3,1431.75,15,1216.99,3650.97,1488.39,Cash,59,Other
+726,2023-05-12,West,Kolkata,Beauty,Shampoo,4,4499.88,10,4049.89,16199.56,7440.36,Wallet,24,Female
+727,2024-09-15,East,Mumbai,Sports,Dumbbells,3,4547.9,15,3865.71,11597.13,5137.74,Wallet,43,Other
+728,2023-01-26,South,Chennai,Electronics,Smartwatch,4,1857.25,20,1485.8,5943.2,2027.16,UPI,41,Other
+729,2023-03-11,North,Mumbai,Sports,Dumbbells,1,4878.38,20,3902.7,3902.7,1129.32,Card,21,Female
+730,2024-01-20,North,Hyderabad,Clothing,Kurta,3,4660.15,5,4427.14,13281.42,4998.0,UPI,58,Male
+731,2024-03-10,North,Mumbai,Grocery,Milk Pack,5,690.19,15,586.66,2933.3,956.5,Card,43,Other
+732,2024-04-13,North,Chennai,Beauty,Shampoo,1,403.98,10,363.58,363.58,173.42,UPI,31,Other
+733,2023-05-10,South,Delhi,Grocery,Rice Bag,3,3324.7,0,3324.7,9974.1,4668.87,Card,47,Other
+734,2024-02-15,North,Kolkata,Grocery,Snacks,4,2063.45,0,2063.45,8253.8,3099.72,Wallet,59,Male
+735,2024-12-14,South,Chennai,Sports,Football,3,3332.48,15,2832.61,8497.83,3236.97,UPI,40,Other
+736,2023-09-02,South,Hyderabad,Home & Kitchen,Storage Box,1,4708.47,0,4708.47,4708.47,1005.87,UPI,58,Female
+737,2023-02-22,East,Pune,Electronics,Smartwatch,2,2439.34,20,1951.47,3902.94,1821.26,Wallet,44,Female
+738,2023-10-16,North,Delhi,Home & Kitchen,Mixer,4,1557.07,15,1323.51,5294.04,2024.84,Wallet,51,Male
+739,2024-08-10,West,Hyderabad,Electronics,Smartwatch,4,3698.39,10,3328.55,13314.2,3868.32,Card,21,Other
+740,2024-04-17,East,Hyderabad,Home & Kitchen,Bedsheet,1,305.62,5,290.34,290.34,69.22,Card,52,Male
+741,2024-10-25,South,Chennai,Sports,Yoga Mat,5,1345.88,15,1144.0,5720.0,1932.9,Cash,44,Male
+742,2024-06-01,East,Delhi,Electronics,Smartphone,1,2041.93,15,1735.64,1735.64,410.25,Cash,52,Male
+743,2023-01-25,West,Delhi,Electronics,Smartphone,3,2220.58,15,1887.49,5662.47,1787.52,Card,56,Male
+744,2023-01-23,South,Delhi,Home & Kitchen,Bedsheet,2,2402.59,0,2402.59,4805.18,1208.36,UPI,47,Other
+745,2024-06-04,North,Delhi,Electronics,Speaker,3,3977.91,15,3381.22,10143.66,2550.15,UPI,35,Male
+746,2024-03-06,South,Mumbai,Sports,Cricket Bat,2,1457.64,20,1166.11,2332.22,1079.1,Card,43,Other
+747,2023-11-26,West,Pune,Sports,Dumbbells,2,968.05,15,822.84,1645.68,802.96,UPI,39,Male
+748,2023-08-21,South,Chennai,Home & Kitchen,Cookware Set,3,2629.79,20,2103.83,6311.49,3135.87,Cash,59,Other
+749,2024-11-15,West,Kolkata,Home & Kitchen,Lamp,1,830.79,15,706.17,706.17,151.71,Wallet,44,Female
+750,2023-04-19,North,Pune,Electronics,Smartwatch,1,4381.99,15,3724.69,3724.69,952.34,Card,50,Male
+751,2024-05-22,South,Hyderabad,Sports,Dumbbells,3,747.68,5,710.3,2130.9,653.79,Cash,35,Female
+752,2023-01-03,West,Pune,Beauty,Body Lotion,3,1027.49,5,976.12,2928.36,1127.52,Wallet,54,Other
+753,2023-12-02,North,Mumbai,Sports,Yoga Mat,2,2268.63,10,2041.77,4083.54,1800.58,UPI,28,Other
+754,2024-12-26,North,Mumbai,Electronics,Smartphone,4,1077.12,15,915.55,3662.2,1443.16,Cash,46,Male
+755,2023-04-12,West,Hyderabad,Sports,Yoga Mat,2,4147.07,5,3939.72,7879.44,2085.52,Card,38,Other
+756,2024-12-14,West,Pune,Electronics,Speaker,3,4793.93,15,4074.84,12224.52,4589.85,UPI,26,Other
+757,2024-02-26,North,Bangalore,Electronics,Headphones,2,1005.71,20,804.57,1609.14,512.82,Wallet,59,Male
+758,2023-08-19,East,Bangalore,Grocery,Spices,5,2664.67,5,2531.44,12657.2,4266.75,UPI,32,Male
+759,2024-11-14,East,Kolkata,Beauty,Body Lotion,5,160.47,10,144.42,722.1,321.1,Cash,45,Male
+760,2024-05-30,West,Delhi,Clothing,T-Shirt,5,1994.86,15,1695.63,8478.15,3227.3,UPI,30,Female
+761,2023-11-01,East,Bangalore,Sports,Yoga Mat,5,2468.14,5,2344.73,11723.65,5350.7,Wallet,21,Female
+762,2024-03-30,South,Hyderabad,Home & Kitchen,Bedsheet,3,404.0,20,323.2,969.6,323.85,UPI,33,Other
+763,2024-03-13,East,Bangalore,Beauty,Makeup Kit,5,4973.45,0,4973.45,24867.25,8271.8,Card,30,Female
+764,2024-10-21,South,Delhi,Grocery,Milk Pack,5,338.6,5,321.67,1608.35,714.8,Wallet,41,Other
+765,2023-03-25,East,Delhi,Grocery,Snacks,1,3263.3,0,3263.3,3263.3,1308.2,Cash,33,Other
+766,2023-04-28,West,Chennai,Clothing,Jacket,1,478.22,15,406.49,406.49,83.25,UPI,43,Female
+767,2024-04-21,East,Delhi,Grocery,Milk Pack,1,913.77,10,822.39,822.39,240.78,Card,22,Female
+768,2023-06-19,East,Pune,Sports,Football,3,330.17,20,264.14,792.42,374.55,Cash,45,Male
+769,2023-06-06,South,Bangalore,Clothing,Saree,2,3394.71,0,3394.71,6789.42,3281.84,Card,44,Female
+770,2023-05-26,South,Delhi,Home & Kitchen,Bedsheet,1,2135.67,15,1815.32,1815.32,592.0,Card,21,Other
+771,2024-03-17,North,Pune,Home & Kitchen,Cookware Set,1,582.28,10,524.05,524.05,109.87,UPI,23,Female
+772,2023-09-25,North,Pune,Electronics,Headphones,5,1260.93,0,1260.93,6304.65,3055.9,Cash,35,Other
+773,2024-07-14,East,Chennai,Electronics,Headphones,2,3419.97,20,2735.98,5471.96,1956.08,Wallet,29,Other
+774,2023-08-21,North,Hyderabad,Sports,Yoga Mat,5,1474.94,0,1474.94,7374.7,2254.9,Cash,36,Male
+775,2023-07-10,North,Kolkata,Electronics,Smartwatch,3,1692.12,5,1607.51,4822.53,1146.36,Card,41,Other
+776,2024-03-31,South,Bangalore,Sports,Shoes,1,3190.52,10,2871.47,2871.47,593.06,UPI,40,Male
+777,2023-06-12,North,Chennai,Sports,Dumbbells,3,1737.54,15,1476.91,4430.73,1657.08,Card,50,Other
+778,2023-06-08,South,Pune,Clothing,Jacket,3,2657.23,15,2258.65,6775.95,1626.72,UPI,54,Male
+779,2024-09-24,West,Kolkata,Electronics,Speaker,2,4461.68,10,4015.51,8031.02,2908.08,Wallet,55,Female
+780,2023-10-27,North,Delhi,Home & Kitchen,Storage Box,5,3131.19,15,2661.51,13307.55,2675.4,Cash,33,Female
+781,2023-06-08,North,Bangalore,Clothing,Jacket,4,3409.73,15,2898.27,11593.08,2339.2,Wallet,25,Other
+782,2023-01-17,North,Bangalore,Grocery,Cooking Oil,4,3677.85,20,2942.28,11769.12,4352.04,Cash,38,Other
+783,2024-07-19,North,Bangalore,Electronics,Smartwatch,1,2104.52,10,1894.07,1894.07,566.77,Wallet,40,Female
+784,2024-07-01,East,Hyderabad,Sports,Cricket Bat,5,3009.53,0,3009.53,15047.65,4562.9,Card,56,Female
+785,2024-05-25,East,Hyderabad,Grocery,Cooking Oil,3,2894.41,5,2749.69,8249.07,3953.4,Cash,57,Male
+786,2023-10-10,North,Kolkata,Beauty,Face Cream,3,1838.68,5,1746.75,5240.25,2552.04,Card,44,Female
+787,2023-11-26,South,Mumbai,Sports,Shoes,3,3505.27,20,2804.22,8412.66,3165.51,UPI,38,Other
+788,2024-11-21,North,Chennai,Grocery,Rice Bag,2,2614.56,20,2091.65,4183.3,1479.0,Card,40,Other
+789,2024-05-20,West,Kolkata,Grocery,Rice Bag,4,1380.53,20,1104.42,4417.68,2128.08,Cash,45,Other
+790,2023-03-11,South,Pune,Clothing,Saree,1,995.48,5,945.71,945.71,471.02,Wallet,23,Male
+791,2023-04-19,North,Chennai,Grocery,Cooking Oil,3,1499.57,20,1199.66,3598.98,1455.39,Cash,19,Female
+792,2023-12-04,West,Bangalore,Grocery,Milk Pack,3,954.61,10,859.15,2577.45,1241.64,Cash,36,Male
+793,2024-07-14,East,Chennai,Clothing,Jeans,2,3600.63,15,3060.54,6121.08,2312.48,Wallet,52,Female
+794,2023-12-06,West,Chennai,Electronics,Speaker,1,1061.84,20,849.47,849.47,298.71,Cash,51,Female
+795,2023-05-02,North,Hyderabad,Grocery,Rice Bag,1,1648.78,20,1319.02,1319.02,338.92,Wallet,36,Other
+796,2023-10-16,North,Hyderabad,Sports,Dumbbells,1,3774.31,10,3396.88,3396.88,1437.82,Cash,59,Female
+797,2024-08-20,North,Kolkata,Beauty,Shampoo,3,906.64,15,770.64,2311.92,607.56,UPI,35,Female
+798,2024-03-10,North,Delhi,Electronics,Smartwatch,2,2236.38,20,1789.1,3578.2,1157.92,Cash,23,Male
+799,2023-03-29,East,Kolkata,Electronics,Smartwatch,1,499.72,5,474.73,474.73,127.32,Cash,35,Male
+800,2024-03-10,East,Chennai,Electronics,Headphones,4,171.58,20,137.26,549.04,140.8,Wallet,32,Other
+801,2024-09-03,West,Bangalore,Home & Kitchen,Bedsheet,4,3281.96,0,3281.96,13127.84,5347.76,Card,43,Female
+802,2023-01-02,West,Bangalore,Beauty,Perfume,4,1403.39,10,1263.05,5052.2,1681.28,UPI,22,Female
+803,2023-08-11,East,Delhi,Electronics,Speaker,5,2866.49,5,2723.17,13615.85,3189.2,UPI,46,Female
+804,2023-02-13,North,Hyderabad,Grocery,Snacks,5,192.83,20,154.26,771.3,219.0,Card,48,Other
+805,2024-10-25,North,Kolkata,Clothing,Jeans,1,4410.79,0,4410.79,4410.79,2023.28,Wallet,28,Female
+806,2023-03-14,West,Kolkata,Sports,Cricket Bat,3,4525.8,5,4299.51,12898.53,3124.89,Wallet,30,Other
+807,2023-03-24,North,Bangalore,Beauty,Perfume,4,1847.2,15,1570.12,6280.48,1712.0,Cash,24,Male
+808,2023-09-28,West,Pune,Sports,Dumbbells,2,3434.35,15,2919.2,5838.4,2551.92,UPI,57,Male
+809,2023-08-13,West,Pune,Grocery,Snacks,5,4679.27,5,4445.31,22226.55,5899.65,UPI,48,Female
+810,2023-06-08,East,Bangalore,Beauty,Makeup Kit,1,844.24,15,717.6,717.6,274.08,Card,34,Female
+811,2023-04-23,East,Chennai,Clothing,T-Shirt,5,3391.37,20,2713.1,13565.5,5040.2,UPI,45,Other
+812,2023-03-13,South,Pune,Beauty,Shampoo,2,3657.95,10,3292.16,6584.32,2675.5,Wallet,35,Other
+813,2024-08-21,North,Hyderabad,Sports,Football,3,3261.57,20,2609.26,7827.78,3368.55,Card,36,Female
+814,2024-07-23,West,Delhi,Grocery,Spices,1,1914.14,0,1914.14,1914.14,771.17,Card,52,Male
+815,2024-09-19,West,Chennai,Electronics,Smartwatch,1,3322.81,15,2824.39,2824.39,1093.03,Cash,36,Male
+816,2023-06-07,East,Kolkata,Grocery,Snacks,1,405.91,10,365.32,365.32,155.42,Wallet,45,Male
+817,2023-05-02,East,Chennai,Electronics,Headphones,4,2479.67,0,2479.67,9918.68,4059.32,Card,30,Female
+818,2024-06-09,West,Bangalore,Grocery,Spices,3,3946.91,15,3354.87,10064.61,4589.37,Wallet,41,Male
+819,2023-10-07,East,Chennai,Sports,Dumbbells,2,4730.62,20,3784.5,7569.0,3039.34,Cash,34,Female
+820,2024-03-21,North,Pune,Grocery,Milk Pack,3,2601.8,10,2341.62,7024.86,2867.46,UPI,45,Male
+821,2024-08-23,West,Mumbai,Home & Kitchen,Lamp,3,967.92,20,774.34,2323.02,1065.81,UPI,43,Other
+822,2024-10-01,West,Bangalore,Grocery,Snacks,5,3445.0,10,3100.5,15502.5,3975.1,UPI,37,Male
+823,2024-12-18,West,Kolkata,Home & Kitchen,Lamp,3,4035.9,20,3228.72,9686.16,2794.35,UPI,25,Other
+824,2023-05-08,North,Kolkata,Clothing,Jacket,4,3162.4,10,2846.16,11384.64,5115.6,UPI,57,Female
+825,2023-01-22,West,Kolkata,Sports,Shoes,3,4801.41,15,4081.2,12243.6,5407.26,Cash,28,Other
+826,2023-09-29,North,Bangalore,Home & Kitchen,Cookware Set,2,2789.66,5,2650.18,5300.36,2011.28,Card,54,Female
+827,2024-10-06,South,Mumbai,Sports,Shoes,1,1608.58,0,1608.58,1608.58,581.87,Wallet,22,Other
+828,2023-11-08,West,Kolkata,Sports,Cricket Bat,3,3576.01,10,3218.41,9655.23,2397.81,Card,48,Other
+829,2023-04-01,South,Bangalore,Beauty,Face Cream,1,1590.79,15,1352.17,1352.17,630.41,UPI,31,Male
+830,2024-04-11,North,Delhi,Home & Kitchen,Cookware Set,2,331.26,10,298.13,596.26,176.64,Cash,53,Male
+831,2024-06-02,East,Delhi,Clothing,Kurta,3,3185.18,20,2548.14,7644.42,3138.18,UPI,41,Other
+832,2024-10-02,South,Pune,Home & Kitchen,Cookware Set,5,782.34,15,664.99,3324.95,1119.6,Cash,18,Male
+833,2024-05-06,West,Chennai,Sports,Shoes,2,1908.77,15,1622.45,3244.9,1108.88,Card,46,Other
+834,2024-11-21,East,Pune,Clothing,Kurta,2,920.55,20,736.44,1472.88,721.74,Cash,42,Female
+835,2024-07-19,North,Hyderabad,Sports,Cricket Bat,3,1324.87,0,1324.87,3974.61,1449.21,UPI,42,Female
+836,2023-08-21,North,Bangalore,Home & Kitchen,Mixer,5,2393.1,20,1914.48,9572.4,2531.7,Card,52,Male
+837,2023-03-19,East,Chennai,Electronics,Smartphone,5,4119.24,5,3913.28,19566.4,5829.55,Card,34,Female
+838,2024-10-09,East,Delhi,Grocery,Cooking Oil,2,325.71,15,276.85,553.7,191.66,Card,51,Male
+839,2024-11-12,North,Bangalore,Sports,Dumbbells,1,4979.1,20,3983.28,3983.28,1681.42,Wallet,33,Female
+840,2024-02-13,South,Mumbai,Electronics,Smartwatch,3,368.19,0,368.19,1104.57,413.55,Cash,19,Male
+841,2024-07-19,West,Hyderabad,Electronics,Smartphone,1,2813.73,5,2673.04,2673.04,1201.95,Wallet,55,Female
+842,2024-09-15,East,Delhi,Electronics,Smartwatch,3,431.26,5,409.7,1229.1,348.03,Cash,50,Other
+843,2023-12-24,North,Delhi,Clothing,Jeans,1,683.79,15,581.22,581.22,248.38,Card,44,Female
+844,2024-12-19,North,Kolkata,Beauty,Body Lotion,3,3745.74,0,3745.74,11237.22,3195.69,Cash,58,Male
+845,2024-02-24,South,Bangalore,Electronics,Smartphone,4,4597.42,5,4367.55,17470.2,8452.96,Card,59,Male
+846,2024-07-28,East,Mumbai,Beauty,Face Cream,1,2019.87,5,1918.88,1918.88,699.12,UPI,54,Male
+847,2024-03-20,North,Hyderabad,Beauty,Makeup Kit,3,3410.38,5,3239.86,9719.58,2301.24,Wallet,35,Male
+848,2024-09-19,East,Chennai,Grocery,Snacks,3,255.44,5,242.67,728.01,263.37,Card,20,Male
+849,2024-12-05,West,Pune,Home & Kitchen,Bedsheet,2,4935.79,5,4689.0,9378.0,3174.28,Card,46,Female
+850,2024-08-16,South,Bangalore,Sports,Cricket Bat,5,2719.84,0,2719.84,13599.2,6771.1,Wallet,29,Other
+851,2024-11-22,West,Chennai,Beauty,Body Lotion,2,1250.3,10,1125.27,2250.54,1112.94,Wallet,37,Female
+852,2023-04-25,North,Delhi,Beauty,Shampoo,3,102.93,0,102.93,308.79,66.27,Wallet,41,Other
+853,2024-08-31,East,Pune,Clothing,Jacket,3,2197.96,0,2197.96,6593.88,2720.58,Cash,52,Other
+854,2023-12-12,North,Kolkata,Clothing,Jeans,5,4391.93,15,3733.14,18665.7,4809.05,Card,58,Male
+855,2024-11-03,East,Bangalore,Sports,Yoga Mat,2,623.32,5,592.15,1184.3,486.4,Card,34,Other
+856,2023-06-17,South,Mumbai,Electronics,Laptop,1,4237.14,10,3813.43,3813.43,1180.36,Wallet,36,Other
+857,2023-02-15,South,Bangalore,Sports,Shoes,1,445.62,10,401.06,401.06,108.98,UPI,18,Female
+858,2024-04-29,East,Mumbai,Grocery,Spices,4,4336.8,20,3469.44,13877.76,6223.32,Wallet,18,Male
+859,2023-01-16,South,Bangalore,Clothing,T-Shirt,3,3715.61,15,3158.27,9474.81,3486.54,Card,57,Male
+860,2023-08-05,South,Delhi,Electronics,Headphones,2,2607.72,0,2607.72,5215.44,1299.02,Wallet,34,Female
+861,2023-03-13,West,Pune,Grocery,Spices,1,4034.61,15,3429.42,3429.42,1091.32,Cash,32,Other
+862,2024-11-30,West,Hyderabad,Electronics,Smartwatch,2,1947.56,15,1655.43,3310.86,905.98,Card,33,Other
+863,2023-08-06,East,Pune,Sports,Football,3,3534.58,5,3357.85,10073.55,4098.99,Cash,54,Male
+864,2024-06-03,South,Kolkata,Home & Kitchen,Storage Box,4,4002.56,0,4002.56,16010.24,4904.56,Cash,23,Male
+865,2024-02-19,West,Delhi,Sports,Shoes,3,1949.08,20,1559.26,4677.78,2077.92,Wallet,40,Other
+866,2023-09-16,North,Delhi,Electronics,Smartwatch,2,1128.5,15,959.22,1918.44,401.18,Wallet,50,Female
+867,2023-03-04,North,Bangalore,Home & Kitchen,Mixer,4,977.57,10,879.81,3519.24,759.0,Wallet,19,Male
+868,2023-09-11,East,Kolkata,Electronics,Laptop,2,632.54,20,506.03,1012.06,402.02,UPI,32,Female
+869,2023-06-26,East,Chennai,Home & Kitchen,Bedsheet,3,1040.88,5,988.84,2966.52,1082.52,Wallet,58,Female
+870,2024-07-27,North,Bangalore,Grocery,Cooking Oil,3,4147.11,5,3939.75,11819.25,2633.07,Wallet,58,Female
+871,2023-02-08,West,Chennai,Electronics,Laptop,1,2853.13,15,2425.16,2425.16,750.12,UPI,56,Other
+872,2024-08-30,West,Pune,Clothing,Jeans,2,827.68,5,786.3,1572.6,461.34,Cash,38,Male
+873,2023-07-03,East,Delhi,Beauty,Shampoo,4,748.12,5,710.71,2842.84,596.08,Wallet,59,Other
+874,2024-07-01,West,Hyderabad,Home & Kitchen,Lamp,3,3249.7,0,3249.7,9749.1,3335.91,Card,44,Female
+875,2023-01-16,West,Mumbai,Sports,Shoes,4,1100.03,10,990.03,3960.12,1028.52,Cash,19,Other
+876,2024-02-22,South,Chennai,Beauty,Perfume,4,2634.74,20,2107.79,8431.16,3348.2,UPI,40,Female
+877,2023-05-23,South,Chennai,Home & Kitchen,Bedsheet,4,224.21,5,213.0,852.0,345.2,Wallet,27,Female
+878,2023-01-25,North,Bangalore,Beauty,Perfume,1,3088.08,10,2779.27,2779.27,1317.04,Cash,58,Male
+879,2023-12-01,East,Delhi,Electronics,Speaker,5,2772.9,0,2772.9,13864.5,6558.9,UPI,54,Female
+880,2023-03-08,South,Chennai,Grocery,Cooking Oil,1,129.63,0,129.63,129.63,55.27,UPI,41,Female
+881,2024-11-23,North,Mumbai,Home & Kitchen,Storage Box,1,1779.91,0,1779.91,1779.91,803.61,Cash,47,Female
+882,2024-09-23,West,Kolkata,Grocery,Snacks,2,3733.67,20,2986.94,5973.88,2191.62,UPI,46,Female
+883,2023-10-01,North,Kolkata,Clothing,T-Shirt,2,2719.34,5,2583.37,5166.74,1453.6,Card,37,Female
+884,2023-06-12,South,Chennai,Beauty,Body Lotion,5,3036.93,0,3036.93,15184.65,5897.35,UPI,46,Female
+885,2023-07-26,West,Mumbai,Electronics,Headphones,4,4765.11,15,4050.34,16201.36,5266.44,Card,26,Male
+886,2023-02-08,North,Chennai,Sports,Dumbbells,5,1359.61,15,1155.67,5778.35,2495.7,Wallet,36,Female
+887,2023-12-20,North,Chennai,Home & Kitchen,Lamp,2,4604.12,0,4604.12,9208.24,2694.1,Wallet,45,Female
+888,2024-03-10,East,Delhi,Clothing,T-Shirt,1,2279.78,20,1823.82,1823.82,807.77,Card,50,Female
+889,2023-04-08,South,Delhi,Grocery,Spices,2,2812.44,15,2390.57,4781.14,1297.36,Cash,20,Male
+890,2023-11-14,South,Delhi,Sports,Shoes,3,4001.87,5,3801.78,11405.34,4459.74,Wallet,53,Male
+891,2023-01-07,West,Bangalore,Beauty,Perfume,5,3046.78,15,2589.76,12948.8,3346.9,UPI,18,Female
+892,2024-01-10,South,Chennai,Sports,Cricket Bat,1,198.11,5,188.2,188.2,61.16,UPI,56,Female
+893,2024-06-20,West,Mumbai,Home & Kitchen,Mixer,4,3134.1,15,2663.98,10655.92,4732.0,Wallet,58,Female
+894,2024-05-20,West,Hyderabad,Grocery,Rice Bag,3,652.93,0,652.93,1958.79,539.49,Cash,37,Other
+895,2023-01-09,North,Pune,Electronics,Smartphone,3,4839.63,20,3871.7,11615.1,4428.45,Card,19,Female
+896,2023-10-12,South,Hyderabad,Electronics,Laptop,4,2427.99,15,2063.79,8255.16,1744.88,Cash,50,Other
+897,2023-03-13,East,Hyderabad,Beauty,Makeup Kit,5,3129.62,5,2973.14,14865.7,4459.4,UPI,38,Female
+898,2023-11-12,North,Delhi,Home & Kitchen,Storage Box,4,2200.95,5,2090.9,8363.6,4126.4,Wallet,40,Female
+899,2024-04-25,North,Delhi,Grocery,Snacks,5,3350.22,15,2847.69,14238.45,3966.1,UPI,37,Female
+900,2023-11-27,South,Pune,Grocery,Milk Pack,3,4699.7,15,3994.74,11984.22,3472.32,Wallet,53,Other
+901,2024-07-23,West,Chennai,Grocery,Snacks,3,1774.04,20,1419.23,4257.69,1470.18,Wallet,30,Other
+902,2024-12-09,North,Mumbai,Electronics,Smartwatch,4,684.97,15,582.22,2328.88,576.08,Cash,47,Male
+903,2023-07-20,West,Chennai,Grocery,Milk Pack,5,2028.81,10,1825.93,9129.65,3633.6,Wallet,44,Female
+904,2023-08-17,East,Delhi,Grocery,Snacks,5,531.86,10,478.67,2393.35,708.15,Card,32,Male
+905,2023-05-26,North,Hyderabad,Sports,Dumbbells,3,910.95,20,728.76,2186.28,742.02,Card,32,Male
+906,2023-07-20,West,Bangalore,Beauty,Body Lotion,3,1062.79,0,1062.79,3188.37,1098.63,Card,25,Female
+907,2024-05-21,South,Delhi,Electronics,Laptop,5,4199.0,5,3989.05,19945.25,5982.0,Wallet,52,Other
+908,2024-03-28,South,Hyderabad,Electronics,Smartphone,2,4657.81,15,3959.14,7918.28,3738.9,Card,51,Female
+909,2023-08-05,North,Hyderabad,Beauty,Body Lotion,1,4126.04,0,4126.04,4126.04,1912.87,Card,48,Female
+910,2023-04-09,North,Mumbai,Beauty,Makeup Kit,3,2463.14,15,2093.67,6281.01,2811.51,Card,51,Other
+911,2023-11-01,South,Kolkata,Electronics,Smartwatch,2,3587.71,0,3587.71,7175.42,1500.06,UPI,22,Other
+912,2023-10-07,South,Delhi,Electronics,Headphones,3,4620.76,0,4620.76,13862.28,3932.19,UPI,23,Female
+913,2024-11-27,West,Chennai,Sports,Football,5,3366.76,0,3366.76,16833.8,5374.35,Cash,26,Female
+914,2024-03-11,East,Pune,Grocery,Rice Bag,2,2690.42,10,2421.38,4842.76,2223.26,Card,53,Female
+915,2023-05-14,South,Chennai,Home & Kitchen,Storage Box,2,4084.42,15,3471.76,6943.52,3294.78,Card,29,Other
+916,2023-10-07,South,Chennai,Sports,Yoga Mat,5,3325.71,5,3159.42,15797.1,6587.0,Card,38,Other
+917,2023-10-30,West,Kolkata,Sports,Cricket Bat,4,1800.31,15,1530.26,6121.04,1366.24,UPI,24,Female
+918,2023-02-16,North,Bangalore,Beauty,Shampoo,1,1706.63,20,1365.3,1365.3,488.19,Cash,27,Female
+919,2024-09-29,East,Kolkata,Clothing,Saree,2,343.34,10,309.01,618.02,171.68,Cash,41,Female
+920,2023-05-24,South,Hyderabad,Clothing,Jeans,3,518.47,20,414.78,1244.34,428.79,Cash,38,Female
+921,2024-10-17,North,Delhi,Sports,Yoga Mat,1,1259.39,0,1259.39,1259.39,467.56,Card,45,Male
+922,2023-07-14,East,Kolkata,Beauty,Body Lotion,1,2338.41,15,1987.65,1987.65,850.82,UPI,44,Male
+923,2023-10-12,East,Bangalore,Sports,Cricket Bat,2,2574.07,15,2187.96,4375.92,1691.74,Card,59,Male
+924,2023-05-08,West,Delhi,Sports,Shoes,2,2384.64,5,2265.41,4530.82,1718.58,UPI,57,Female
+925,2024-02-24,South,Hyderabad,Beauty,Makeup Kit,5,3623.47,0,3623.47,18117.35,4471.4,Wallet,35,Other
+926,2023-04-06,West,Bangalore,Clothing,Jacket,1,2026.98,15,1722.93,1722.93,629.35,Card,35,Male
+927,2024-09-03,West,Mumbai,Grocery,Snacks,5,4435.56,20,3548.45,17742.25,8341.55,Card,28,Male
+928,2024-02-02,East,Hyderabad,Clothing,T-Shirt,2,4853.36,15,4125.36,8250.72,2846.6,Cash,30,Female
+929,2023-10-02,East,Delhi,Clothing,Saree,1,1497.51,10,1347.76,1347.76,396.84,Wallet,47,Female
+930,2024-12-19,East,Delhi,Electronics,Headphones,3,1087.17,10,978.45,2935.35,1219.41,Wallet,18,Other
+931,2024-09-06,East,Kolkata,Clothing,Jacket,4,4630.74,20,3704.59,14818.36,6905.52,Cash,35,Male
+932,2023-05-31,South,Bangalore,Grocery,Spices,1,2781.89,5,2642.8,2642.8,888.19,Cash,30,Female
+933,2023-08-31,West,Chennai,Electronics,Headphones,3,1782.05,5,1692.95,5078.85,1754.28,Wallet,29,Male
+934,2023-04-05,East,Delhi,Electronics,Smartphone,2,178.54,15,151.76,303.52,103.24,UPI,54,Male
+935,2024-03-10,North,Kolkata,Sports,Dumbbells,4,490.6,20,392.48,1569.92,599.36,Card,43,Female
+936,2023-12-14,West,Hyderabad,Sports,Cricket Bat,4,717.97,15,610.27,2441.08,633.2,Card,32,Female
+937,2024-04-22,East,Hyderabad,Home & Kitchen,Storage Box,5,2732.97,10,2459.67,12298.35,2831.4,Cash,30,Female
+938,2023-12-15,West,Chennai,Grocery,Snacks,1,743.31,5,706.14,706.14,174.07,Cash,24,Male
+939,2023-05-28,South,Mumbai,Sports,Football,4,3414.35,15,2902.2,11608.8,3169.96,UPI,18,Female
+940,2023-06-01,South,Delhi,Sports,Football,4,1206.37,5,1146.05,4584.2,993.56,Wallet,40,Other
+941,2024-04-05,South,Hyderabad,Home & Kitchen,Mixer,5,2306.36,20,1845.09,9225.45,4203.25,Cash,44,Female
+942,2024-04-26,West,Pune,Beauty,Makeup Kit,5,738.73,20,590.98,2954.9,603.55,Card,57,Other
+943,2024-01-26,South,Chennai,Beauty,Body Lotion,5,1657.73,15,1409.07,7045.35,2580.4,Cash,54,Male
+944,2023-06-27,East,Kolkata,Home & Kitchen,Bedsheet,1,524.86,15,446.13,446.13,169.12,Wallet,45,Male
+945,2023-09-25,South,Pune,Grocery,Milk Pack,3,755.11,5,717.35,2152.05,590.88,Card,59,Male
+946,2023-03-19,South,Bangalore,Home & Kitchen,Mixer,5,3415.42,10,3073.88,15369.4,3358.9,Wallet,21,Other
+947,2023-07-01,South,Kolkata,Home & Kitchen,Storage Box,5,1727.65,0,1727.65,8638.25,2335.85,Cash,27,Male
+948,2023-10-15,East,Bangalore,Clothing,T-Shirt,3,4010.19,20,3208.15,9624.45,3659.82,UPI,27,Other
+949,2024-06-15,West,Hyderabad,Sports,Cricket Bat,4,4777.31,5,4538.44,18153.76,8820.96,UPI,53,Male
+950,2023-12-05,East,Delhi,Electronics,Headphones,1,2085.23,5,1980.97,1980.97,513.96,Wallet,20,Male
+951,2024-04-10,South,Delhi,Beauty,Face Cream,1,4360.71,5,4142.67,4142.67,1150.58,Cash,51,Other
+952,2024-05-30,East,Delhi,Clothing,Jacket,1,3005.98,20,2404.78,2404.78,763.61,Card,32,Male
+953,2023-11-18,South,Pune,Sports,Cricket Bat,4,1218.82,15,1036.0,4144.0,1785.6,UPI,51,Female
+954,2024-12-10,West,Pune,Home & Kitchen,Lamp,2,1909.84,5,1814.35,3628.7,1685.64,Card,44,Male
+955,2023-01-15,East,Pune,Home & Kitchen,Cookware Set,3,2928.36,5,2781.94,8345.82,2676.15,UPI,55,Male
+956,2024-07-28,South,Pune,Electronics,Speaker,4,3535.38,0,3535.38,14141.52,4587.68,Card,40,Male
+957,2023-10-01,West,Pune,Sports,Cricket Bat,2,4676.49,10,4208.84,8417.68,2909.6,Cash,41,Female
+958,2023-01-08,East,Mumbai,Home & Kitchen,Cookware Set,1,3614.58,0,3614.58,3614.58,942.17,Wallet,32,Female
+959,2024-10-21,East,Mumbai,Clothing,Jeans,3,2338.75,15,1987.94,5963.82,2131.23,Card,20,Female
+960,2024-02-24,East,Kolkata,Clothing,Jeans,1,507.79,0,507.79,507.79,102.04,Wallet,29,Male
+961,2023-05-04,South,Mumbai,Beauty,Body Lotion,5,2144.1,15,1822.48,9112.4,3998.55,Cash,40,Female
+962,2024-01-25,South,Pune,Grocery,Cooking Oil,5,404.8,15,344.08,1720.4,699.5,Card,38,Male
+963,2024-12-10,South,Delhi,Home & Kitchen,Storage Box,1,2400.09,20,1920.07,1920.07,585.14,Card,35,Female
+964,2023-12-16,East,Bangalore,Clothing,Kurta,4,1559.51,15,1325.58,5302.32,1103.0,Card,24,Other
+965,2024-05-19,West,Kolkata,Home & Kitchen,Lamp,1,914.31,15,777.16,777.16,300.95,Card,19,Male
+966,2024-07-20,South,Chennai,Sports,Cricket Bat,5,135.0,5,128.25,641.25,257.3,UPI,56,Male
+967,2024-08-09,West,Kolkata,Sports,Yoga Mat,5,2306.16,5,2190.85,10954.25,3144.95,UPI,38,Other
+968,2023-12-14,North,Delhi,Grocery,Rice Bag,1,3630.24,20,2904.19,2904.19,784.83,Card,26,Male
+969,2024-10-14,West,Chennai,Home & Kitchen,Lamp,1,3894.98,0,3894.98,3894.98,1726.89,UPI,57,Female
+970,2024-08-31,South,Mumbai,Sports,Yoga Mat,3,232.82,15,197.9,593.7,196.77,Card,30,Male
+971,2024-10-21,North,Bangalore,Home & Kitchen,Bedsheet,1,2885.32,10,2596.79,2596.79,881.19,Cash,27,Male
+972,2023-01-20,South,Delhi,Grocery,Rice Bag,1,4480.27,5,4256.26,4256.26,1505.77,Wallet,45,Female
+973,2023-07-20,South,Pune,Sports,Yoga Mat,4,2318.84,0,2318.84,9275.36,1969.52,Cash,38,Other
+974,2023-03-31,East,Mumbai,Clothing,Jacket,2,1689.21,0,1689.21,3378.42,1406.42,Wallet,50,Other
+975,2024-01-22,South,Mumbai,Home & Kitchen,Mixer,1,2979.37,5,2830.4,2830.4,923.95,UPI,58,Female
+976,2023-11-08,West,Hyderabad,Home & Kitchen,Mixer,3,3677.01,20,2941.61,8824.83,3060.99,UPI,37,Male
+977,2024-02-11,West,Chennai,Electronics,Smartphone,4,665.28,5,632.02,2528.08,1034.08,Cash,40,Male
+978,2024-11-19,South,Chennai,Clothing,Saree,3,1367.68,0,1367.68,4103.04,931.89,Card,34,Female
+979,2023-04-10,North,Pune,Beauty,Shampoo,5,4072.35,10,3665.12,18325.6,5426.0,UPI,59,Female
+980,2023-04-27,North,Hyderabad,Sports,Cricket Bat,2,4717.62,0,4717.62,9435.24,4677.44,UPI,19,Other
+981,2023-02-22,North,Delhi,Electronics,Laptop,4,3768.62,20,3014.9,12059.6,2428.48,Wallet,24,Other
+982,2024-03-10,West,Chennai,Electronics,Laptop,1,4424.82,20,3539.86,3539.86,1710.77,Wallet,42,Female
+983,2023-08-14,East,Mumbai,Clothing,Jacket,5,382.93,15,325.49,1627.45,519.2,Cash,26,Other
+984,2024-10-25,North,Delhi,Home & Kitchen,Bedsheet,4,2764.56,20,2211.65,8846.6,3056.04,Cash,36,Female
+985,2023-11-02,North,Delhi,Home & Kitchen,Bedsheet,4,753.3,10,677.97,2711.88,1217.24,Card,34,Female
+986,2024-03-15,West,Kolkata,Electronics,Speaker,1,1800.1,15,1530.08,1530.08,655.04,UPI,45,Other
+987,2024-01-21,West,Pune,Beauty,Body Lotion,4,3990.67,10,3591.6,14366.4,5708.92,UPI,29,Other
+988,2023-11-06,North,Kolkata,Electronics,Smartwatch,4,1267.62,0,1267.62,5070.48,1393.48,UPI,27,Male
+989,2024-03-20,North,Delhi,Home & Kitchen,Bedsheet,3,144.53,15,122.85,368.55,127.56,UPI,49,Other
+990,2023-02-01,South,Pune,Grocery,Snacks,3,3564.09,10,3207.68,9623.04,4408.95,Wallet,46,Female
+991,2023-08-14,East,Mumbai,Clothing,Jacket,2,4353.1,5,4135.44,8270.88,3212.3,Wallet,35,Other
+992,2024-09-04,South,Kolkata,Clothing,Jacket,4,2343.71,0,2343.71,9374.84,2248.84,Card,25,Female
+993,2024-03-23,North,Bangalore,Clothing,Saree,3,4794.88,20,3835.9,11507.7,3979.53,Card,47,Other
+994,2023-02-17,West,Kolkata,Electronics,Headphones,4,4203.5,0,4203.5,16814.0,3922.64,Cash,19,Female
+995,2023-08-27,South,Hyderabad,Home & Kitchen,Storage Box,3,947.82,15,805.65,2416.95,1041.48,Wallet,21,Male
+996,2023-10-15,East,Kolkata,Home & Kitchen,Cookware Set,1,1832.02,0,1832.02,1832.02,889.68,Cash,59,Female
+997,2024-08-01,West,Mumbai,Sports,Yoga Mat,5,3584.68,5,3405.45,17027.25,6932.8,Wallet,29,Female
+998,2024-08-01,South,Bangalore,Home & Kitchen,Storage Box,2,3918.89,15,3331.06,6662.12,1365.72,Card,21,Male
+999,2024-12-10,North,Chennai,Grocery,Milk Pack,1,3608.32,15,3067.07,3067.07,1183.07,UPI,56,Other
+1000,2023-06-30,West,Hyderabad,Electronics,Speaker,2,414.06,20,331.25,662.5,184.26,UPI,51,Male
+1001,2024-07-16,North,Bangalore,Beauty,Shampoo,4,3467.23,5,3293.87,13175.48,4937.92,UPI,49,Female
+1002,2024-05-03,North,Chennai,Sports,Shoes,3,4695.35,5,4460.58,13381.74,6213.06,Wallet,29,Female
+1003,2024-02-02,South,Bangalore,Beauty,Makeup Kit,5,1804.33,20,1443.46,7217.3,2429.05,Wallet,21,Other
+1004,2024-10-09,East,Hyderabad,Sports,Cricket Bat,2,1519.67,0,1519.67,3039.34,1272.44,Cash,36,Male
+1005,2023-10-23,West,Chennai,Beauty,Makeup Kit,5,3639.82,0,3639.82,18199.1,7912.3,Wallet,36,Other
+1006,2024-10-01,West,Delhi,Beauty,Shampoo,5,2015.5,15,1713.18,8565.9,2043.15,Cash,52,Female
+1007,2023-09-01,North,Mumbai,Electronics,Headphones,3,2277.54,20,1822.03,5466.09,2621.49,Cash,52,Male
+1008,2023-05-02,South,Delhi,Clothing,T-Shirt,4,2217.93,20,1774.34,7097.36,1721.12,UPI,31,Male
+1009,2023-03-26,East,Delhi,Electronics,Headphones,5,1862.41,0,1862.41,9312.05,4145.15,Card,52,Female
+1010,2023-12-05,West,Delhi,Beauty,Shampoo,1,3537.67,0,3537.67,3537.67,943.44,UPI,19,Other
+1011,2024-01-27,East,Bangalore,Electronics,Smartphone,4,962.52,10,866.27,3465.08,936.0,Wallet,20,Other
+1012,2024-02-11,North,Mumbai,Home & Kitchen,Bedsheet,3,4098.85,15,3484.02,10452.06,2946.39,Cash,37,Male
+1013,2024-12-26,North,Delhi,Clothing,Jeans,5,1203.29,20,962.63,4813.15,1585.0,Cash,30,Female
+1014,2023-02-20,West,Hyderabad,Grocery,Snacks,2,866.17,20,692.94,1385.88,692.08,Wallet,22,Other
+1015,2024-08-14,North,Hyderabad,Beauty,Face Cream,2,2938.64,20,2350.91,4701.82,1547.88,Wallet,59,Male
+1016,2023-09-04,North,Chennai,Home & Kitchen,Mixer,4,2641.86,10,2377.67,9510.68,3473.48,Cash,19,Male
+1017,2024-06-14,South,Hyderabad,Beauty,Perfume,1,710.61,15,604.02,604.02,243.51,UPI,33,Male
+1018,2023-04-09,South,Pune,Clothing,Jacket,1,2814.5,0,2814.5,2814.5,1023.01,Wallet,23,Female
+1019,2024-05-27,South,Hyderabad,Clothing,Saree,5,1590.21,5,1510.7,7553.5,1737.9,Cash,37,Female
+1020,2024-04-12,East,Pune,Electronics,Smartphone,1,2249.38,0,2249.38,2249.38,561.68,UPI,54,Other
+1021,2024-05-25,North,Pune,Grocery,Cooking Oil,1,3267.4,5,3104.03,3104.03,1059.68,Cash,56,Male
+1022,2023-07-11,West,Kolkata,Clothing,Saree,2,3230.92,20,2584.74,5169.48,1241.42,Card,48,Male
+1023,2023-09-09,East,Delhi,Home & Kitchen,Lamp,2,1399.05,10,1259.14,2518.28,736.62,Wallet,35,Female
+1024,2023-10-10,South,Chennai,Clothing,Jeans,1,605.76,10,545.18,545.18,192.69,Cash,19,Male
+1025,2024-12-04,South,Mumbai,Clothing,Jeans,5,2389.58,10,2150.62,10753.1,2438.8,Cash,45,Male
+1026,2023-02-07,North,Hyderabad,Clothing,Jeans,5,732.52,15,622.64,3113.2,971.9,Card,44,Other
+1027,2024-04-04,North,Bangalore,Home & Kitchen,Lamp,2,3145.44,5,2988.17,5976.34,2526.54,Cash,59,Other
+1028,2023-01-17,West,Hyderabad,Home & Kitchen,Cookware Set,5,754.32,20,603.46,3017.3,655.05,UPI,51,Other
+1029,2023-06-23,East,Pune,Beauty,Face Cream,5,4191.37,5,3981.8,19909.0,6926.35,UPI,36,Other
+1030,2024-03-14,East,Bangalore,Sports,Yoga Mat,1,4668.51,20,3734.81,3734.81,1676.26,Cash,56,Male
+1031,2024-11-04,West,Bangalore,Sports,Dumbbells,4,2373.6,20,1898.88,7595.52,1677.08,Cash,50,Female
+1032,2024-11-19,South,Delhi,Sports,Yoga Mat,2,467.3,0,467.3,934.6,232.8,Cash,48,Female
+1033,2023-03-16,East,Bangalore,Home & Kitchen,Lamp,2,419.86,10,377.87,755.74,223.48,UPI,18,Female
+1034,2024-12-27,East,Pune,Grocery,Snacks,3,2742.04,15,2330.73,6992.19,1435.17,Card,42,Other
+1035,2024-06-30,West,Kolkata,Home & Kitchen,Cookware Set,3,2251.74,10,2026.57,6079.71,2651.97,Card,19,Male
+1036,2024-10-25,South,Kolkata,Grocery,Snacks,2,414.77,20,331.82,663.64,240.36,Wallet,22,Male
+1037,2024-06-26,North,Bangalore,Electronics,Smartphone,1,2191.78,15,1863.01,1863.01,493.17,UPI,48,Female
+1038,2023-06-12,North,Bangalore,Beauty,Perfume,2,1448.33,15,1231.08,2462.16,843.06,Card,23,Female
+1039,2024-07-25,North,Bangalore,Beauty,Face Cream,1,4907.12,20,3925.7,3925.7,1544.43,Wallet,38,Female
+1040,2024-06-06,South,Delhi,Clothing,Kurta,5,3527.72,15,2998.56,14992.8,7239.6,Wallet,22,Male
+1041,2023-05-10,East,Bangalore,Grocery,Snacks,3,602.39,20,481.91,1445.73,662.28,UPI,48,Female
+1042,2024-06-26,West,Pune,Electronics,Speaker,5,2300.29,10,2070.26,10351.3,4936.65,Cash,44,Female
+1043,2023-04-02,North,Mumbai,Sports,Cricket Bat,2,1298.81,10,1168.93,2337.86,1072.68,Card,42,Other
+1044,2023-08-24,North,Hyderabad,Sports,Shoes,3,1824.46,0,1824.46,5473.38,1832.64,UPI,55,Female
+1045,2023-02-12,North,Bangalore,Electronics,Laptop,5,1345.87,20,1076.7,5383.5,1464.25,Card,37,Other
+1046,2023-09-22,West,Hyderabad,Electronics,Speaker,2,3068.19,5,2914.78,5829.56,2315.98,Wallet,26,Female
+1047,2023-12-31,North,Pune,Home & Kitchen,Mixer,2,3790.28,15,3221.74,6443.48,2857.88,UPI,54,Female
+1048,2023-07-06,North,Delhi,Clothing,Kurta,1,4217.71,15,3585.05,3585.05,1674.77,Card,48,Other
+1049,2024-03-12,East,Chennai,Grocery,Rice Bag,5,1701.02,0,1701.02,8505.1,3527.75,UPI,44,Other
+1050,2023-07-01,South,Delhi,Beauty,Perfume,5,230.38,10,207.34,1036.7,437.35,Wallet,45,Female
+1051,2023-12-15,South,Delhi,Grocery,Cooking Oil,4,3606.54,20,2885.23,11540.92,3432.64,Wallet,24,Male
+1052,2024-11-03,North,Pune,Home & Kitchen,Lamp,2,1827.16,10,1644.44,3288.88,959.84,Card,19,Other
+1053,2023-11-26,East,Chennai,Clothing,Saree,1,3820.27,10,3438.24,3438.24,726.09,Wallet,27,Female
+1054,2023-06-03,East,Hyderabad,Clothing,Jeans,2,1002.1,20,801.68,1603.36,410.7,Cash,23,Male
+1055,2024-08-14,North,Chennai,Grocery,Cooking Oil,5,3929.16,5,3732.7,18663.5,5634.2,Cash,19,Other
+1056,2024-08-03,South,Kolkata,Electronics,Headphones,4,3396.88,15,2887.35,11549.4,2826.64,Wallet,37,Male
+1057,2023-05-23,South,Mumbai,Sports,Shoes,1,193.92,10,174.53,174.53,37.11,UPI,47,Female
+1058,2023-06-12,East,Chennai,Sports,Football,1,915.87,10,824.28,824.28,358.3,UPI,43,Female
+1059,2024-01-26,South,Mumbai,Home & Kitchen,Cookware Set,5,1137.4,5,1080.53,5402.65,1471.2,Cash,45,Female
+1060,2024-11-30,East,Chennai,Electronics,Smartwatch,4,4567.75,10,4110.98,16443.92,5035.48,Cash,32,Other
+1061,2024-11-22,North,Hyderabad,Electronics,Smartwatch,1,1818.81,0,1818.81,1818.81,497.54,Card,21,Male
+1062,2023-08-16,West,Hyderabad,Clothing,Kurta,3,4647.27,20,3717.82,11153.46,2283.93,UPI,35,Female
+1063,2024-02-10,West,Mumbai,Electronics,Smartwatch,2,1544.6,5,1467.37,2934.74,1418.56,Cash,24,Male
+1064,2024-02-20,South,Pune,Clothing,Kurta,3,2343.24,15,1991.75,5975.25,2511.36,Wallet,43,Other
+1065,2024-05-13,South,Pune,Beauty,Perfume,1,607.03,5,576.68,576.68,131.43,Card,24,Male
+1066,2024-08-14,East,Mumbai,Home & Kitchen,Cookware Set,4,2773.78,20,2219.02,8876.08,1919.76,Wallet,45,Male
+1067,2024-11-17,South,Kolkata,Clothing,T-Shirt,5,1577.78,10,1420.0,7100.0,2903.05,Cash,53,Male
+1068,2023-12-23,South,Bangalore,Grocery,Rice Bag,1,2915.45,5,2769.68,2769.68,958.37,Card,22,Other
+1069,2024-09-15,East,Kolkata,Electronics,Laptop,3,738.57,10,664.71,1994.13,558.18,Wallet,54,Male
+1070,2024-10-07,South,Bangalore,Home & Kitchen,Bedsheet,5,2770.41,15,2354.85,11774.25,2624.25,UPI,35,Female
+1071,2024-05-11,South,Mumbai,Grocery,Cooking Oil,2,710.61,5,675.08,1350.16,457.46,UPI,38,Other
+1072,2024-09-01,West,Delhi,Electronics,Laptop,4,3445.09,20,2756.07,11024.28,5383.12,Card,38,Female
+1073,2023-09-25,South,Bangalore,Beauty,Shampoo,1,4465.77,10,4019.19,4019.19,1005.93,UPI,31,Other
+1074,2023-11-26,South,Chennai,Electronics,Laptop,1,901.72,15,766.46,766.46,381.66,Wallet,31,Male
+1075,2023-03-29,South,Bangalore,Grocery,Snacks,3,3459.69,5,3286.71,9860.13,2898.84,Wallet,37,Female
+1076,2024-10-31,South,Pune,Beauty,Shampoo,2,624.44,10,562.0,1124.0,272.98,Wallet,35,Other
+1077,2024-08-04,East,Delhi,Grocery,Rice Bag,4,3190.11,15,2711.59,10846.36,4413.28,UPI,34,Male
+1078,2024-08-29,West,Delhi,Electronics,Speaker,2,4687.27,5,4452.91,8905.82,1940.14,UPI,22,Other
+1079,2023-05-25,South,Delhi,Grocery,Rice Bag,5,1272.73,0,1272.73,6363.65,2699.15,Wallet,53,Other
+1080,2023-05-17,West,Kolkata,Beauty,Face Cream,2,1413.19,0,1413.19,2826.38,1410.06,Cash,31,Male
+1081,2024-11-02,East,Pune,Home & Kitchen,Mixer,1,1360.05,5,1292.05,1292.05,635.12,Card,46,Other
+1082,2024-09-04,West,Mumbai,Electronics,Headphones,4,3171.09,0,3171.09,12684.36,5978.56,Wallet,56,Female
+1083,2024-09-06,West,Pune,Beauty,Perfume,3,3296.18,10,2966.56,8899.68,2130.9,UPI,59,Male
+1084,2024-10-20,East,Chennai,Clothing,Kurta,5,2940.02,5,2793.02,13965.1,5852.95,UPI,42,Other
+1085,2024-04-20,West,Mumbai,Home & Kitchen,Bedsheet,1,1136.01,15,965.61,965.61,362.96,Cash,50,Other
+1086,2024-12-01,South,Pune,Electronics,Speaker,4,1260.31,15,1071.26,4285.04,1152.64,Card,22,Female
+1087,2023-03-06,North,Delhi,Grocery,Spices,5,4889.45,0,4889.45,24447.25,11770.65,Wallet,50,Male
+1088,2023-03-08,West,Chennai,Sports,Yoga Mat,3,590.76,15,502.15,1506.45,399.93,Card,43,Female
+1089,2023-02-04,South,Hyderabad,Sports,Shoes,1,1377.24,0,1377.24,1377.24,547.22,Wallet,20,Female
+1090,2024-11-15,East,Mumbai,Sports,Dumbbells,4,2139.19,20,1711.35,6845.4,1561.92,Wallet,52,Female
+1091,2023-12-08,North,Mumbai,Sports,Cricket Bat,1,190.8,0,190.8,190.8,57.74,Card,48,Male
+1092,2023-01-28,East,Mumbai,Home & Kitchen,Lamp,4,3953.88,5,3756.19,15024.76,6133.6,UPI,22,Other
+1093,2024-07-11,South,Hyderabad,Grocery,Snacks,2,409.6,5,389.12,778.24,218.24,Cash,42,Male
+1094,2023-04-19,West,Kolkata,Beauty,Makeup Kit,2,3222.78,10,2900.5,5801.0,1166.78,Cash,43,Male
+1095,2024-03-10,North,Mumbai,Home & Kitchen,Cookware Set,1,4098.68,20,3278.94,3278.94,1300.33,Card,59,Other
+1096,2023-04-09,West,Pune,Home & Kitchen,Bedsheet,4,2113.62,5,2007.94,8031.76,3416.4,Wallet,51,Other
+1097,2023-05-01,North,Mumbai,Clothing,Saree,2,856.64,15,728.14,1456.28,687.26,UPI,39,Other
+1098,2024-10-01,South,Mumbai,Home & Kitchen,Storage Box,5,1258.73,5,1195.79,5978.95,2370.2,Card,47,Male
+1099,2023-10-04,South,Delhi,Beauty,Makeup Kit,2,896.3,0,896.3,1792.6,792.86,UPI,57,Female
+1100,2023-07-10,West,Hyderabad,Grocery,Milk Pack,1,3355.26,10,3019.73,3019.73,819.23,Wallet,25,Female
+1101,2023-10-23,East,Mumbai,Grocery,Snacks,3,142.23,5,135.12,405.36,149.73,UPI,36,Other
+1102,2023-04-28,West,Delhi,Grocery,Cooking Oil,2,136.57,15,116.08,232.16,66.06,Wallet,36,Male
+1103,2023-06-03,North,Pune,Grocery,Milk Pack,5,3687.87,5,3503.48,17517.4,7823.9,Wallet,25,Other
+1104,2023-12-12,South,Pune,Sports,Yoga Mat,5,2256.88,20,1805.5,9027.5,2266.05,Wallet,43,Male
+1105,2024-12-25,East,Bangalore,Home & Kitchen,Bedsheet,5,1365.67,20,1092.54,5462.7,2683.55,Wallet,40,Other
+1106,2024-02-26,West,Pune,Clothing,Jacket,1,2490.71,5,2366.17,2366.17,1143.53,Card,43,Female
+1107,2023-03-13,West,Kolkata,Beauty,Body Lotion,5,4978.66,5,4729.73,23648.65,8692.05,Cash,55,Male
+1108,2023-01-14,East,Delhi,Clothing,T-Shirt,2,4592.1,5,4362.5,8725.0,3181.66,Wallet,41,Other
+1109,2024-07-19,East,Kolkata,Sports,Shoes,2,2972.55,15,2526.67,5053.34,2235.12,UPI,46,Female
+1110,2023-08-13,East,Bangalore,Beauty,Body Lotion,2,4582.73,5,4353.59,8707.18,2961.16,UPI,52,Male
+1111,2023-05-06,South,Mumbai,Sports,Yoga Mat,3,733.97,5,697.27,2091.81,462.33,UPI,38,Male
+1112,2023-01-01,West,Pune,Electronics,Smartphone,1,989.99,10,890.99,890.99,431.92,Card,19,Female
+1113,2024-11-05,West,Pune,Sports,Shoes,1,4640.27,10,4176.24,4176.24,919.69,Wallet,52,Other
+1114,2023-09-03,North,Kolkata,Clothing,T-Shirt,3,512.64,10,461.38,1384.14,415.35,Wallet,36,Other
+1115,2024-10-01,West,Mumbai,Clothing,Saree,3,2206.24,0,2206.24,6618.72,2962.29,UPI,22,Female
+1116,2024-01-02,East,Chennai,Electronics,Headphones,3,1302.73,15,1107.32,3321.96,886.8,UPI,44,Other
+1117,2024-02-08,East,Kolkata,Sports,Dumbbells,4,3111.05,5,2955.5,11822.0,5554.72,Cash,58,Male
+1118,2023-09-15,South,Pune,Electronics,Headphones,2,220.88,10,198.79,397.58,135.18,Cash,28,Female
+1119,2023-01-09,North,Pune,Electronics,Speaker,2,1139.2,10,1025.28,2050.56,634.48,UPI,32,Male
+1120,2023-09-30,South,Chennai,Grocery,Milk Pack,4,1113.31,0,1113.31,4453.24,2200.36,Wallet,27,Female
+1121,2023-10-07,West,Hyderabad,Beauty,Perfume,1,4831.49,10,4348.34,4348.34,1732.59,Cash,40,Other
+1122,2024-02-23,West,Pune,Electronics,Smartphone,2,3433.23,10,3089.91,6179.82,2333.62,UPI,46,Male
+1123,2024-10-20,North,Bangalore,Clothing,Saree,3,3285.55,0,3285.55,9856.65,4835.13,Wallet,20,Other
+1124,2024-12-30,East,Pune,Grocery,Spices,2,4505.22,20,3604.18,7208.36,1850.52,UPI,38,Female
+1125,2024-02-22,West,Chennai,Sports,Yoga Mat,3,4741.05,15,4029.89,12089.67,4289.85,Wallet,34,Female
+1126,2023-12-03,West,Chennai,Grocery,Spices,3,528.34,15,449.09,1347.27,586.5,Card,56,Other
+1127,2024-03-01,East,Delhi,Home & Kitchen,Storage Box,4,1163.81,20,931.05,3724.2,1539.04,UPI,28,Female
+1128,2023-02-24,North,Mumbai,Sports,Cricket Bat,5,344.31,0,344.31,1721.55,666.05,Wallet,48,Female
+1129,2023-06-14,West,Bangalore,Grocery,Cooking Oil,1,1440.36,20,1152.29,1152.29,236.38,Cash,48,Female
+1130,2023-09-21,East,Pune,Beauty,Makeup Kit,3,801.0,5,760.95,2282.85,661.08,UPI,44,Other
+1131,2023-04-06,East,Hyderabad,Grocery,Milk Pack,3,342.61,20,274.09,822.27,208.2,UPI,22,Male
+1132,2023-09-29,South,Bangalore,Sports,Shoes,4,2755.87,20,2204.7,8818.8,2521.2,Card,55,Other
+1133,2024-10-05,North,Mumbai,Home & Kitchen,Lamp,4,3453.73,5,3281.04,13124.16,3547.96,Card,43,Male
+1134,2024-10-04,South,Pune,Grocery,Spices,1,831.97,0,831.97,831.97,282.07,UPI,22,Female
+1135,2023-05-07,West,Delhi,Clothing,T-Shirt,5,1143.87,0,1143.87,5719.35,2715.9,UPI,52,Male
+1136,2023-04-30,South,Kolkata,Beauty,Body Lotion,4,3836.42,5,3644.6,14578.4,4547.72,Wallet,30,Female
+1137,2024-05-22,East,Delhi,Electronics,Speaker,1,4038.1,10,3634.29,3634.29,1138.66,Card,37,Male
+1138,2024-04-16,West,Bangalore,Sports,Football,5,2329.29,0,2329.29,11646.45,5360.4,Wallet,37,Male
+1139,2023-01-11,North,Chennai,Grocery,Rice Bag,4,4093.58,15,3479.54,13918.16,5213.8,Card,59,Male
+1140,2023-03-25,East,Delhi,Electronics,Headphones,1,586.26,15,498.32,498.32,229.89,UPI,40,Other
+1141,2023-07-11,East,Chennai,Sports,Dumbbells,2,3153.38,10,2838.04,5676.08,1300.62,Wallet,32,Other
+1142,2024-12-11,West,Hyderabad,Home & Kitchen,Cookware Set,4,573.54,20,458.83,1835.32,787.88,UPI,58,Other
+1143,2023-11-24,East,Hyderabad,Home & Kitchen,Lamp,2,4381.02,0,4381.02,8762.04,3368.72,Wallet,21,Female
+1144,2023-07-01,West,Hyderabad,Electronics,Laptop,2,318.09,10,286.28,572.56,258.64,UPI,35,Male
+1145,2023-09-01,South,Chennai,Grocery,Spices,5,3818.45,0,3818.45,19092.25,9094.05,Cash,38,Male
+1146,2023-09-07,South,Chennai,Grocery,Cooking Oil,1,2425.27,10,2182.74,2182.74,469.11,Cash,31,Male
+1147,2023-04-10,South,Mumbai,Grocery,Spices,5,2031.53,10,1828.38,9141.9,2385.5,Cash,30,Other
+1148,2024-01-12,East,Pune,Home & Kitchen,Storage Box,2,2502.53,0,2502.53,5005.06,1253.36,Wallet,35,Male
+1149,2024-06-30,East,Delhi,Grocery,Snacks,1,1733.17,20,1386.54,1386.54,391.26,Wallet,36,Male
+1150,2024-10-03,West,Chennai,Sports,Yoga Mat,3,4550.9,20,3640.72,10922.16,3731.79,Cash,42,Female
+1151,2023-11-14,South,Bangalore,Beauty,Face Cream,4,4893.82,20,3915.06,15660.24,7330.88,Wallet,33,Male
+1152,2023-05-21,North,Mumbai,Sports,Cricket Bat,2,935.64,0,935.64,1871.28,915.9,Wallet,33,Male
+1153,2024-05-05,East,Chennai,Beauty,Body Lotion,3,2766.13,15,2351.21,7053.63,2895.18,Cash,38,Female
+1154,2024-06-06,South,Chennai,Home & Kitchen,Lamp,2,1710.92,0,1710.92,3421.84,1521.58,Wallet,23,Other
+1155,2024-07-09,West,Hyderabad,Grocery,Spices,3,3821.65,5,3630.57,10891.71,5195.49,Wallet,55,Female
+1156,2024-01-26,South,Hyderabad,Electronics,Headphones,3,2497.47,0,2497.47,7492.41,2121.63,Cash,54,Female
+1157,2024-08-26,South,Kolkata,Clothing,Saree,5,3735.78,20,2988.62,14943.1,3649.65,Card,31,Female
+1158,2023-01-26,North,Mumbai,Home & Kitchen,Mixer,2,4384.55,5,4165.32,8330.64,3093.46,Wallet,48,Female
+1159,2024-03-31,West,Kolkata,Home & Kitchen,Lamp,5,720.52,0,720.52,3602.6,1240.15,UPI,53,Male
+1160,2024-05-27,North,Delhi,Clothing,Saree,2,1060.3,20,848.24,1696.48,551.38,UPI,44,Other
+1161,2024-10-21,West,Bangalore,Grocery,Milk Pack,1,1675.51,15,1424.18,1424.18,479.31,Card,35,Female
+1162,2023-09-30,West,Bangalore,Electronics,Laptop,5,3541.75,15,3010.49,15052.45,5478.0,Card,25,Female
+1163,2024-11-21,North,Hyderabad,Beauty,Face Cream,4,3670.32,10,3303.29,13213.16,5805.56,UPI,45,Male
+1164,2024-02-02,South,Bangalore,Home & Kitchen,Mixer,3,1978.6,10,1780.74,5342.22,1385.34,UPI,56,Female
+1165,2023-08-16,North,Hyderabad,Sports,Yoga Mat,4,3664.93,10,3298.44,13193.76,5998.16,Wallet,48,Male
+1166,2024-06-20,North,Delhi,Home & Kitchen,Cookware Set,3,1942.26,20,1553.81,4661.43,1576.05,Card,43,Male
+1167,2024-08-18,North,Chennai,Electronics,Speaker,4,188.34,15,160.09,640.36,241.32,Card,55,Male
+1168,2023-08-27,West,Bangalore,Electronics,Laptop,3,4028.95,10,3626.06,10878.18,3900.96,Wallet,19,Female
+1169,2023-02-10,East,Delhi,Sports,Yoga Mat,3,3727.85,10,3355.06,10065.18,2667.81,Card,31,Male
+1170,2024-05-04,East,Bangalore,Clothing,Kurta,2,3162.95,10,2846.66,5693.32,2547.96,UPI,29,Other
+1171,2024-01-23,South,Bangalore,Electronics,Headphones,3,346.58,15,294.59,883.77,261.6,UPI,42,Other
+1172,2024-04-19,West,Bangalore,Electronics,Headphones,5,3753.58,10,3378.22,16891.1,5072.5,Card,38,Other
+1173,2024-09-29,East,Mumbai,Beauty,Face Cream,4,4623.55,5,4392.37,17569.48,4937.44,Card,22,Other
+1174,2023-04-06,West,Delhi,Clothing,Saree,4,402.21,0,402.21,1608.84,705.6,Cash,52,Male
+1175,2024-06-15,South,Bangalore,Grocery,Spices,5,3282.76,5,3118.62,15593.1,7549.45,UPI,34,Other
+1176,2023-02-02,North,Chennai,Clothing,Jeans,3,881.75,10,793.58,2380.74,560.13,Wallet,29,Female
+1177,2023-09-03,East,Mumbai,Sports,Dumbbells,5,1725.12,20,1380.1,6900.5,3015.25,Cash,24,Other
+1178,2024-01-29,East,Chennai,Grocery,Snacks,4,2008.63,0,2008.63,8034.52,3979.44,Card,23,Other
+1179,2023-09-04,West,Mumbai,Beauty,Body Lotion,3,540.13,10,486.12,1458.36,665.46,UPI,54,Male
+1180,2024-06-10,East,Chennai,Home & Kitchen,Bedsheet,2,4999.26,10,4499.33,8998.66,2775.18,Cash,41,Male
+1181,2023-03-10,South,Hyderabad,Electronics,Smartphone,1,4611.08,15,3919.42,3919.42,1713.6,UPI,45,Other
+1182,2024-10-08,South,Kolkata,Home & Kitchen,Cookware Set,4,106.21,20,84.97,339.88,76.12,Wallet,39,Female
+1183,2024-12-10,North,Chennai,Electronics,Speaker,2,543.05,20,434.44,868.88,192.9,Wallet,35,Male
+1184,2024-10-20,East,Kolkata,Grocery,Rice Bag,2,3965.83,5,3767.54,7535.08,1758.5,Cash,25,Other
+1185,2024-12-27,East,Bangalore,Sports,Cricket Bat,4,1818.48,20,1454.78,5819.12,2726.56,UPI,51,Other
+1186,2024-12-15,West,Mumbai,Sports,Shoes,2,841.91,5,799.81,1599.62,626.28,Cash,57,Female
+1187,2024-04-05,West,Pune,Sports,Yoga Mat,4,4065.91,15,3456.02,13824.08,6716.2,Wallet,55,Other
+1188,2024-03-25,West,Bangalore,Grocery,Milk Pack,4,444.99,15,378.24,1512.96,579.36,Cash,24,Male
+1189,2023-12-24,West,Hyderabad,Grocery,Rice Bag,4,119.4,15,101.49,405.96,181.72,UPI,59,Male
+1190,2023-04-18,West,Mumbai,Grocery,Spices,2,4231.41,15,3596.7,7193.4,2192.42,Card,20,Male
+1191,2024-01-21,North,Chennai,Grocery,Milk Pack,5,1156.01,5,1098.21,5491.05,1849.2,Wallet,26,Other
+1192,2023-07-01,South,Kolkata,Electronics,Laptop,3,3072.91,20,2458.33,7374.99,1923.21,UPI,31,Female
+1193,2023-02-22,West,Pune,Home & Kitchen,Bedsheet,4,2828.51,10,2545.66,10182.64,5036.08,UPI,21,Male
+1194,2023-01-01,West,Chennai,Clothing,Jacket,3,282.39,15,240.03,720.09,216.72,Card,31,Other
+1195,2023-05-13,East,Pune,Electronics,Smartwatch,1,4425.83,10,3983.25,3983.25,974.06,Wallet,20,Male
+1196,2024-03-24,West,Hyderabad,Clothing,T-Shirt,5,4876.32,10,4388.69,21943.45,5027.05,UPI,29,Female
+1197,2023-12-15,South,Chennai,Clothing,Kurta,3,1770.64,15,1505.04,4515.12,1393.05,Cash,47,Male
+1198,2024-11-21,South,Bangalore,Home & Kitchen,Storage Box,2,4649.03,5,4416.58,8833.16,3216.8,Wallet,27,Other
+1199,2024-06-06,South,Mumbai,Beauty,Shampoo,2,4811.9,20,3849.52,7699.04,2413.02,Cash,50,Other
+1200,2023-04-19,South,Kolkata,Beauty,Shampoo,4,2751.9,20,2201.52,8806.08,2916.6,Card,44,Other
+1201,2023-08-13,North,Bangalore,Electronics,Smartwatch,1,3596.68,0,3596.68,3596.68,1318.79,Card,49,Female
+1202,2023-06-08,North,Bangalore,Clothing,Jacket,5,602.23,0,602.23,3011.15,1428.65,Cash,26,Female
+1203,2024-04-11,East,Delhi,Sports,Cricket Bat,3,4825.72,20,3860.58,11581.74,2341.98,Card,42,Female
+1204,2024-03-04,West,Bangalore,Sports,Football,3,1815.91,5,1725.11,5175.33,2104.02,Cash,28,Male
+1205,2024-12-24,North,Pune,Clothing,Kurta,3,3192.82,20,2554.26,7662.78,2966.58,Cash,57,Female
+1206,2023-05-26,West,Hyderabad,Clothing,Jacket,2,2677.14,15,2275.57,4551.14,1116.94,Card,50,Other
+1207,2024-03-10,South,Delhi,Electronics,Laptop,4,3669.27,20,2935.42,11741.68,4893.28,Card,46,Other
+1208,2024-05-12,North,Kolkata,Electronics,Laptop,5,2928.21,20,2342.57,11712.85,5559.95,Wallet,23,Male
+1209,2024-02-06,West,Kolkata,Electronics,Speaker,3,2596.59,0,2596.59,7789.77,3715.59,UPI,25,Female
+1210,2024-11-26,East,Hyderabad,Beauty,Face Cream,2,3376.49,0,3376.49,6752.98,2548.5,Cash,29,Female
+1211,2023-10-30,South,Delhi,Beauty,Shampoo,2,358.28,0,358.28,716.56,147.84,UPI,53,Male
+1212,2023-01-19,South,Delhi,Home & Kitchen,Lamp,5,1291.31,0,1291.31,6456.55,2860.4,Wallet,21,Male
+1213,2024-03-20,South,Hyderabad,Grocery,Rice Bag,5,1502.77,10,1352.49,6762.45,2072.2,Card,48,Other
+1214,2023-06-10,East,Kolkata,Clothing,Jacket,3,4048.24,15,3441.0,10323.0,4935.15,Cash,39,Male
+1215,2023-05-25,East,Kolkata,Clothing,Jacket,5,4902.03,0,4902.03,24510.15,10282.6,Card,56,Other
+1216,2023-02-12,East,Pune,Beauty,Perfume,4,149.56,10,134.6,538.4,177.24,UPI,59,Other
+1217,2024-10-24,East,Mumbai,Beauty,Face Cream,2,2748.71,0,2748.71,5497.42,1232.02,Wallet,30,Male
+1218,2023-02-22,North,Chennai,Clothing,Saree,4,4257.56,15,3618.93,14475.72,6194.56,UPI,30,Female
+1219,2024-07-25,North,Mumbai,Beauty,Shampoo,5,1358.88,15,1155.05,5775.25,2269.5,UPI,48,Female
+1220,2024-05-27,South,Chennai,Clothing,Kurta,1,4167.99,15,3542.79,3542.79,1117.27,Card,40,Other
+1221,2023-08-11,West,Pune,Clothing,Jeans,3,2676.27,20,2141.02,6423.06,2091.12,UPI,54,Female
+1222,2023-06-14,East,Hyderabad,Grocery,Cooking Oil,2,4460.2,20,3568.16,7136.32,3196.34,Card,42,Male
+1223,2024-10-04,West,Chennai,Clothing,Saree,3,1308.62,10,1177.76,3533.28,715.32,UPI,56,Female
+1224,2023-05-17,North,Pune,Beauty,Perfume,5,4182.64,0,4182.64,20913.2,5893.75,Cash,50,Female
+1225,2023-08-18,East,Mumbai,Grocery,Cooking Oil,1,4954.15,10,4458.73,4458.73,1788.58,UPI,40,Other
+1226,2024-09-14,West,Kolkata,Sports,Yoga Mat,4,4299.06,0,4299.06,17196.24,5767.04,Wallet,46,Other
+1227,2024-12-13,East,Hyderabad,Home & Kitchen,Cookware Set,2,4379.47,0,4379.47,8758.94,2644.32,Card,25,Other
+1228,2023-12-23,West,Chennai,Grocery,Snacks,5,1566.32,15,1331.37,6656.85,3233.0,UPI,29,Female
+1229,2023-03-02,West,Mumbai,Home & Kitchen,Cookware Set,1,715.52,5,679.74,679.74,159.21,UPI,49,Other
+1230,2024-10-21,West,Delhi,Beauty,Makeup Kit,1,3702.73,5,3517.59,3517.59,822.3,Card,52,Other
+1231,2024-04-06,West,Pune,Sports,Football,2,1385.14,0,1385.14,2770.28,1254.74,UPI,35,Female
+1232,2023-04-30,South,Hyderabad,Grocery,Milk Pack,1,1414.61,5,1343.88,1343.88,599.02,Card,48,Female
+1233,2023-01-15,North,Hyderabad,Beauty,Shampoo,3,1335.51,0,1335.51,4006.53,1384.02,UPI,45,Other
+1234,2024-04-19,East,Bangalore,Sports,Cricket Bat,3,3362.7,0,3362.7,10088.1,2155.56,Cash,46,Female
+1235,2023-12-10,South,Delhi,Beauty,Perfume,3,3318.39,20,2654.71,7964.13,2693.79,UPI,28,Female
+1236,2023-04-26,South,Chennai,Grocery,Cooking Oil,1,411.65,15,349.9,349.9,86.66,Wallet,24,Female
+1237,2024-04-04,North,Kolkata,Home & Kitchen,Storage Box,2,2208.68,0,2208.68,4417.36,1252.9,Wallet,55,Female
+1238,2023-02-08,South,Delhi,Sports,Cricket Bat,4,1801.71,15,1531.45,6125.8,1792.84,Cash,47,Male
+1239,2023-04-15,South,Mumbai,Home & Kitchen,Lamp,1,4746.17,10,4271.55,4271.55,1095.91,Card,35,Male
+1240,2023-02-01,North,Pune,Sports,Dumbbells,5,2736.79,10,2463.11,12315.55,5192.0,Cash,53,Female
+1241,2023-03-27,North,Chennai,Sports,Football,2,2300.51,10,2070.46,4140.92,1390.86,Card,51,Female
+1242,2023-07-14,North,Bangalore,Home & Kitchen,Cookware Set,4,2633.95,15,2238.86,8955.44,4136.84,Cash,36,Male
+1243,2024-09-28,West,Chennai,Sports,Dumbbells,3,2464.22,10,2217.8,6653.4,2516.7,Cash,23,Female
+1244,2023-05-13,West,Kolkata,Clothing,Saree,2,2512.77,10,2261.49,4522.98,1685.66,UPI,29,Female
+1245,2023-04-30,West,Hyderabad,Home & Kitchen,Cookware Set,5,1564.74,0,1564.74,7823.7,2999.6,Cash,38,Other
+1246,2024-12-27,East,Mumbai,Sports,Football,5,4467.44,0,4467.44,22337.2,10195.4,UPI,59,Other
+1247,2024-04-20,East,Bangalore,Electronics,Headphones,1,4818.49,0,4818.49,4818.49,987.71,Card,41,Other
+1248,2023-08-19,South,Delhi,Home & Kitchen,Cookware Set,3,276.23,10,248.61,745.83,192.21,Cash,53,Other
+1249,2023-03-31,South,Mumbai,Grocery,Cooking Oil,4,4584.18,10,4125.76,16503.04,4869.16,Card,56,Male
+1250,2024-08-18,South,Pune,Sports,Shoes,1,4243.0,10,3818.7,3818.7,1326.83,Card,30,Male
+1251,2023-04-14,East,Kolkata,Beauty,Makeup Kit,2,1126.15,0,1126.15,2252.3,1020.96,UPI,56,Male
+1252,2023-02-16,North,Delhi,Electronics,Headphones,4,1137.81,5,1080.92,4323.68,916.92,UPI,56,Other
+1253,2024-07-30,West,Mumbai,Electronics,Smartwatch,5,4547.98,20,3638.38,18191.9,8960.5,Card,36,Other
+1254,2024-08-26,North,Pune,Beauty,Perfume,5,4306.01,0,4306.01,21530.05,4941.4,Wallet,41,Male
+1255,2024-07-05,North,Delhi,Grocery,Milk Pack,5,1180.15,0,1180.15,5900.75,2507.2,Card,23,Other
+1256,2023-05-15,South,Delhi,Home & Kitchen,Cookware Set,3,4452.53,5,4229.9,12689.7,4034.16,Wallet,23,Male
+1257,2023-02-10,South,Kolkata,Grocery,Spices,1,2838.87,20,2271.1,2271.1,952.55,UPI,24,Other
+1258,2024-03-28,South,Pune,Clothing,Saree,1,521.97,0,521.97,521.97,182.25,UPI,35,Other
+1259,2023-08-31,East,Delhi,Electronics,Smartwatch,2,2266.12,0,2266.12,4532.24,1834.72,Wallet,54,Male
+1260,2023-11-04,South,Chennai,Home & Kitchen,Cookware Set,4,1543.56,10,1389.2,5556.8,1509.76,UPI,31,Male
+1261,2024-02-22,East,Delhi,Sports,Cricket Bat,3,2814.45,20,2251.56,6754.68,2803.41,Wallet,43,Other
+1262,2023-05-21,North,Mumbai,Electronics,Headphones,5,3008.88,20,2407.1,12035.5,5354.05,Cash,39,Male
+1263,2024-06-06,North,Pune,Sports,Cricket Bat,5,1030.67,15,876.07,4380.35,2036.85,Card,54,Female
+1264,2024-10-07,East,Chennai,Beauty,Face Cream,1,3762.81,15,3198.39,3198.39,1165.15,UPI,53,Female
+1265,2024-10-25,East,Chennai,Grocery,Milk Pack,1,481.61,15,409.37,409.37,158.48,UPI,25,Female
+1266,2023-07-09,West,Bangalore,Clothing,Kurta,3,4420.37,0,4420.37,13261.11,2999.94,Wallet,39,Male
+1267,2024-01-08,North,Chennai,Home & Kitchen,Lamp,4,2558.92,0,2558.92,10235.68,3672.44,Cash,50,Male
+1268,2023-01-21,East,Bangalore,Clothing,Saree,5,1036.2,10,932.58,4662.9,1833.1,Cash,31,Male
+1269,2024-11-02,East,Delhi,Sports,Dumbbells,3,1981.69,0,1981.69,5945.07,1636.68,UPI,31,Other
+1270,2024-07-19,East,Mumbai,Grocery,Spices,4,1334.79,20,1067.83,4271.32,979.96,Wallet,57,Female
+1271,2024-07-14,East,Kolkata,Home & Kitchen,Lamp,1,2798.38,15,2378.62,2378.62,1037.83,Wallet,51,Male
+1272,2023-09-04,West,Hyderabad,Sports,Football,2,1366.12,15,1161.2,2322.4,787.16,UPI,41,Female
+1273,2023-05-15,South,Bangalore,Grocery,Rice Bag,4,1610.93,10,1449.84,5799.36,1570.32,Cash,54,Other
+1274,2023-09-15,East,Mumbai,Home & Kitchen,Mixer,1,599.05,0,599.05,599.05,263.64,UPI,32,Other
+1275,2023-11-19,South,Chennai,Sports,Yoga Mat,2,1084.3,20,867.44,1734.88,528.16,UPI,52,Male
+1276,2024-06-02,West,Pune,Grocery,Cooking Oil,2,3859.14,15,3280.27,6560.54,2717.68,Card,55,Male
+1277,2024-11-21,East,Kolkata,Grocery,Spices,3,1793.72,5,1704.03,5112.09,1483.23,Card,28,Other
+1278,2024-05-04,West,Bangalore,Home & Kitchen,Bedsheet,4,778.15,0,778.15,3112.6,688.08,Cash,58,Other
+1279,2023-03-10,North,Hyderabad,Sports,Cricket Bat,2,439.59,0,439.59,879.18,200.4,Cash,58,Male
+1280,2023-01-14,East,Kolkata,Sports,Shoes,2,2304.04,10,2073.64,4147.28,1324.66,UPI,23,Male
+1281,2023-07-08,West,Mumbai,Home & Kitchen,Lamp,3,543.43,10,489.09,1467.27,552.9,Wallet,45,Female
+1282,2024-07-25,North,Kolkata,Clothing,Saree,2,1028.82,0,1028.82,2057.64,498.58,Card,24,Male
+1283,2024-08-31,West,Pune,Clothing,Jacket,2,2246.31,0,2246.31,4492.62,2005.96,Wallet,57,Female
+1284,2023-10-07,West,Delhi,Beauty,Makeup Kit,4,2148.05,5,2040.65,8162.6,3714.52,Cash,47,Female
+1285,2023-10-07,East,Hyderabad,Electronics,Speaker,2,3674.14,0,3674.14,7348.28,2412.54,Cash,18,Female
+1286,2024-08-24,West,Delhi,Electronics,Smartphone,3,1798.92,15,1529.08,4587.24,1198.23,Wallet,38,Female
+1287,2024-12-14,South,Kolkata,Home & Kitchen,Storage Box,4,1726.8,15,1467.78,5871.12,2667.88,Card,47,Male
+1288,2023-02-02,West,Chennai,Electronics,Smartwatch,1,3267.19,15,2777.11,2777.11,1183.31,Card,41,Female
+1289,2023-04-23,South,Hyderabad,Home & Kitchen,Cookware Set,4,745.38,20,596.3,2385.2,757.92,Card,30,Other
+1290,2024-12-28,North,Mumbai,Clothing,Kurta,2,312.82,0,312.82,625.64,269.06,Cash,52,Female
+1291,2023-02-17,South,Mumbai,Clothing,T-Shirt,3,2633.33,0,2633.33,7899.99,3911.79,Cash,56,Male
+1292,2024-09-04,South,Delhi,Beauty,Body Lotion,2,1823.38,10,1641.04,3282.08,1436.44,Card,27,Male
+1293,2024-11-22,North,Mumbai,Home & Kitchen,Cookware Set,3,4034.88,15,3429.65,10288.95,3054.66,Cash,47,Female
+1294,2024-03-11,South,Mumbai,Grocery,Milk Pack,2,3730.33,10,3357.3,6714.6,2634.4,Cash,59,Other
+1295,2023-02-20,West,Bangalore,Sports,Football,2,1592.16,15,1353.34,2706.68,1168.84,Wallet,39,Female
+1296,2024-09-02,South,Kolkata,Grocery,Spices,2,4271.18,0,4271.18,8542.36,1888.06,Cash,36,Male
+1297,2024-01-25,North,Hyderabad,Home & Kitchen,Bedsheet,4,1213.88,20,971.1,3884.4,1827.36,Card,58,Female
+1298,2024-05-23,East,Mumbai,Home & Kitchen,Cookware Set,2,4136.35,10,3722.72,7445.44,3694.62,Cash,23,Male
+1299,2024-11-15,North,Hyderabad,Grocery,Rice Bag,3,3556.25,20,2845.0,8535.0,2753.46,Wallet,54,Other
+1300,2024-11-06,North,Hyderabad,Sports,Football,3,3754.1,20,3003.28,9009.84,2893.8,Cash,43,Female
+1301,2023-03-31,East,Pune,Clothing,Kurta,5,2793.45,5,2653.78,13268.9,3421.0,Cash,37,Male
+1302,2024-05-07,North,Kolkata,Electronics,Headphones,4,1195.65,0,1195.65,4782.6,1793.52,Cash,21,Male
+1303,2023-12-05,North,Chennai,Beauty,Perfume,5,2859.51,0,2859.51,14297.55,6385.8,Card,41,Other
+1304,2024-05-07,West,Pune,Grocery,Snacks,2,799.94,5,759.94,1519.88,708.3,Wallet,45,Male
+1305,2024-02-28,North,Chennai,Clothing,T-Shirt,3,4323.03,20,3458.42,10375.26,2892.51,Wallet,59,Male
+1306,2023-01-01,South,Mumbai,Sports,Shoes,5,2226.05,10,2003.45,10017.25,3782.85,UPI,58,Female
+1307,2023-06-16,North,Mumbai,Electronics,Smartphone,2,2833.61,0,2833.61,5667.22,1835.02,Wallet,40,Other
+1308,2024-11-12,West,Delhi,Clothing,Saree,4,2302.96,0,2302.96,9211.84,4115.24,UPI,51,Other
+1309,2024-01-28,West,Chennai,Beauty,Face Cream,1,1505.55,0,1505.55,1505.55,482.59,Wallet,23,Male
+1310,2024-04-10,North,Chennai,Beauty,Face Cream,5,1497.41,0,1497.41,7487.05,2521.55,UPI,31,Other
+1311,2024-05-25,East,Kolkata,Clothing,Kurta,4,1238.22,5,1176.31,4705.24,1947.16,Card,38,Female
+1312,2024-04-29,North,Mumbai,Beauty,Shampoo,4,4052.76,15,3444.85,13779.4,5112.84,Card,57,Male
+1313,2024-08-12,South,Kolkata,Home & Kitchen,Lamp,2,173.61,5,164.93,329.86,106.72,UPI,56,Other
+1314,2024-02-07,South,Chennai,Sports,Football,2,2188.0,20,1750.4,3500.8,1221.98,UPI,21,Female
+1315,2024-10-25,North,Delhi,Beauty,Makeup Kit,4,3673.28,5,3489.62,13958.48,3719.92,Card,51,Female
+1316,2023-04-07,East,Bangalore,Sports,Football,4,4323.21,0,4323.21,17292.84,5790.28,UPI,27,Other
+1317,2024-11-13,South,Delhi,Sports,Cricket Bat,4,2052.55,0,2052.55,8210.2,2409.64,UPI,32,Other
+1318,2023-12-14,East,Bangalore,Electronics,Smartphone,1,1347.84,20,1078.27,1078.27,507.42,Wallet,51,Other
+1319,2024-02-12,West,Pune,Electronics,Speaker,5,2941.05,15,2499.89,12499.45,5427.05,Wallet,52,Other
+1320,2024-11-12,West,Delhi,Electronics,Smartphone,5,2222.93,0,2222.93,11114.65,3091.6,Cash,27,Male
+1321,2024-05-07,South,Pune,Grocery,Milk Pack,5,2867.72,5,2724.33,13621.65,3647.9,Wallet,47,Female
+1322,2023-04-06,South,Hyderabad,Clothing,Jacket,1,3365.98,0,3365.98,3365.98,1169.32,Card,18,Male
+1323,2024-12-25,North,Bangalore,Beauty,Body Lotion,4,2723.81,5,2587.62,10350.48,2506.36,Card,26,Female
+1324,2023-04-23,East,Pune,Home & Kitchen,Bedsheet,4,2649.59,10,2384.63,9538.52,2565.2,Cash,39,Male
+1325,2023-06-10,South,Mumbai,Clothing,Jeans,2,4074.41,5,3870.69,7741.38,2668.6,Wallet,33,Male
+1326,2023-08-23,West,Chennai,Beauty,Makeup Kit,4,4814.76,5,4574.02,18296.08,8659.48,Card,25,Female
+1327,2024-06-01,South,Chennai,Electronics,Smartphone,2,4530.16,5,4303.65,8607.3,3295.86,Cash,55,Female
+1328,2024-10-10,South,Hyderabad,Sports,Dumbbells,3,3385.19,10,3046.67,9140.01,1915.68,UPI,38,Male
+1329,2023-12-16,North,Hyderabad,Home & Kitchen,Storage Box,2,918.06,5,872.16,1744.32,482.18,Card,47,Female
+1330,2024-08-16,South,Pune,Electronics,Smartphone,1,1721.86,5,1635.77,1635.77,665.82,Wallet,23,Female
+1331,2023-12-08,West,Delhi,Clothing,Jacket,4,1211.12,0,1211.12,4844.48,1419.68,UPI,23,Male
+1332,2024-11-06,West,Mumbai,Clothing,Jacket,5,3177.0,0,3177.0,15885.0,3607.85,Wallet,24,Male
+1333,2023-04-28,West,Pune,Clothing,Jeans,2,1208.14,0,1208.14,2416.28,513.88,UPI,43,Male
+1334,2024-06-21,South,Delhi,Grocery,Rice Bag,2,2708.57,20,2166.86,4333.72,1757.38,UPI,19,Other
+1335,2023-05-22,North,Pune,Electronics,Speaker,1,4794.1,10,4314.69,4314.69,1603.98,Card,48,Other
+1336,2024-06-01,West,Hyderabad,Sports,Dumbbells,5,1747.91,5,1660.51,8302.55,2019.35,Cash,58,Other
+1337,2024-03-03,South,Bangalore,Grocery,Milk Pack,2,985.12,5,935.86,1871.72,786.72,Card,58,Male
+1338,2023-04-09,North,Kolkata,Home & Kitchen,Bedsheet,1,1108.85,15,942.52,942.52,339.64,Card,27,Other
+1339,2023-07-20,South,Pune,Electronics,Headphones,3,4689.64,15,3986.19,11958.57,4694.16,Card,33,Other
+1340,2024-08-09,North,Mumbai,Electronics,Smartwatch,3,2598.93,20,2079.14,6237.42,2163.12,Card,46,Male
+1341,2023-01-21,East,Mumbai,Sports,Football,2,4191.01,5,3981.46,7962.92,2826.68,Card,48,Other
+1342,2024-03-10,East,Pune,Sports,Yoga Mat,2,665.47,5,632.2,1264.4,510.8,Card,47,Other
+1343,2024-02-20,East,Pune,Sports,Dumbbells,1,1225.61,10,1103.05,1103.05,267.32,Wallet,25,Female
+1344,2024-05-04,East,Bangalore,Home & Kitchen,Bedsheet,3,1386.3,0,1386.3,4158.9,1737.48,Cash,31,Male
+1345,2023-01-10,North,Pune,Home & Kitchen,Lamp,3,1948.18,20,1558.54,4675.62,2240.07,Cash,49,Female
+1346,2023-11-14,West,Bangalore,Home & Kitchen,Bedsheet,3,4642.32,20,3713.86,11141.58,4595.22,Wallet,28,Female
+1347,2023-06-22,West,Pune,Clothing,Saree,4,1958.89,10,1763.0,7052.0,2402.2,Cash,55,Other
+1348,2023-03-15,North,Kolkata,Home & Kitchen,Mixer,4,4343.51,10,3909.16,15636.64,6831.92,Wallet,37,Female
+1349,2024-05-14,West,Delhi,Home & Kitchen,Storage Box,4,3116.21,20,2492.97,9971.88,3022.92,UPI,21,Female
+1350,2023-05-13,North,Bangalore,Beauty,Perfume,4,1480.78,5,1406.74,5626.96,2272.36,Card,30,Male
+1351,2024-10-06,North,Delhi,Grocery,Rice Bag,4,878.73,10,790.86,3163.44,1158.76,UPI,30,Other
+1352,2024-03-07,South,Mumbai,Electronics,Smartwatch,2,2889.74,5,2745.25,5490.5,1925.06,Wallet,39,Female
+1353,2023-12-15,East,Pune,Clothing,Saree,5,4078.64,0,4078.64,20393.2,6907.05,Card,37,Other
+1354,2023-01-03,East,Delhi,Beauty,Body Lotion,1,3840.15,20,3072.12,3072.12,880.87,Cash,33,Other
+1355,2023-08-03,East,Mumbai,Electronics,Speaker,2,1290.43,10,1161.39,2322.78,850.06,Cash,20,Other
+1356,2024-10-21,West,Bangalore,Sports,Football,5,4115.05,10,3703.54,18517.7,5496.25,Card,50,Other
+1357,2023-05-24,East,Kolkata,Sports,Shoes,3,4672.08,5,4438.48,13315.44,5466.72,Card,40,Male
+1358,2023-02-25,North,Delhi,Clothing,Saree,1,4267.1,15,3627.04,3627.04,1731.23,UPI,55,Female
+1359,2023-09-08,East,Pune,Clothing,Kurta,1,2778.41,10,2500.57,2500.57,1124.65,Wallet,42,Other
+1360,2023-08-25,East,Kolkata,Sports,Dumbbells,4,3879.09,0,3879.09,15516.36,4628.76,Wallet,39,Other
+1361,2023-11-05,East,Kolkata,Clothing,Jacket,4,3633.5,0,3633.5,14534.0,3626.44,Cash,51,Other
+1362,2023-06-14,East,Pune,Clothing,Jeans,1,1585.72,20,1268.58,1268.58,455.15,Card,33,Male
+1363,2024-05-31,West,Pune,Electronics,Headphones,5,4739.82,0,4739.82,23699.1,10143.6,Wallet,55,Female
+1364,2023-05-24,West,Pune,Grocery,Spices,4,2940.71,0,2940.71,11762.84,4273.6,Cash,27,Other
+1365,2024-12-27,East,Bangalore,Clothing,Kurta,1,4122.12,0,4122.12,4122.12,2013.08,Cash,44,Other
+1366,2023-03-30,West,Pune,Electronics,Laptop,3,4173.1,10,3755.79,11267.37,4448.43,UPI,46,Other
+1367,2023-03-19,North,Chennai,Sports,Dumbbells,3,4195.85,15,3566.47,10699.41,3180.21,Card,54,Female
+1368,2023-05-13,North,Pune,Sports,Football,3,175.94,0,175.94,527.82,219.63,Wallet,19,Other
+1369,2023-04-14,West,Mumbai,Sports,Football,3,4341.66,0,4341.66,13024.98,2985.81,UPI,44,Male
+1370,2023-11-11,South,Mumbai,Beauty,Face Cream,3,4481.49,0,4481.49,13444.47,4501.11,Card,18,Other
+1371,2023-05-29,West,Chennai,Clothing,Kurta,2,4802.0,0,4802.0,9604.0,2783.84,Wallet,32,Female
+1372,2023-11-12,South,Mumbai,Beauty,Perfume,3,3690.23,15,3136.7,9410.1,3622.47,UPI,53,Female
+1373,2023-01-08,North,Chennai,Clothing,T-Shirt,3,3366.87,5,3198.53,9595.59,4051.08,Wallet,58,Male
+1374,2023-12-14,North,Mumbai,Sports,Yoga Mat,5,2284.08,15,1941.47,9707.35,2183.3,Card,47,Male
+1375,2024-10-11,East,Mumbai,Sports,Football,4,853.05,15,725.09,2900.36,1218.72,Card,38,Male
+1376,2023-05-10,North,Delhi,Home & Kitchen,Cookware Set,1,2578.29,0,2578.29,2578.29,1172.65,Wallet,42,Other
+1377,2024-01-15,East,Pune,Electronics,Smartphone,3,3674.65,0,3674.65,11023.95,2881.8,UPI,34,Other
+1378,2023-06-22,West,Mumbai,Sports,Yoga Mat,1,2293.09,20,1834.47,1834.47,627.06,Card,52,Female
+1379,2024-12-02,East,Kolkata,Electronics,Speaker,3,2470.6,5,2347.07,7041.21,1645.17,UPI,19,Other
+1380,2024-10-20,North,Mumbai,Electronics,Smartphone,1,2079.48,0,2079.48,2079.48,451.26,Cash,43,Other
+1381,2024-03-17,East,Mumbai,Electronics,Headphones,4,2239.25,20,1791.4,7165.6,3301.16,Wallet,32,Female
+1382,2023-12-07,West,Chennai,Home & Kitchen,Cookware Set,3,2001.68,5,1901.6,5704.8,2587.41,UPI,52,Male
+1383,2023-09-16,South,Hyderabad,Home & Kitchen,Bedsheet,1,165.71,15,140.85,140.85,29.31,UPI,59,Male
+1384,2024-11-18,East,Mumbai,Beauty,Makeup Kit,5,994.86,0,994.86,4974.3,1656.4,Wallet,34,Male
+1385,2023-12-15,South,Pune,Electronics,Laptop,4,2220.56,15,1887.48,7549.92,3100.72,Wallet,36,Female
+1386,2023-03-16,South,Hyderabad,Home & Kitchen,Lamp,5,3304.57,10,2974.11,14870.55,6172.75,Card,27,Female
+1387,2023-02-15,South,Mumbai,Sports,Cricket Bat,1,4973.51,0,4973.51,4973.51,1109.26,Wallet,45,Male
+1388,2023-05-11,South,Hyderabad,Grocery,Spices,1,722.8,15,614.38,614.38,250.13,Cash,54,Male
+1389,2024-02-17,North,Delhi,Clothing,Jacket,5,313.94,0,313.94,1569.7,329.15,Wallet,29,Female
+1390,2023-06-09,South,Hyderabad,Sports,Cricket Bat,5,4991.35,5,4741.78,23708.9,10494.45,Card,32,Other
+1391,2023-10-12,North,Kolkata,Beauty,Perfume,2,3354.09,5,3186.39,6372.78,1501.14,Wallet,56,Male
+1392,2023-05-04,South,Kolkata,Sports,Shoes,4,3629.63,10,3266.67,13066.68,4933.8,Wallet,32,Female
+1393,2024-12-03,West,Hyderabad,Electronics,Speaker,5,2633.88,15,2238.8,11194.0,2895.75,Wallet,26,Male
+1394,2024-02-19,East,Kolkata,Electronics,Smartwatch,2,3534.96,20,2827.97,5655.94,2620.14,Card,39,Other
+1395,2023-06-03,East,Delhi,Electronics,Smartphone,3,2109.12,0,2109.12,6327.36,3029.94,UPI,35,Female
+1396,2023-06-11,North,Pune,Sports,Shoes,2,2358.26,5,2240.35,4480.7,1006.68,Wallet,26,Female
+1397,2023-07-19,North,Kolkata,Home & Kitchen,Mixer,1,718.79,10,646.91,646.91,196.1,Wallet,38,Male
+1398,2023-01-16,East,Delhi,Beauty,Makeup Kit,4,327.37,0,327.37,1309.48,371.92,Cash,49,Other
+1399,2024-05-30,North,Bangalore,Sports,Football,5,478.01,15,406.31,2031.55,616.2,Cash,45,Female
+1400,2024-02-06,North,Bangalore,Grocery,Rice Bag,5,4462.08,10,4015.87,20079.35,6917.4,Card,32,Male
+1401,2024-05-11,North,Hyderabad,Sports,Cricket Bat,4,1509.82,15,1283.35,5133.4,1442.64,Card,43,Male
+1402,2024-05-08,East,Hyderabad,Sports,Yoga Mat,2,3183.17,10,2864.85,5729.7,1642.5,Card,23,Male
+1403,2023-05-21,North,Mumbai,Sports,Shoes,4,1452.05,20,1161.64,4646.56,1649.96,Wallet,29,Female
+1404,2023-07-20,North,Hyderabad,Beauty,Perfume,3,1953.9,10,1758.51,5275.53,2073.72,Wallet,41,Other
+1405,2024-07-09,North,Mumbai,Clothing,T-Shirt,2,4813.25,5,4572.59,9145.18,3995.0,UPI,59,Female
+1406,2023-03-22,South,Chennai,Clothing,T-Shirt,5,1244.76,15,1058.05,5290.25,2431.25,UPI,46,Male
+1407,2023-04-06,West,Delhi,Clothing,Jeans,4,1217.69,10,1095.92,4383.68,1412.56,Wallet,42,Female
+1408,2024-01-28,East,Kolkata,Beauty,Perfume,1,1348.36,10,1213.52,1213.52,565.6,Card,35,Other
+1409,2023-01-11,East,Kolkata,Grocery,Cooking Oil,1,964.42,10,867.98,867.98,292.92,UPI,58,Male
+1410,2024-05-27,South,Chennai,Sports,Cricket Bat,5,3854.17,5,3661.46,18307.3,5120.7,Cash,43,Male
+1411,2024-07-31,South,Kolkata,Grocery,Snacks,2,505.42,0,505.42,1010.84,222.18,UPI,47,Male
+1412,2023-02-22,West,Kolkata,Home & Kitchen,Mixer,5,1338.55,10,1204.7,6023.5,2319.35,Cash,56,Female
+1413,2023-08-25,West,Chennai,Grocery,Milk Pack,2,936.76,20,749.41,1498.82,520.48,Cash,55,Other
+1414,2023-04-26,South,Bangalore,Clothing,Jeans,1,3097.11,10,2787.4,2787.4,1303.88,Card,34,Male
+1415,2024-04-06,South,Bangalore,Sports,Shoes,4,155.53,0,155.53,622.12,129.4,UPI,30,Other
+1416,2024-07-13,West,Kolkata,Sports,Yoga Mat,3,2749.71,5,2612.22,7836.66,1813.98,Card,41,Female
+1417,2023-04-23,North,Pune,Beauty,Body Lotion,5,4310.69,15,3664.09,18320.45,6030.3,Wallet,35,Other
+1418,2024-12-30,East,Bangalore,Beauty,Makeup Kit,3,145.62,20,116.5,349.5,94.59,Cash,27,Male
+1419,2024-06-20,North,Hyderabad,Grocery,Spices,1,4449.28,15,3781.89,3781.89,1353.8,Wallet,20,Female
+1420,2023-01-19,South,Kolkata,Home & Kitchen,Cookware Set,2,3793.03,5,3603.38,7206.76,1831.76,UPI,24,Male
+1421,2024-09-14,North,Chennai,Sports,Shoes,4,2706.47,10,2435.82,9743.28,2458.84,Card,47,Female
+1422,2023-01-23,South,Pune,Electronics,Headphones,3,2452.53,5,2329.9,6989.7,3140.22,UPI,21,Male
+1423,2023-01-06,West,Pune,Electronics,Smartwatch,5,2257.09,10,2031.38,10156.9,4270.1,Cash,39,Other
+1424,2024-03-07,North,Mumbai,Electronics,Headphones,3,1671.25,0,1671.25,5013.75,2430.9,UPI,43,Male
+1425,2024-07-17,West,Delhi,Clothing,Kurta,5,2277.95,10,2050.15,10250.75,4123.55,Cash,18,Other
+1426,2024-05-15,East,Hyderabad,Grocery,Rice Bag,5,1701.19,20,1360.95,6804.75,3011.45,UPI,31,Other
+1427,2023-04-14,West,Chennai,Grocery,Spices,2,1671.49,15,1420.77,2841.54,1315.68,Wallet,24,Female
+1428,2024-07-09,West,Mumbai,Beauty,Face Cream,2,2207.86,5,2097.47,4194.94,1267.04,Wallet,38,Male
+1429,2023-02-08,East,Bangalore,Beauty,Makeup Kit,4,3841.66,0,3841.66,15366.64,4889.6,UPI,55,Male
+1430,2024-11-12,South,Bangalore,Electronics,Headphones,1,362.53,10,326.28,326.28,76.9,Wallet,54,Other
+1431,2023-03-29,South,Mumbai,Grocery,Cooking Oil,1,2569.94,0,2569.94,2569.94,569.75,UPI,18,Male
+1432,2024-11-12,North,Mumbai,Beauty,Perfume,4,3639.63,0,3639.63,14558.52,6998.64,Wallet,18,Male
+1433,2024-01-14,South,Mumbai,Grocery,Cooking Oil,2,4893.5,0,4893.5,9787.0,2975.68,Card,46,Female
+1434,2024-07-09,North,Mumbai,Sports,Dumbbells,2,3232.99,0,3232.99,6465.98,2398.26,Wallet,53,Female
+1435,2024-09-07,East,Chennai,Electronics,Speaker,5,4449.98,15,3782.48,18912.4,9047.8,UPI,20,Other
+1436,2023-08-05,West,Hyderabad,Sports,Dumbbells,3,1558.1,15,1324.38,3973.14,1506.93,Card,54,Male
+1437,2024-12-09,South,Chennai,Sports,Yoga Mat,2,2680.32,10,2412.29,4824.58,1887.5,Wallet,55,Female
+1438,2023-05-05,South,Kolkata,Beauty,Shampoo,5,4865.87,5,4622.58,23112.9,8486.6,Wallet,41,Female
+1439,2024-03-17,East,Kolkata,Beauty,Perfume,1,1305.4,0,1305.4,1305.4,414.71,Cash,45,Male
+1440,2023-09-06,North,Hyderabad,Clothing,Jacket,5,1118.43,10,1006.59,5032.95,2223.9,Cash,27,Female
+1441,2024-11-13,South,Bangalore,Beauty,Shampoo,5,3716.94,10,3345.25,16726.25,7872.1,Cash,48,Male
+1442,2024-10-04,East,Bangalore,Sports,Dumbbells,1,1023.09,10,920.78,920.78,317.16,Cash,38,Other
+1443,2024-02-12,West,Mumbai,Electronics,Smartphone,2,3939.56,15,3348.63,6697.26,2809.16,Cash,42,Other
+1444,2024-01-22,North,Kolkata,Clothing,Kurta,3,4725.8,15,4016.93,12050.79,3025.86,Wallet,34,Male
+1445,2023-01-29,East,Chennai,Electronics,Headphones,5,728.11,10,655.3,3276.5,1191.05,UPI,39,Female
+1446,2023-04-28,North,Kolkata,Home & Kitchen,Storage Box,5,3562.55,10,3206.3,16031.5,5338.4,Wallet,52,Female
+1447,2024-09-04,East,Pune,Sports,Dumbbells,4,894.64,20,715.71,2862.84,1286.76,Card,53,Male
+1448,2024-09-04,South,Pune,Beauty,Body Lotion,3,4926.15,20,3940.92,11822.76,3369.3,UPI,45,Other
+1449,2023-03-30,North,Mumbai,Grocery,Rice Bag,1,3308.38,10,2977.54,2977.54,729.85,Cash,34,Female
+1450,2023-05-05,North,Chennai,Clothing,Jacket,5,2516.91,20,2013.53,10067.65,3479.35,Card,33,Male
+1451,2023-12-16,South,Chennai,Sports,Cricket Bat,3,3403.52,15,2892.99,8678.97,3563.43,Cash,59,Female
+1452,2023-08-06,South,Hyderabad,Electronics,Smartwatch,5,692.71,10,623.44,3117.2,1219.35,Card,30,Other
+1453,2023-08-13,West,Chennai,Clothing,Saree,3,3448.83,10,3103.95,9311.85,3451.95,Card,57,Other
+1454,2024-06-02,South,Kolkata,Home & Kitchen,Bedsheet,2,4222.56,5,4011.43,8022.86,2356.86,UPI,28,Female
+1455,2024-03-10,West,Mumbai,Beauty,Body Lotion,1,4484.86,10,4036.37,4036.37,1671.55,UPI,24,Female
+1456,2024-03-13,West,Delhi,Home & Kitchen,Cookware Set,5,997.53,15,847.9,4239.5,1179.95,Wallet,33,Other
+1457,2024-03-31,West,Pune,Beauty,Shampoo,3,730.04,5,693.54,2080.62,612.09,Cash,26,Other
+1458,2024-08-26,North,Hyderabad,Sports,Cricket Bat,2,3167.32,15,2692.22,5384.44,1767.6,Cash,22,Female
+1459,2023-11-08,West,Mumbai,Clothing,Jeans,3,1162.39,15,988.03,2964.09,1041.27,Card,41,Other
+1460,2024-01-06,North,Mumbai,Electronics,Speaker,1,3025.87,5,2874.58,2874.58,1063.21,Wallet,29,Male
+1461,2023-09-06,East,Kolkata,Electronics,Speaker,1,4143.16,20,3314.53,3314.53,973.24,UPI,20,Male
+1462,2024-07-25,West,Delhi,Grocery,Cooking Oil,5,1045.62,5,993.34,4966.7,1565.15,UPI,32,Other
+1463,2024-09-04,West,Bangalore,Beauty,Perfume,5,1021.28,15,868.09,4340.45,1628.85,Wallet,21,Other
+1464,2023-11-14,South,Hyderabad,Sports,Shoes,1,3697.72,5,3512.83,3512.83,1056.94,Cash,40,Other
+1465,2024-02-07,West,Hyderabad,Grocery,Rice Bag,2,1159.02,20,927.22,1854.44,687.08,Wallet,18,Other
+1466,2023-01-06,West,Kolkata,Grocery,Milk Pack,3,2650.23,10,2385.21,7155.63,3089.37,Card,50,Other
+1467,2023-01-08,North,Pune,Beauty,Perfume,4,724.3,5,688.08,2752.32,735.96,UPI,31,Female
+1468,2023-08-05,East,Mumbai,Home & Kitchen,Lamp,2,3259.31,10,2933.38,5866.76,1450.78,Card,58,Female
+1469,2024-08-29,West,Pune,Clothing,Jeans,4,3289.06,10,2960.15,11840.6,5227.24,Card,43,Male
+1470,2024-02-15,West,Delhi,Beauty,Face Cream,1,2347.38,10,2112.64,2112.64,504.08,Card,20,Female
+1471,2023-06-05,South,Kolkata,Sports,Dumbbells,1,4807.5,10,4326.75,4326.75,870.16,Card,39,Female
+1472,2023-04-23,West,Chennai,Clothing,Jacket,1,4577.69,15,3891.04,3891.04,1509.59,UPI,30,Other
+1473,2024-01-06,South,Pune,Home & Kitchen,Bedsheet,1,4188.7,10,3769.83,3769.83,1190.32,UPI,50,Female
+1474,2024-03-19,South,Pune,Sports,Yoga Mat,1,4107.73,0,4107.73,4107.73,1335.95,UPI,50,Male
+1475,2024-08-15,East,Mumbai,Home & Kitchen,Storage Box,5,4283.94,5,4069.74,20348.7,6852.3,Card,30,Other
+1476,2024-09-25,East,Pune,Beauty,Shampoo,3,565.96,15,481.07,1443.21,661.74,UPI,45,Male
+1477,2024-12-26,North,Hyderabad,Home & Kitchen,Mixer,3,2531.98,20,2025.58,6076.74,1801.17,UPI,50,Male
+1478,2024-01-13,North,Chennai,Grocery,Cooking Oil,5,4793.37,20,3834.7,19173.5,4942.1,Wallet,41,Female
+1479,2024-04-16,South,Mumbai,Grocery,Milk Pack,5,1750.55,15,1487.97,7439.85,1797.95,Card,24,Other
+1480,2023-08-14,South,Kolkata,Sports,Cricket Bat,1,4266.56,15,3626.58,3626.58,776.81,Wallet,32,Female
+1481,2023-05-20,East,Chennai,Clothing,Kurta,4,2581.12,20,2064.9,8259.6,3819.84,Wallet,22,Female
+1482,2023-05-10,North,Mumbai,Electronics,Smartwatch,2,1203.68,0,1203.68,2407.36,903.96,Card,43,Male
+1483,2024-05-31,South,Chennai,Clothing,Jacket,1,4659.2,15,3960.32,3960.32,1713.59,UPI,43,Female
+1484,2024-07-04,North,Kolkata,Sports,Dumbbells,2,4120.82,15,3502.7,7005.4,2348.34,Card,18,Other
+1485,2023-03-02,South,Hyderabad,Clothing,Jacket,2,3941.25,15,3350.06,6700.12,2607.58,Wallet,26,Other
+1486,2024-04-20,East,Mumbai,Beauty,Body Lotion,2,2845.71,5,2703.42,5406.84,2127.84,UPI,20,Female
+1487,2024-10-20,South,Chennai,Electronics,Smartphone,2,2968.34,0,2968.34,5936.68,1827.64,Wallet,24,Male
+1488,2024-10-01,South,Bangalore,Electronics,Smartwatch,5,684.43,10,615.99,3079.95,1118.5,Card,38,Male
+1489,2024-10-04,North,Kolkata,Grocery,Cooking Oil,4,4151.04,20,3320.83,13283.32,5072.84,Cash,42,Male
+1490,2024-05-14,West,Chennai,Clothing,Jeans,1,399.96,15,339.97,339.97,69.09,Wallet,59,Female
+1491,2023-04-27,West,Delhi,Electronics,Smartphone,5,328.76,15,279.45,1397.25,598.7,UPI,21,Female
+1492,2023-08-06,South,Chennai,Home & Kitchen,Lamp,4,3549.29,10,3194.36,12777.44,4193.48,Card,53,Female
+1493,2024-05-31,South,Delhi,Grocery,Milk Pack,1,3189.88,20,2551.9,2551.9,758.7,Cash,44,Male
+1494,2023-04-09,North,Mumbai,Grocery,Spices,5,1241.92,5,1179.82,5899.1,1495.65,Wallet,52,Other
+1495,2024-01-15,East,Kolkata,Sports,Football,5,655.6,0,655.6,3278.0,1351.2,Card,29,Female
+1496,2024-07-11,West,Pune,Home & Kitchen,Cookware Set,3,4607.37,0,4607.37,13822.11,3508.17,UPI,39,Male
+1497,2023-02-17,North,Hyderabad,Home & Kitchen,Storage Box,2,1899.13,15,1614.26,3228.52,1011.52,Card,50,Other
+1498,2023-04-09,North,Mumbai,Beauty,Perfume,2,1560.39,15,1326.33,2652.66,864.14,Card,33,Male
+1499,2023-09-11,West,Delhi,Beauty,Makeup Kit,3,3556.93,10,3201.24,9603.72,3665.73,Cash,26,Other
+1500,2023-09-10,West,Delhi,Home & Kitchen,Lamp,1,688.78,0,688.78,688.78,243.3,Cash,25,Female
