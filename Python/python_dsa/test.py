@@ -94,18 +94,10 @@
 # print("Frequency of characters:", freq)
 
 
-# Palindrome string
-str="A man a plan a canal Panama"
-cleaned_str=str.replace(" ","").lower()
-if cleaned_str==cleaned_str[::-1]:
-    print("Palindrome")
-else:
-    print("Not a palindrome")
-    
-# Longest word
-
-# Second largest number
-
-# Move zeros to end
-
-# String compression
+# # Palindrome string
+# str="A man a plan a canal Panama"
+# cleaned_str=str.replace(" ","").lower()
+# if cleaned_str==cleaned_str[::-1]:
+#     print("Palindrome")
+# else:
+#     print("Not a palindrome")

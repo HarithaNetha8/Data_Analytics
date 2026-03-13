@@ -86,12 +86,15 @@
 # else:
 #      print('not perfect number')
 
+
 # # 10) CHECK IF A NUMBER IS A POWER OF 2 OR NOT
 # n=14
 # if n == 2**int(n**0.5):
 #     print('power of 2')
 # else:
 #     print('not power of 2')
+
+
 
 # # 11) SUM OF DIGITS IN A NUMBER
 # n=12345
@@ -100,6 +103,7 @@
 #     sum+=n%10
 #     n=n//10
 # print(sum)
+
 
 # 12) FACTORIAL OF A NUMBER
 # n=5
@@ -170,6 +174,8 @@
 # for i in range(1,n+1):
 #     sum+=i
 # print(sum)
+
+
 # 19) ALL PRIME BETWEEN TWO NUMBERS
 # n1=10
 # n2=50
